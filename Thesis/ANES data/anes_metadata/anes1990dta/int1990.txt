@@ -1,0 +1,3072 @@
+Version 01 Codebook
+-------------------
+CODEBOOK INTRODUCTION FILE
+1990 POST-ELECTION STUDY
+(1990.TV)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      AMERICAN NATIONAL ELECTION STUDIES
+
+                             1990 POST ELECTION STUDY
+
+ 
+
+
+
+
+
+
+                             Principal Investigators
+
+                                Warren E. Miller
+                                Donald R. Kinder
+                              Steven J. Rosenstone
+                        and the National Election Studies
+
+                          Center for Political Studies
+                             University of Michigan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ICPSR ARCHIVE NUMBER 9548
+
+
+
+
+
+
+                             BIBLIOGRAPHIC CITATION
+
+
+          Publications based  on   ICPSR   data   collections   should
+          acknowledge   those  sources  by  means   of   bibliographic
+          citations.  To ensure  that  such  source  attributions  are
+          captured   for  social  science   bibliographic   utilities,
+          citations must appear  in  footnotes  or  in  the  reference
+          section of  publications.   The  bibliographic  citation for
+          this data collection is:
+
+
+                Miller, Warren E., Donald R. Kinder, Steven J.
+                Rosenstone, and the National Election Studies.
+                AMERICAN NATIONAL ELECTION STUDY, 1990:
+                POST-ELECTION SURVEY [Computer file]. Conducted
+                by University of Michigan, Center for Political
+                Studies. 2nd ICPSR ed. Ann Arbor, MI:
+                Inter-university Consortium for Political and
+                Social Research [producer and distributor], 1992.
+
+
+
+                REQUEST FOR INFORMATION ON USE OF ICPSR RESOURCES
+
+          To provide funding agencies with essential information about
+          use of archival resources and to facilitate the exchange  of
+          information about  ICPSR  participants' research activities,
+          users of  ICPSR  data  are  requested  to  send   to   ICPSR
+          bibliographic citations  for  each  completed  manuscript or
+          thesis abstract.  Please indicate in a  cover  letter  which
+          data were used.
+
+
+
+                                 DATA DISCLAIMER
+
+          The original collector of the data, ICPSR, and the  relevant
+          funding agency  bear  no  responsibility  for  uses  of this
+          collection or for interpretations or inferences  based  upon
+          such uses.
+
+
+
+
+
+
+
+                   TABLE OF CONTENTS
+
+
+           Note: >>sections in the codebook introduction and
+           codebook appendix can be navigated in the
+           machine-readable files by searching ">>".
+
+
+
+INTRODUCTORY MATERIAL  (file int1990.cbk)
+---------------------
+>> 1990 STUDY DESCRIPTION
+>> 1990 SURVEY CONTENT AND ADMINISTRATION
+>> 1990 SAMPLING INFORMATION
+>> 1990 VOTE VALIDATION AND ELECTION ADMINISTRATION SURVEY DATA
+>> 1990 NES STAFF AND TECHNICAL PAPER
+>> 1990 LIST OF PILOT STUDY REPORTS-1989
+>> 1990 CODEBOOK INFORMATION
+>> 1990 ICPSR PROCESSING INFORMATION
+>> 1990 VARIABLE DESCRIPTION LIST
+
+
+CODEBOOK
+--------
+    1990 variables
+
+
+APPENDICES  (file app1990.cbk)
+----------
+>> 1980 CENSUS DEFINITIONS
+>> 1990 PARTY/CANDIDATE MASTER CODE
+>> 1990 CAMPAIGN ISSUES MASTER CODE
+>> 1990 CANDIDATE NUMBER CODE AND LIST
+>> 1990 IMPORTANT PROBLEMS MASTER CODE
+>> 1990 PARTY DIFFERENCES MASTER CODE
+>> 1990 RELIGIOUS PREFERENCE MASTER CODE
+>> 1980 CENSUS OCCUPATION CODE
+>> 1980 CENSUS INDUSTRY CODE
+>> 1990 ICPSR OCCUPATION RECODES
+>> 1990 NATIONALITY AND ETHNIC CODE
+>> 1990 STATE AND COUNTRY CODE
+>> CITIES WITH POPULATION OF 25,000 AND OVER, 1990 Study
+
+
+
+>> 1990 STUDY DESCRIPTION
+
+          The NES/CPS American National Election Study 1990 was
+          conducted by the Center for Political Studies of the
+          Institute for Social Research, under the general direction
+          of principal investigators Warren E. Miller, Donald R.
+          Kinder and Steven J. Rosenstone. Santa Traugott is the
+          Project Manager for the National Election Studies.  Giovanna
+          Morchio was the 1990 Election Study manager for NES,
+          overseeing the study from very early planning stages through
+          data release.
+
+          This is the twenty-first in a series of studies of American
+          national elections produced by the Political Behavior
+          Program of the Survey Research Center and the Center for
+          Political Studies, and it is the seventh such study to be
+          conducted under the auspices of National Science Foundation
+          Grants providing long-term support for the national election
+          studies.  Both the 1990 National Election Study and the Vote
+          Validation Study were funded under grant number SES-8808361.
+          Since 1978 the NES election studies have been designed by a
+          National Board of Overseers, the members of which meet
+          several times a year to plan content and administration of
+          the major study components.
+
+          Board members during the planning of the 1990 National
+          Election Study included:  Morris P. Fiorina, Harvard
+          University, Chair; Richard A. Brody, Stanford University;
+          Stanley Feldman, University of Kentucky; Edie N. Goldenberg,
+          University of Michigan; Mary Jackman, University of
+          California at Davis, Gary C. Jacobson, University of
+          California at San Diego; Stanley Kelley, Jr., Princeton
+          University; Thomas Mann, The Brookings Institution; Douglas
+          Rivers, Stanford University; John Zaller, the University of
+          California at Los Angeles; Warren E. Miller, Arizona State
+          University, ex officio; Donald R. Kinder, and Steven J.
+          Rosenstone, University of Michigan, ex officio.
+
+          As part of the planning process, a special planning
+          committee was appointed, a pilot study conducted, and
+          stimulus letters sent to the members of the scholarly
+          community soliciting input on study plans.  The 1990 Study
+          Planning Committee included Kinder and Miller, several Board
+          members (Mann, Co-chair; Brody; Feldman; Jackman; Miller, ex
+          officio; and Rosenstone, ex officio and Co-chair), and four
+          other scholars (Jon Krosnick, Ohio State University; Gregory
+          Markus and Vincent Price, University of Michigan; and David
+          Leege, Notre Dame University).
+
+          A two-wave pilot study was carried out in July and September
+          of 1989 for the purpose of developing new instrumentation
+          for the 1990 Election Study.  New items were tested in the
+          area of religious attitudes and denominational
+          affiliation, media exposure and the type of information
+          recalled, and individualism.  A significant portion of the
+          study was devoted to experiments contrasting different
+          instrumentation for issue questions:  seven-point scales
+          versus branching response alternatives; "framed" versus
+          "stripped" questions; unipolar versus bipolar scales; and
+          filtered versus unfiltered questions.  Data from the 1989
+          Pilot Study are available through the Inter-university
+          Consortium for Political and Social Research (ICPSR 9295).
+          Results from the pilot study (as summarized in Pilot Study
+          Reports, page xix) were used by the Planning Committee in
+          formulating recommendations to the Board about study content
+          for the 1990 Election Study.
+
+          The 1991 membership of the NES Board of Overseers is:
+          Stanley Feldman, State University of New York, Stony Brook;
+          Morris J. Fiorina, Harvard University; Mary Jackman,
+          University of California, Davis; Gary Jacobson, University
+          of California, San Diego; David Leege, Notre Dame
+          University; Thomas Mann, The Brookings Institution; Douglas
+          Rivers, Stanford University; John Zaller, University of
+          California, Los Angeles.
+
+
+
+
+
+>> 1990 SURVEY CONTENT AND ADMINISTRATION
+
+          SURVEY CONTENT
+
+          The Board of Overseers balanced a number of considerations
+          in selecting content for the Post-Election Survey. There
+          was, as always, the necessity of maintaining continuity with
+          past surveys.  All congressional time-series items were
+          evaluated by the Board, and input was solicited from the
+          user community about whether each should be used for the
+          1990 Study.
+
+          The items that fall into the time-series, or "core"
+          category, are:  campaign attention; likes and dislikes of
+          political parties; likes and dislikes of congressional
+          candidates; contact with Congressperson or candidate; vote
+          for Representative, Senator and Governor; most important
+          problem; campaign activities; system support and efficacy
+          items; feeling thermometer ratings of congressional
+          candidates and groups; retrospective economic evaluations
+          (national and individual); liberal-conservative scale (with
+          proximities); party identification, seven-point issue scales
+          with placements; federal budget preferences; views on
+          abortion; and the standard and extensive battery of
+          demographic questions.
+
+          A number of questions are new or relatively new to the
+          Study. Some came from the piloting work described above--
+          e.g., the new measures of denominational affiliation;
+          individualism; and attitudes toward abortion and
+          discrimination against women. Others were designed to
+          reflect topical concerns of the campaign.  Items in this
+          category include some foreign policy issue items relating to
+          changes in Eastern Europe and to events in the Persian Gulf;
+          and knowledge of and attitudes about the failures of the
+          savings and loans financial institutions and about the
+          federal budget deficit.
+
+          SURVEY ADMINISTRATION
+
+          Two forms were used in order to incorporate the maximum
+          amount of content.  (Even so, the average length of the
+          survey interview was 78 minutes.)  Half of the study sample
+          was randomly assigned to Form A, and the other half to Form
+          B. More than 75 percent of the questionnaire content was the
+          same in both forms; Form A had additional questions relating
+          to values and individualism; Form B had additional content
+          relating to foreign relations. In addition, there was a
+          question form experiment (branching alternatives vs. a
+          seven-point scale).
+
+          In the Post-election survey, respondents are asked lengthy
+          series of questions about their particular Congresspersons
+          and Senators. Interviewers must pre-edit questionnaires to
+          fill in the names appropriate for the state and
+          congressional district in which the respondent is living (or
+          was living during the pre-election interview).  Interviewers
+          are sent "candidate lists"  for each congressional district
+          in the sample segments in which they are interviewing.  Each
+          candidate and Senator on that list is assigned a particular
+          number that reflects his or her incumbency status and party.
+          (See Candidate Number Code)  Particular
+          questions in the survey require the insertion by the
+          interviewer during pre-editing of the names of candidates
+          with specific numbers.  See, for example, Q. B13, the
+          Feeling Thermometer.  The Candidate Lists used by the
+          interviewers, which show which candidates are associated
+          with which congressional district and with which numbers
+          they are tagged, can be found in the Appendix (Note 4) of
+          this documentation.
+
+          NOTES ON CONFIDENTIAL VARIABLES
+
+          Starting with the 1986 Election Study, occupation code
+          variables have been released in somewhat less detail than in
+          years past.  The dataset includes a two-digit code with 71
+          categories corresponding to Census Bureau occupational
+          groupings.  Those who have need of the full occupation code
+          for their research should contact the NES project staff for
+          information about the conditions under which access to these
+          data may be provided.
+
+          Similarly, the National Election Studies have not included
+          information for census tracts or minor civil divisions since
+          1978. Permission to use the more detailed geographic
+          information for scholarly research may be obtained from the
+          Board of Overseers. More information about this is available
+          from NES project staff.
+
+          Coding of the new religious denomination variable is in some
+          cases based on an alphabetic "other, please specify"
+          variable (Variable 541).  This variable is restricted for
+          reasons of confidentiality, but access may be provided to
+          legitimate scholars under established NES procedures.
+
+          OPEN-ENDED MATERIALS
+
+          Traditionally, the Election Studies have contained several
+          minutes of open-ended responses (for example, the
+          congressional candidates likes and dislikes).  These
+          questions are put into Master Codes by the SRC coding
+          section.  Other scholars have developed alternative or
+          supplemental coding schemes for the questions (for example,
+          the levels of conceptualization, released as ICPSR #8151).
+          The Board of Overseers wishes to encourage these efforts but
+          in ways that respect the NES and SRC obligation to protect
+          the privacy and anonymity of respondents.  Circumstances
+          under which individuals may have access to transcribed
+          versions of these questions have been worked out and those
+          interested should contact the NES project staff for further
+          details.
+
+
+
+                                     Table 1
+
+                        FIELD ADMINISTRATION INFORMATION
+
+
+                         Response Rate:            71.4%
+
+                        Length of Interview:     78.0 min
+
+                          No. of Respondents:      2000
+
+
+
+
+
+
+                                     Table 2
+
+                 NUMBER AND CUMULATIVE PERCENT OF INTERVIEWS IN
+                   TWO-WEEK INTERVALS FROM ELECTION DAY, 1990
+
+
+                       Nov. 07-Nov. 17       836      42%
+
+                       Nov. 18-Dec. 01       594      72%
+
+                       Dec. 02-Dec. 22       413      92%
+
+                       Dec. 23-Jan. 05       106      97%
+
+                       Jan. 06-Jan. 26        51     100%
+
+
+
+
+
+
+>> 1990 SAMPLING INFORMATION [1]
+
+          STUDY POPULATION
+
+          The study population for the 1990 NES is defined to include
+          all United States citizens of voting age on or before the
+          1990 Election Day.  Eligible citizens must have resided in
+          housing units, other than on military reservations, in the
+          48 coterminous states.  This definition excludes persons
+          living in Alaska or Hawaii and requires eligible persons to
+          have been both a United States citizen and 18 years of age
+          on or before the 6th of November 1990.
+
+          MULTI-STAGE AREA PROBABILITY SAMPLE DESIGN
+
+          The 1990 NES is based on a multi-stage area probability
+          sample selected from the Survey Research Center's (SRC)
+          National Sample design.  Identification of the 1990 NES
+          sample respondents was conducted using a four-stage sampling
+          process--a primary stage sampling of U.S. Standard
+          Metropolitan Statistical Areas (SMSA's) and counties,
+          followed by a second stage sampling of area segments, a
+          third stage sampling of housing units within sampled area
+          segments, and concluding with the random selection of a
+          single respondent from selected housing units.  A detailed
+          documentation of the SRC National Sample is provided in the
+          SRC publication titled 1980 SRC NATIONAL SAMPLE: DESIGN AND
+          DEVELOPMENT.
+
+          Primary Stage Selection
+
+          The selection of primary stage sampling units (PSU's),[2]
+          which depending on the sample stratum are either SMSA's,
+          single counties or groupings of small counties, is based on
+          the county-level 1980 Census Reports of Population and
+          Housing. Primary stage units were assigned to 84 explicit
+          strata based on SMSA/Non-SMSA status, PSU size, and
+          geographic location. Sixteen of the 84 strata contain only a
+          single self-representing PSU, each of which is included with
+          certainty in the primary stage of sample selection.  The
+          remaining 68 nonself-representing strata contain more than
+
+          ------------------
+
+          [1] Technical description of the 1990 National Election
+          Study Sample Design prepared by the Sampling Section of the
+          Survey Research Center, Institute for Social Research,
+          University of Michigan, February 1991.
+
+          [2] In SRC publications and survey materials, the term
+          "primary area" is used interchangeably with the more common
+          "primary stage unit" terminology.
+
+           ------------------
+
+          one PSU.  From each of these nonself-representing strata,
+          one PSU was sampled with probability proportionate to its
+          size (PPS) measured in 1980 occupied housing units. The full
+          SRC National Sample of 84 primary stage selections was
+          designed to be optimal for surveys roughly two times the
+          size of the 1990 NES.  To permit the flexibility needed for
+          optimal design of smaller survey samples, the primary stage
+          of the SRC National Sample can be readily partitioned into
+          smaller subsamples of PSU's.  Each of the partitions
+          represents a stratified subselection from the full 84 PSU
+          design.
+
+          The sample for the 1990 NES is selected from the "one-half"
+          partition of the 1980 SRC National Sample.  The "one-half
+          sample" includes 11 of the 16 self-representing SMSA PSU's
+          and a stratified subsampling of 34 (of the 68)
+          nonself-representing PSU's of the SRC National Sample.
+          Table 3 identifies the PSU's for the 1990 National Election
+          Study by SMSA status and Region.
+
+          Second Stage Selection of Area Segments
+
+          The second stage of the 1980 National Sample was selected
+          directly from computerized files that were prepared from the
+          1980 Census summary tape file series (STF1-B).  The
+          designated second-stage sampling units (SSU's), termed "area
+          segments," are comprised of census blocks in the
+          metropolitan primary areas and enumeration districts (ED's)
+          in the rural non-SMSA's and rural areas of SMSA primary
+          areas.  Each SSU block, block combination or enumeration
+          district was assigned a measure of size equal to the total
+          1980 occupied housing unit count for the area (minimum =
+          50).  Second stage sampling of area segments was performed
+          with probabilities proportionate to the assigned measures of
+          size.
+
+          A three-step process of ordering the SSU's within the
+          primary areas produced an implicit stratification of the
+          area segments in the second stage sampling frame, stratified
+          at the county level by geographic location and population.
+          Area segments were stratified within county at the Minor
+          Civil Division (MCD) level by size and income, and at the
+          block and ED level by location within the MCD or county.
+          (For details, refer to the SRC publication, 1980 NATIONAL
+          SAMPLE: DESIGN AND DEVELOPMENT.)
+
+          Systematic PPS sampling was used to select the area segments
+          from the second stage sampling frame for each county.  In
+          the self-representing (SR) PSU's the number of sample area
+          segments varied in proportion to the size of the primary
+          stage unit, from a high of b=18 area segments in the SR New
+          York SMSA to a low of b=7 area segments in the smaller SR
+          PSU's such as San Francisco. A total of b=6 area segments
+
+
+
+
+                                     Table 3
+
+                   PSU'S IN THE 1990 NES POST-ELECTION SURVEY
+                           by: SMSA Status and Region
+
+          REGION                        SMSA STATUS
+
+                                            Non
+                 Self-representing   self-representing   Non-SMSA's
+                       SMSA's              SMSA's
+          ------------------------------------------------------------
+
+          North-    New York, NY-NJ   Boston, MA*       Schuyler, NY
+           east     Philadelphia,     Pittsburgh, PA*
+                           PA-NJ      Buffalo, NY
+                                      New Haven, CT
+                                      Atlantic City, NJ
+                                      Manchester, NH
+
+          North     Chicago, IL       St. Louis, MO*     Sanilac, MI
+          Central   Detroit, MI       Milwaukee, WI      Phillips, KS
+                                      Dayton, OH         Mower, MN
+                                      Des Moines, IA
+                                      Grand Rapids, MI
+                                      Fort Wayne, IN
+                                      Steubenville, OH
+
+          South                       Houston, TX*       Bulloch, GA
+                                      Baltimore, MD*     Hale, TX
+                                      Birmingham, AL     Monroe, AR
+                                      Columbus, GA-AL    Bedford, TN
+                                      Miami, FL          Robeson, NC
+                                      Lakeland, FL
+                                      McAllen, TX
+                                      Wheeling, WV
+                                      Knoxville, TN
+                                      Richmond, VA
+
+          West    Los Angeles, CA     Seattle, WA        Eldorado-
+                  San Francisco, CA   Denver, WY           Albine, CA
+                                      Anaheim, CA        Carbon, WY
+                                      Fresno, CA
+                                      Eugene, OR
+
+          ------------------
+
+          NOTE:  The PSU's marked with an asterisk (*) are
+          Self-Representing for sample designs that use the two-thirds
+          or larger portion of the sample.  For the half-sample
+          design, only 6 of the 16 Self-Representing areas remain
+          Self-Representing.  The other ten Self-Representing PSU's
+          are paired and only five are used in the half-sample design,
+          each representing both itself and the PSU it is paired with.
+
+          -------------------
+
+          was selected from each of the a=39 nonself-representing
+          (NSR) PSU's (except Houston that had 7 segments selected). A
+          total of 303 segments were selected, 68 in the six
+          self-representing PSU's and 235 in the nonself-representing
+          PSU's.
+
+          Third Stage Selection of Housing Units
+
+          For each area segment selected in the second sampling stage,
+          a listing was made of all housing units located within the
+          physical boundaries of the segment. For segments with a very
+          large number of expected housing units, all housing units in
+          a subselected part of the segment were listed.  The final
+          equal probability sample of housing units for the 1990 NES
+          was systematically selected from the housing unit listings
+          for the sampled area segments.
+
+          The overall probability of selection for 1990 NES households
+          was f=.00003761 or .3761 in 10,000.  The equal probability
+          sample of households was achieved by using the standard
+          multi-stage sampling technique of setting the sampling rate
+          for selecting housing units within area segments to be
+          inversely proportional to the PPS probabilities (see above)
+          used to select the PSU and area segment.
+
+          Fourth Stage Respondent Selection
+
+          Within each sampled housing unit, the SRC interviewer
+          prepared a complete listing of all eligible household
+          members.  Using an objective procedure described by Kish[3]
+          (1949), a single respondent was then selected at random to
+          be interviewed.  Regardless of circumstances, no
+          substitutions were permitted for the designated respondent.
+
+          SAMPLE DESIGN SPECIFICATIONS
+
+          The targeted minimum completed interview sample size for the
+          1990 NES Post-Election Survey was n=1,750 cases.  In the
+          original sample size computation, the following assumptions
+          were made: response rate = .68, combined
+          occupancy/eligibility rate = .83.  These assumptions were
+          derived from survey experience in the 1986 NES Post Election
+          Survey.  Table 4 provides a full description of the original
+          sample design specifications.
+
+
+
+
+          ------------------
+
+          [3] L. Kish, "A Procedure for Objective Respondent Selection
+          Within the Household" JOURNAL OF THE AMERICAN STATISTICAL
+          ASSOCIATION 44 (1949): 380-387.
+
+
+
+                                     Table 4
+
+                       1990 NATIONAL POST-ELECTION SURVEY
+              ORIGINAL SAMPLE DESIGN SPECIFICATIONS AND ASSUMPTIONS
+                        AND ACTUAL SAMPLE DESIGN OUTCOMES
+
+
+                                           Original
+                                        Specifications     Actual
+                                        and Assumptions    Outcome
+
+
+          Completed interviews               1,750          2,004
+
+             Response Rate                     .68           .714
+
+          Eligible sample households         2,573          2,808
+
+             Occupancy/Eligibility Rate*       .87           .802
+
+          Final sample HU listings           3,256          3,503
+
+             Sample growth from update**      1.05          1.068
+
+          Sample listings from frame         3,100          3,280
+
+
+          ----------------
+
+          * Expected eligibility (.97) x occupancy (.90)
+
+          ** Since the updating process produces about a 5% increase
+          in sample lines over the count selected from the National
+          Sample system, the update inflation factor was set at 1.05.
+
+
+
+
+           SAMPLE DESIGN OUTCOMES
+
+          In comparing the design stage expectations in the first
+          column of Table 4 with the actual survey outcomes in the
+          second column, it can be seen that the sample growth from
+          the update procedure was slightly higher than expected.
+          Also, the original sample design specifications
+          overestimated the occupancy/eligibility rates and
+          underestimated the response rate for the actual survey.
+          Design stage assumptions for the study response rate and
+          occupancy/eligibility rate were based on the rates obtained
+          in the 1986 Post-Election Survey.
+
+          The actual occupancy/eligibility rate for the 1990 NES Post-
+          Election Survey (.802) was somewhat lower than the rate
+          obtained in the 1986 NES Post-Election Survey (.835). The
+          response rate for 1990 (.714) was higher than the 1986 NES
+          Post-Election Survey response rate of .677 or the 1988 NES
+          Pre-election response rate of .705.
+
+          The original area probability sample for the 1990 NES was
+          selected as a basic sample replicate of 3280 sample HU
+          listings. n the Post-Election surveys the elapsed time
+          between Election Day and the date of interview is a critical
+          design consideration.  Since timing is so critical, the
+          option of using a replicated sample approach to control
+          final study sample size has little utility.  In order to
+          ensure that no fewer than a minimum of 1750 completed
+          interviews would be obtained within the study time frame,
+          the initial size of the basic sample replicate was increased
+          from the expected 3100 to 3280 listings (approximately a 5%
+          increase). In addition, 6.8% sample growth from SRC's
+          standard sample update procedure increased the size of the
+          final sample to n=3503 housing units listings.  Due to the
+          deliberate increase in sample size and higher than expected
+          response rate, the final number of completed interviews
+          (n=2004) was approximately 14.5% higher than the minimum
+          interview target specified for the survey.
+
+          WEIGHTED ANALYSIS OF 1990 NES DATA
+
+          The area probability sample design for the 1990 NES results
+          in an equal probability sample of U.S. households.  However,
+          within sample households a single adult respondent is chosen
+          at random to be interviewed.  Since the number of eligible
+          adults may vary from one household to another, the random
+          selection of a single adult introduces inequality into
+          respondents' selection probabilities.  In analysis, a
+          respondent selection weight should be used to compensate for
+          these unequal selection probabilities.  The value of the
+          respondent selection weight is exactly equal to the number
+          of eligible adults in the household from which the random
+          respondent was selected. The use of the respondent selection
+          weight is strongly encouraged, despite past evaluations that
+          have shown these weights to have little significant impact
+          on the values of NES estimates of descriptive statistics.
+
+          The current policy of the National Election Studies is not
+          to include in public use data sets special analysis weights
+          designed to compensate for  nonresponse or to post-stratify
+          the sample to known population distribution controls.
+          Analysts interested in developing their own nonresponse or
+          post-stratification adjustment factors must request access
+          to the necessary sample control data from the NES Board.
+
+
+          SAMPLING ERRORS OF 1990 NES ESTIMATES
+
+          Sampling Error Calculation Programs
+
+          The probability sample design for the 1990 National Election
+          Study permits the calculation of estimates of sampling error
+          for survey statistics.  For calculating sampling errors of
+          statistics from complex sample surveys, the OSIRIS
+          statistical analysis and data management software system
+          offers the PSALMS and REPERR programs. PSALMS is a general
+          purpose sampling error program that incorporates the Taylor
+          Series approximation approach to the estimation of variances
+          of ratios (including means, scale variables, indices,
+          proportions) and their differences.  REPERR is an OSIRIS
+          program that incorporates algorithms for replicated
+          approaches to variance estimation. Both Balanced Repeated
+          Replication (BRR) and Jackknife Repeated Replication (JRR)
+          are available as program options. The current version of
+          REPERR is best suited for estimating sampling errors and
+          design effects for regression and correlation statistics.
+
+          Sampling Error Codes and Calculation Model
+
+          Estimation of variances for complex sample survey estimates
+          requires a computation model. Individual data records must
+          be assigned sampling error codes that reflect the complex
+          structure of the sample and are compatible with the
+          computation algorithms of the various programs.  The
+          sampling error codes for the 1990 NES are included as a
+          variable in the ICPSR Public Use data set.  The assigned
+          sampling error codes are designed to facilitate sampling
+          error computation according to a paired selection model for
+          both Taylor Series approximation and Replication method
+          programs.
+
+          Table 5 provides a description of how individual sampling
+          error code values are to be paired for sampling error
+          computations.  Thirty (30) pairs or strata of sampling error
+          computation units (SECU's) are defined.  Each SECU in a
+          stratum pair includes cases assigned to a single sampling
+          error code value.  The exceptions are the second SECU in
+          stratum 27 that is comprised of cases assigned sampling code
+          values 36 and 55 and the second SECU in stratum 29 that is
+          comprised of cases with SECU's 61 and 63.
+
+
+
+                                     Table 5
+
+                          1990 NES POST-ELECTION SURVEY
+             PAIRED SELECTION MODEL FOR SAMPLING ERROR COMPUTATIONS
+
+
+                       Pair         (SECU)         (SECU)
+                     (Stratum)      1 of 2         2 of 2
+                                     Codes          Codes
+
+                         1            103            104
+                         2            105            106
+                         3             99            100
+                         4            101            102
+                         5             95             96
+                         6             97             98
+                         7             93             94
+                         8             91             92
+                         9             89             90
+                        10             83             84
+                        11             81             82
+                        12             77             78
+                        13             75             76
+                        14             73             74
+                        15              2              6
+                        16              7              8
+                        17             14             16
+                        18             17             18
+                        19             19             21
+                        20             24             28
+                        21             63             65
+                        22             30             33
+                        23             37             43
+                        24             40             48
+                        25             42             45
+                        26             50             51
+                        27             52          36 + 55
+                        28             57             64
+                        29             60          61 + 63
+                        30             67             68
+
+
+
+
+          Generalized Sampling Error Results for the 1990 NES
+          To assist NES data analysts, the OSIRIS PSALMS program was
+          used to compute sampling errors for a wide-ranging set of
+          means and proportions estimated from NES survey data sets.
+          For each estimate, sampling errors were computed for the
+          total sample and for fifteen demographic and political
+          affiliation subclasses of NES samples.  The results of these
+          sampling error computations were then summarized and
+          translated into the general usage sampling error table
+          provided in Table 6.
+
+          Incorporating the pattern of "design effects" observed in
+          the extensive set of example computations, Table 6 provides
+          approximate standard errors for percentage estimates based
+          on the 1990 NES.  To use the table, examine the column
+          heading to find the percentage value that best approximates
+          the value of the estimated percentage that is of
+          interest.[4] Next, locate the approximate sample size base
+          (denominator for the proportion) in the left-hand row margin
+          of the table. To find the approximate standard error of a
+          percentage estimate, simply cross-reference the appropriate
+          column (percentage) and row (sample size base).  Note: the
+          tabulated values represent approximately one standard error
+          for the percentage estimate.  To construct an approximate
+          confidence interval, the analyst should apply the
+          appropriate critical point from the "z" distribution (e.g.
+          z=1.96 for a two-sided 95% confidence interval half-width).
+          Furthermore, the approximate standard errors in the table
+          apply only to single point estimates of percentages, not to
+          the difference between two percentage estimates.
+
+          The generalized variance results presented in Table 6 are a
+          useful tool for initial, cursory examination of the NES
+          survey results.  For more in-depth analysis and reporting of
+          critical estimates, analysts are encouraged to compute exact
+          estimates of standard errors using the appropriate choice of
+          a sampling error program and computation model.
+
+
+          ------------------
+
+          [4] The standard error of a percentage is a symmetric
+          function with its maximum centered at p=50%; i.e., the
+          standards errors of p=40% and p=60% estimates are equal.
+
+
+
+                                     Table 6
+
+                          1990 NES POST-ELECTION SURVEY
+                           GENERALIZED VARIANCE TABLE
+                   APPROXIMATE STANDARD ERRORS FOR PERCENTAGES
+
+
+                          For percentage estimates near
+
+          Sample n   50%      40% or    30% or    20% or    10% or
+                               60%       70%       80%       90%
+
+              The approximate standard error of the percentage is:
+
+
+             100    5.385     5.277     4.933     4.308     3.231
+
+             200    3.912     3.824     3.581     3.128     2.343
+
+             300    3.278     3.210     3.006     2.260     1.962
+
+             400    2.905     2.846     2.661     2.324     1.743
+
+             500    2.663     2.603     2.437     2.128     1.593
+
+             750    2.294     2.244     2.094     1.830     1.379
+
+            1000    2.078     2.039     1.907     1.657     1.250
+
+            1500    1.846     1.803     1.688     1.474     1.102
+
+            2000    1.722     1.691     1.568     1.368     1.030
+
+
+
+
+
+
+>> 1990 VOTE VALIDATION AND ELECTION ADMINISTRATION SURVEY DATA
+
+          The Vote Validation study was conducted by the National
+          Election Studies in July of 1991 on respondents to the 1990
+          National Election Study (NES).  The vote validation process
+          basically involves sending name and address information for
+          respondents who say they are registered to vote, to a Survey
+          Research Center (SRC) field interviewer.  She is instructed
+          to check with the local office at which respondents report
+          being registered for the purpose of locating the
+          registration records of these respondents and ascertaining
+          whether or not the records show that the respondents voted
+          in the most recent general election.  This is the eighth
+          time that NES has done a voter validation study.  Previous
+          validations were done for the 1964, 1976, 1978, 1980, 1984,
+          1986, and 1988 Post Election Studies.
+
+          A.  The Election Administration Survey Variables
+
+          In order to conduct elections honestly, lists of eligible
+          voters are generated by each election office, with each
+          voter assigned to one and only one precinct.  Therefore, for
+          the purpose of registration and voting, an individual must
+          be associated with one and only one address, belonging in
+          one and only one electoral jurisdiction.
+
+          Since NES respondents come from a national area probability
+          sample, a large number of different election offices are
+          included in the validation study, usually over 100.  The
+          jurisdiction of these election offices is usually the county
+          but in New England and a few other states, registration and
+          voting records are maintained at a local level, including
+          townships.
+
+          Because of the diversity in record keeping and access across
+          these many offices, the vote validation data has two
+          conceptual parts.  The most obvious part is the result of
+          the record check for individual respondents.  The other part
+          may perhaps be labeled "contextual" data, for these
+          variables describe the search procedure and the records
+          themselves.
+
+          Variables describing the records and the search procedure
+          are included because the relationship between the
+          respondent's report and what is found or not found in
+          official records is not necessarily a straightforward one.
+          One view of the matching process is that the official
+          records are always correct, and that in the event of
+          discrepancy, the respondent must have "misreported" his or
+          her behavior.  Another view is that the records themselves
+          are but another form of measurement of a particular
+          behavior, and as such, are subject to measurement error. So,
+          for example, the computerized transcription of poll records,
+          which are the records that have been checked in most
+          offices, could be inaccurate.  The situation is made more
+          complex by the fact that there appears to be an irreducible
+          minimum proportion of respondents for whom a record of
+          registration cannot be located at all, and logically, it is
+          difficult if not impossible to say that this negative
+          finding demonstrates beyond doubt that respondents are NOT
+          registered.  It is always possible that with a "better"
+          search, a more accurate spelling of the person's name, a
+          correct understanding of where the person is actually
+          registered, the record would have been located.
+
+          It is important to note also that the search is conducted by
+          human beings, specifically by SRC interviewers, who are
+          trained in survey methods but not in records management, and
+          who may themselves vary in terms of their understanding of
+          the records, their pertinacity, the thoroughness by which
+          every avenue in the records is explored, and so on.   In an
+          attempt to understand the role of the interviewer herself in
+          this process, NES RE-validated the 1988 respondents as part
+          of the 1991 vote validation study.  The notion was that if
+          there are interviewer effects, these would show up as
+          different interviewers conduct record checks on the same
+          people in the same offices.  The re-validation of 1988
+          respondents will be released in a separate study, but the
+          1988 vote information was gathered for 1990 respondents as
+          well, and is included in this dataset.
+
+          In summary, it seemed imperative to give the user
+          information not only about WHAT was found, but what the
+          records themselves and the search was like, so that the user
+          can make some evaluation of whether record-respondent
+          discrepancies cluster in particular patterns of record
+          keeping or search.[5]
+
+          Information about the records, and the search process, was
+          coded from several sources.  First, the SRC interviewer who
+
+          ------------------
+
+          [5] This view has been evolving within NES for some period
+          of time.  The following technical reports, papers, and other
+          memoranda trace this development:  Traugott, S. (1989)
+          "Validating Self-Reported Vote, 1964-1988"; Presser, S., S.
+          Traugott, and M. Traugott (1990), "Vote 'Over' Reporting in
+          Surveys: The Records or the Respondents"; Presser, S., M.
+          Traugott, and S. Traugott (1991), "Extending Methodological
+          Development of Survey Response Errors for Voting"; and
+          Traugott, S. and G. Morchio (1991), "1990 Vote Validation."
+          Any of these papers or reports are available by contacting
+          NES project staff.
+
+          ------------------
+
+          did the records check administered a brief (10-15 minute)
+          questionnaire to an official in the records office asking
+          specifically about how the records were organized.  The
+          purpose of this interaction was for the interviewer to gain
+          information to enable her to conduct the records search
+          efficiently.
+
+          Second, as the interviewer went on to fill out the forms
+          recording the results of individual record checks, that is,
+          to actually use the records that had been described, her
+          understanding of the records often changed, sometimes by the
+          discovery of additional sources not originally described to
+          her.  These discoveries were annotated on the forms
+          themselves, rather than on the office interview.  The NES
+          staff reviewed all of the individual record check forms from
+          a particular office in conjunction with the election
+          official's questionnaire.
+
+          A third source of information, used somewhat tentatively
+          because of the possibility of change in the intervening
+          time, was the previous interviews conducted in the same
+          office.  (NES has been in the same sample frame since 1984,
+          and many of these offices have been visited three previous
+          times.) These interviews were used to elucidate points that
+          were not clear.  Finally, for between 20-30% of the offices,
+          various points remained unclear and the offices and/or the
+          SRC interviewers were called by the NES staff for further
+          information.
+
+          All of these sources were used in the coding of the election
+          office variables (900757-900803).  The chief focus of the office
+          variables is in what sources were actually used by the
+          interviewer, and how they were used.  The data do not
+          describe in detail all of the records that the office keeps.
+          These election administration variables differ in focus from
+          previous codings of office variables, where the interest was
+          in describing the office records themselves, rather than
+          those used.  The reason for this is that as staff read
+          through the materials, they were struck by how frequently
+          sources that were theoretically available were not used
+          because they were not readily accessible.  For example, the
+          office might have a computerized system for keeping track of
+          registrants.  But, it is in another building, and
+          interviewers don't have access to it on anything but
+          printouts.  Or, the computer is "down." Often, poll books
+          are stored off-site, and offices are reluctant to retrieve
+          them for inspection, claiming that "everything on them is on
+          the computer." Hence, while the office interview schedule
+          itself is attached as part of the documentation, the user
+          should be aware that the office variables are not a direct
+          transcription from this questionnaire, but rather address
+          the somewhat different question of what sources were
+          actually used.
+
+          B.  Preparation of the Record Check Forms for each
+              Respondent
+
+          Coversheets are prepared for each respondent who is to be
+          "validated" and one individual record check form is filled
+          out for each coversheet sent to the field.  Coversheets are
+          assigned to particular offices.  Starting with the
+          validation study conducted in 1984, NES has attempted to
+          locate the registration record only for those respondents
+          who tell staff that they are registered.  In thinking about
+          locating those who do claim to be registered, staff know
+          that people are registered at one and, in theory, only one
+          locality, under a specific name.[6]
+
+          Therefore, staff need to know exactly where a person is
+          registered, and to have a "good-enough" spelling of the
+          person's name so that they can be located.  When a
+          registration record can't be found for a person, the
+          conclusion that therefore they are not registered is
+          difficult to defend against the proposition that the
+          respondent is not findable because staff do not have the
+          correct NAME for the respondent or that the respondent is
+          for some reason registered in a different locality than
+          where h/she was interviewed.
+
+          The best way, perhaps the only way, to defend against this
+          threat to the external validity of the record check, is to
+          reduce the number of persons claiming to be registered for
+          whom staff cannot find a record.  That in turn has come to
+          mean in practice: a) questions on the interview schedule
+          about exactly where a person is registered and where h/her
+          polling place is; b) intensive review by staff of this
+          information plus recontact information and of the spelling
+          of a person's name as it was entered when the coversheet was
+          originally logged in; and c) preparation of "coversheets"
+          for each respondent that also include information about
+          whether the person has recently changed their name, has a
+          listed telephone number, family composition and residential
+          mobility.  (Interviewers are NOT told whether or not the
+
+
+          ------------------
+
+          [6] A few respondents told interviewers that they were
+          registered, but were very vague about exactly where, e.g.,
+          "in upstate New York where I used to live."  No attempt was
+          made to locate records for such respondents. In a few other
+          cases, the interviewers misunderstood instructions about
+          which offices they were to contact to validate the
+          respondent.  These cases are treated as "non-validated."
+
+          -------------------
+
+
+          respondent reported voting.)[7]
+
+          C.  Special Problems in Assignment of Respondents to Offices
+
+          For a variety of reasons, 5-10% of those saying that they
+          are registered to vote also tell staff that they are not
+          registered in the jurisdiction in which they were
+          interviewed. In our mobile society, it sometimes takes a
+          while for registration address to catch up with actual
+          living address. Or, as in the case of college students or
+          live-in domestic help, people may have a different
+          perception of where they actually live, where their home is,
+          than is contemplated in the rules of sample selection (does
+          this person spend most nights in a week at this address,
+          etc., etc.)  Some people are registered in counties that do
+          not fall in our sample. Appropriate offices for these
+          individuals were identified and the respondent's record
+          check was conducted by an SRC field interviewer calling that
+          office.  Usually but not always, the offices so contacted
+          were cooperative, but the user should be aware that this
+          form of checking is necessarily less thorough than that done
+          in person in an election office in which an interview has
+          been conducted.  A code of "999" in variable Variable 900714
+          indicates that the record check was conducted over the
+          telephone.
+
+          Occasionally, staff sent out a record check form to more
+          than one office for a single individual, when it was
+          difficult to tell in which locale a person was most likely
+          to be registered.  If this happened, the differences between
+          the forms were reconciled so that the data contain only one
+          validation record per respondent.
+
+          D.  The Lookup Process
+
+          If election offices share a common central mission, that of
+          conducting elections without fraud, they also display a
+          bewildering variety of terms for similar procedures, to say
+          nothing of widely different procedures to achieve the same
+          ends.  There are places with numerous versions of
+          sophisticated computer tracking, and places with one set of
+          poll ledgers.  The supervisors of these offices can be
+
+          ------------------
+
+          [7] In 1990, staff actually sent out records for
+          respondents who had not given their names but who had
+          indicated that they were registered.  In many cases, it was
+          possible to find someone of matching age and gender living
+          at the same address at which the respondent was
+          interviewed.  If no such match was made, however, the
+          person's validation data was treated as "missing."
+
+          -------------------
+
+
+          highly professional, or, in one or two cases, obvious
+          political appointees.  Some offices boast the latest in
+          computer technology, including digitized signatures and bar
+          codes over which a wand can be passed to register that a
+          person has voted; while others make do with signatures and
+          initials on the original registration card.  We have
+          validated in jurisdictions having voters numbering in the
+          millions and thousands of precincts and in places where
+          there is one precinct with several hundred registrants.
+
+          Each year staff face the difficulty of trying to train
+          survey interviewers how to diagnose the intricacies of
+          records management in the offices they are likely to
+          encounter, so that they can efficiently use ALL the sources
+          potentially available to them in the actual lookup process.
+          In 1984, staff hit upon the strategy of conducting an
+          interview with an election official, prior to actually
+          looking up the records, so that the look-up person would
+          have a detailed idea of what records were available to her.
+          Each time this is done, staff struggle to improve the
+          office questionnaire so that it will better lead the naive
+          interviewer through the maze of different office procedures.
+
+          Although NES staff is somewhat removed from the complexities
+          of each individual office, they try to write some general
+          instructions to guide the interviewers in the lookup
+          process.  For this study, the task of the interviewer was
+          described to them as first FINDING a record that they were
+          reasonably sure was the respondent's; then, ascertaining
+          what the record showed about whether the respondent voted or
+          did not vote in the general elections of 1990 and 1988.  It
+          was explained that all offices maintain a list of who is
+          registered in their jurisdiction.  From this master list,
+          all offices send to each polling place a list in some form
+          of who is eligible to vote at that voting place.  When
+          people vote, some mark is made to indicate that they have
+          done so (to reduce the possibility of fraud, following the
+          time honored rule of one person, one vote.) Information
+          about whether a person did or did not vote may or may not be
+          posted back to the master office list of who is registered.
+          There are many variations on this schemata; for example,
+          some offices divide the master list (which is on cards) into
+          precinct binders and send these out to the polls where they
+          are marked.)  Thus, the master list is also the poll book.
+          The general outline, however, is simple.
+
+          Based on this general outline, and assuming that most
+          offices post vote information back to the registration
+          record, interviewers were to look first at the master
+          registration record for evidence that R had voted.  If the
+          record did not show that R voted, they were to look at the
+          original poll books, to the extent they were available, for
+          some further indication of vote.  (Historiographers will
+          recognize the distinction between primary and secondary
+          sources, one that has been slow to dawn on staff as survey
+          researchers.)  One example will illustrate the importance of
+          primary sources.  An interviewer happened to be a registered
+          voter in a county where she was looking up 1990 respondents.
+          She noted that many more respondents appeared to have voted
+          in 1990 than in 1988.  She thought this was strange.
+          Accordingly, she looked up her own record for 1988, and
+          found that the computer did not show her as voting, although
+          she had.  It didn't show her son or husband as voting
+          either, although they voted with her.  The original poll
+          records, however, showed she and her family as voting.  It
+          turned out that there had been a sizeable transcription
+          error in this office in 1988.
+
+          As the NES staff evaluated what was received back from
+          interviewers, both record check forms and election official
+          interviews, it was clear that in many offices original
+          sources were not used, either because they were not made
+          available to the interviewer (sometimes they are destroyed
+          after information has been posted to the computer) or
+          because the interviewer did not press for access to these
+          sources.  Also, some interviewers went about their task in a
+          way exactly contrary to instructions, i.e., they looked
+          first at the poll records, and then searched the
+          registration records for people they couldn't locate.  The
+          trouble with this strategy is that some nontrivial
+          proportion of people are not registered to vote in the
+          precinct in which they were interviewed; rather they vote
+          somewhere else in the same jurisdiction.  Starting with the
+          poll books means considerably more going back and forth
+          between registration records and poll records; in this
+          process, it is much more difficult for the interviewer with
+          a sizeable number of cases in an office to keep track of
+          exactly which sources she has or has not used in a
+          particular case.[8]
+
+          The post-fieldwork staff evaluation process was extremely
+          time-consuming and inefficient.  When NES next undertakes
+
+          ------------------
+
+          [8] In fairness to the interviewers, it should be said that
+          they are entirely dependent on the good will of the people
+          assisting them in any given office.  Often, these people
+          had an understandable interest in minimizing the time
+          devoted to helping the interviewers and the interviewers
+          were reluctant to press them with time-consuming requests
+          for original sources.  In retrospect, the NES staff needed
+          to do much more to prepare the offices and the interviewers
+          regarding resources needed to complete the lookup task.
+
+          --------------------
+
+          voter validation, hopefully in 1993, they are convinced that
+          the process of training interviewers to work in specific
+          offices will have to be significantly revised, building both
+          on the knowledge gained over the last several vote
+          validations of the way in which registration records are
+          managed and with the assistance of records management
+          specialists.  As staff come closer to the real possibility
+          of a 1992 vote validation study, they intend also, to the
+          extent that the budget permits, to seek advice from a
+          planning committee consisting of scholars interested in this
+          topic.
+
+          E.  Contents of the Data
+
+          Records for 1990 respondents who were not validated have
+          been "padded" with missing data codes.
+
+          The data contain variables from several sources.  These are:
+
+              1.  Variables from the individual record check form
+                  filled out by the interviewer in the election
+                  office.  (Variables 900712-900755)
+
+              2.  Summary variables combining self-report and the
+                  result of the record check.  (Variable 900756)
+
+              3.  Variables describing the sources used and the
+                  search procedure in the election records office
+                  in which the respondent's record was looked up.
+                  (Variables 900757-900803).
+
+          F.  Vote Validation Study Staff
+
+          Santa Traugott        NES Project Manager
+          Giovanna Morchio      Study Manager, NES
+          Fran Eliot            Research Assistant, NES
+          Heather Hewett        Study Manager, SRC/Field Section
+
+
+
+
+
+>> 1990 NES STAFF AND TECHNICAL PAPERS
+
+
+          Brehm, John. (1985a) "Report on Coding of Economic
+             Conditions Series in the 1984 Pre-Post Election Study: A
+             Report to the Board of Overseers, National Election
+             Studies."  Working Paper No. 8. Ann Arbor: CPS, June
+             1985.
+
+          Brehm, John. (1985b) "Analysis of Result Code Disposition
+             for Continuous Monitoring by Time in Field: Report to the
+             Board of Overseers, National Election Studies." Working
+             Paper No. 7.  Ann Arbor: CPS, August 1985.
+
+          Brehm, John. (1985c) "Question Ordering Effects on Reported
+             Vote Choice." Unpublished Memo, July 1985.
+
+          Brehm, John. (1987a) "How Representative is the 1986
+             Post-election Survey?" Memo to Board of Overseers,
+             National Election Studies, May 1987.
+
+          Brehm, John. (1987b) "Who's Missing? an Analysis of
+             NonResponse in the 1986 Election Study: A Report to the
+             Board of Overseers, National Election Studies."  Working
+             Paper No. 10. Ann Arbor: CPS, December 1987.
+
+          Brehm, John and Santa Traugott. (1986) "Similarity and
+             Representativeness of the 1985 Pilot Half-samples." Memo
+             to the NES 1985 Pilot Study Committee March, 1986.
+
+          Lake, Celinda. (1983a) "Similarity and Representativeness of
+             1983 Pilot Samples." Memo to National Election Studies
+             1984 Planning Committee, September 1983.
+
+          Lake, Celinda. (1983b) "Comparison of 3-point, 5-point, and
+             7-point Scales from the CATI Experiment 1982 Election
+             Study." Memo to NES Board of Overseers, November 1983.
+
+          Lake, Celinda. (1984) "Coding of Independent/Independents
+             and Apoliticals in the Party Identification Summary Code
+             and Apoliticals in the Rolling Cross-Section."  Memo to
+             Board of Overseers, National Election Studies. February
+             1984.
+
+          Morchio, Giovanna. (1987) "Trends in NES Response Rates."
+             Memo to NES Board of Overseers.
+
+          Morchio, Giovanna and Maria Sanchez. (1984) "Creation of a
+             Filter Variable to be Used When Analyzing Questions about
+             Congressional Candidates in the 1982 Integrated
+             Personal/ISR CATI/Berkeley CATI Dataset:  A Report to the
+             Board of Overseers, National Election Studies." Working
+             Paper No. 1, Ann Arbor: CPS, February 1984.
+
+          Morchio, Giovanna and Maria Sanchez. (1984) "Comparison of
+             the Michigan Method of District Assignment on the
+             Telephone with the Personal Interview Simulated Data:
+             A Report to the Board of Overseers, National Election
+             Studies." Working Paper No. 2.  Ann Arbor: CPS, March
+             1984.
+
+          Morchio, Giovanna, Maria Sanchez and Santa Traugott. (1985)
+             "Mode Differences: DK Responses in the 1984 Post-Election
+             Survey: A Report to the Board of Overseers, National
+             Election  Studies." Working Paper No. 9.  Ann Arbor: CPS,
+             November 1985.
+
+          Morchio, Giovanna and Santa Traugott. (1986)
+             "Congressional District Assignment in an RDD Sample:
+             Results of 1982 CATI Experiment." Memo to the 1986 Pilot
+             Planning Committee.  February 1986.
+
+          NES Staff. (1984)  "Questions and Versions in NES
+             Continuous Monitoring, 1984: A Report to the Board of
+             Overseers, National Election Studies."  Working Paper No.
+             3.  Ann Arbor: CPS, August 1984.
+
+          NES Staff. (1984) "Weekly Field Report for the National
+             Election  Studies Continuous Monitoring, Jan. 11-Aug. 3,
+             1984: A Report to the Board of Overseers, National
+             Election Studies."  Working Paper No. 4.  Ann Arbor: CPS,
+             August 1984.
+
+          NES Staff. (1985) "Progress of the Rolling Cross Section."
+             Memo to NES Board of Overseers, February 1985.
+
+          NES Staff. (undated) "Years of Schooling." Unpublished Staff
+             Memo.
+
+          NES Staff. (undated)  "Newspaper Code." Unpublished Staff
+             Memo.
+
+          Traugott, Santa. (1984) "Two Versions of the Abortion
+             Question." Unpublished Staff Memo to the NES Board of
+             Overseers, June 1984.
+
+          Traugott, Santa. (1985) "Sample Weighting in NES Continuous
+             Monitoring, 1984.: A Report to the Board of Overseers,
+             National Election Studies," Working Paper No. 5.  Ann
+             Arbor: CPS, April 1985.
+
+          Traugott, Santa. (1985) "Sample Weighting in NES Pre-Post
+             Election Survey, 1984: A Report to the Board of
+             Overseers, National Election Studies," Working Paper
+             No. 6.  Ann Arbor: CPS, April 1985.
+
+          Traugott, Santa. (1985) "Assessment of Media Measures in
+             RXS." Unpublished Staff Memo, July 1985.
+
+          Traugott, Santa. (1985) "Assessment of Media Measures in
+             Pre-Post" Unpublished Staff Memo, July 1985.
+
+          Traugott, Santa. (undated) "The Political Interest Variable
+             on the 1984 Election Study." Unpublished Staff Memo to
+             NES Planning Committee.
+
+          Traugott, Santa. (1985) "Some Analysis of Hard-to-Reach
+             Rolling Thunder Respondents." Unpublished Staff Memo to
+             NES Board of Overseers, February 1985.>> 1990 LIST OF PILOT STUDY REPORTS-1989
+
+
+          Abelson, Robert. Message on Vote Validation Experiment.
+
+          Calvo, Maria Antonia and Steven J. Rosenstone. The
+             Re-Framing of the Abortion Debate.
+
+          Kinder, Donald R. and Thomas Nelson. Experimental
+             Investigations of Opinion Frames and Survey Responses: A
+             Report to the NES Board.
+
+          Knight, Kathleen. Comparisons of Liberal-Conservative Items
+             in the ANES 1989 Pilot Study.
+
+          Krosnick, Jon and Matthew K. Berent. Impact of Verbal
+             Labeling on Response Alternatives and Branching on
+             Attitude Measurement Reliability.
+
+          Leege, David, Ken Wald and Lyman Kellstedt. Religion and
+             Politics. A Report on Measures of Religiosity in the 1989
+             NES Pilot Study.
+
+          Markus, Gregory. Measuring Popular Individualism.
+
+          NES Staff. Possible Bias due to Attrition and Sample
+             Selection in the 1989 Pilot Study.
+
+          Price, Vincent and John Zaller. Evaluation of Media Exposure
+             Items in 1989.
+             Appendix 1: [Price & Zaller] Measuring individual
+               differences...
+             Appendix 2: [Zaller & Price] In One Ear and Out the
+               Other...
+
+          Rosenstone, Steven J. and Gregory A. Diamond. Measuring
+             Public Opinion on Political issues.
+
+          Traugott, Michael. Memo to Pilot Study Committee, including
+             as an Appendix: Understanding Campaign Effects on
+             Candidate Recall and Recognition.
+
+          Zaller, John. Experimental Tests of the Question Answering
+             Model of the Mass Survey Response.
+
+
+
+
+
+>> 1990 CODEBOOK INFORMATION
+
+The following example from the 1948 NES study provides the standard 
+format for codebook variable documentation. 
+
+Note that NES studies which are not part of the Time-Series usually
+omit marginals and the descriptive content in lines 2-5 (except for
+variable name).
+
+
+Line
+
+1  ==============================                                              
+2  VAR 480026    NAME-R NOT VT-WAS R REG TO VT                                 
+3                COLUMNS 61   - 61                                             
+4                NUMERIC                                                       
+5                MD=0 OR GE 8                                                  
+6                                                                              
+7                  Q. 17.  (IF R DID NOT VOTE)  WERE YOU REGISTERED (ELIGIBLE)
+8                  TO VOTE.                                                   
+9                  ...........................................................
+10                                                                            
+11            82       1.  YES                                                
+12           149       2.  NO                                                 
+13                                                                             
+14             0       8.  DK                                                 
+15             9       9.  NA                                                 
+16           422       0.  INAP., R VOTED                                     
+                                                                            
+
+
+Line 2 - VARIABLE NAME.  Note that in the codebook the variable name
+         (usually a 'number') does not include the "V" prefix which is 
+         used in the release SAS and SPSS data definition files
+         (.sas and .sps files) for all variables including those
+         which do not have 'number' names.  For example the variable
+         "VERSION" in the codebook is "VVERSION" in the data definition
+         files.
+
+Line 2 - "NAME".  This is the variable label used in the SAS and SPSS
+         data definition files (.sas and .sps files).  Some codebooks 
+         exclude this.
+
+Line 3 - COLUMNS.  Columns in the ASCII data file (.dat file).
+
+Line 4 - CHARACTER OR NUMERIC.  If numeric and the variable is a decimal
+         rather than integer variable, the numer of decimal places is 
+         also indicated (e.g. "NUMERIC  DEC 4")
+
+Line 5 - Values which are assigned to missing by default in the Study's
+         SAS and and SPSS data definition files (.sas and .sps files).
+
+Line 7 - Actual question text for survey variables or a description of 
+         non-survey variables (for example, congressional district).
+         Survey items usually include the question number (for example
+         "B1a.") from the Study questionnaire; beginning in 1996 
+         non-survey items also have unique item numbers (for example
+         "CSheet.1").
+
+Line 9 - A dashed or dotted line usually separates question text from
+         any other documentation which follows.
+
+Line 10- When present, annotation provided by Study staff is presented
+         below the question text/description and preceding code values.
+
+Lines 11-16
+         Code values are listed with descriptive labels.  Valid codes
+         (those not having 'missing' status in line 5) are presented
+         first, followed by the values described in line 5.  For
+         continuous variables, one line may appear providing the range
+         of possible values.  A blank line usually separates the 'valid'
+         and 'missing' values.
+
+Lines 11-16
+         Marginals are usually provided for discrete variables.  The
+         counts may be unweighted or weighted; check the Study codebook
+         introductory text to determine weight usage.
+
+>> 1990 ICPSR PROCESSING INFORMATION
+
+          The data collection was processed according to standard
+          ICPSR processing procedures.  The data were checked for
+          illegal or inconsistent code values which, when found, were
+          corrected or recoded to missing data values. Consistency
+          checks were performed.  Statements bracketed in "<" and ">"
+          signs in the body of the codebook were added by the
+          processors for explanatory purposes.
+
+
+
+
+
+>> 1990 VARIABLE DESCRIPTION LIST
+
+
+
+       VARIABLE  VARIABLE LABEL
+       --------  --------------
+
+         VERSION NES VERSION NUMBER
+          DSETNO NES DATASET NUMBER
+          900001 ICPSR ARCHIVE NUMBER
+          ...... ...there are no variables 900002,900003
+          900004 Respondent Post-Election Case ID
+
+
+                              SAMPLING INFORMATION
+
+          900005 Primary Area Code
+          900006 Primary Area Name
+          900007 Segment Number
+          900008 Census Region
+          900009 Postal State Abbreviation and Congressional District
+              Number
+          900010 FIPS State Code
+          900011 FIPS State and County Code
+          900012 ICPSR State Code
+          900013 Congressional District
+          900014 ICPSR State and Congressional District Code
+          900015 Tract/Enumerated District Indicator
+          900016 1980 Census Tract
+          900017 1980 Census Enumeration District
+          900018 1980 Census Place Code
+          900019 FIPS 1980 SMSA Code
+          900020 FIPS 1980 SCSA Code
+          900021 Size of Place of Interview
+          900022 Actual Population of Place of Interview
+          900023 1980 Belt Code
+          900024 1980 Minor Civil Division
+          900025 Sampling Error Code
+          900026 Selection Table
+          900027 Selected R Person Number
+
+
+                              HOUSEHOLD COMPOSITION
+
+          900028 Number of persons in household
+          900029 Number of eligible adults
+          900030 Number of children under six years old
+          900031 Number of children six to nine years old
+          900032 Number of children ten to thirteen years old
+          900033 Number of children fourteen to seventeen years old
+          900034 Household composition
+
+
+                            INTERVIEW/ER INFORMATION
+
+          900035 Refusal conversion indicator
+          900036 Persuasion letter requested
+          900037 Final call number
+          900038 Final result code
+          900039 Was respondent's name obtained
+          900040 If R is female, has R legally changed her name
+          900041 Phone number obtained
+          900042 Should not interview by telephone?
+          900043 Interviewer's ID number
+          900044 Interviewer's race
+          900045 Interviewer's languages
+          900046 Interviewer's ethnicity
+          900047 Interviewer's age, bracketed
+          900048 Interviewer's years of work, bracketed
+          900049 Interviewer's gender
+          900050 Interviewer's education, bracketed
+          900051 Interviewer's interview number
+          900052 Date of interview - month
+          900053 Date of interview - day
+          900054 Total length of interview
+          900055 Total time to pre-edit
+          900056 Total time to post-interview edit
+          900057 Beginning time - local
+
+          900058 Type of Congressional race (House of Representatives)
+          900059 Type of Senate race
+          900060 Type of Governor race
+          900061 Form type
+
+
+                    R'S INTEREST/ATTENTION TO CAMPAIGN/MEDIA
+
+          900062 R's interest in the campaign
+          900063 Did R read about the campaign in any newspapers
+          900064 How much attention did R give to the campaign in the
+              newspaper
+          900065 Did R watch any programs about the campaign on TV
+          900066 How many programs about the campaign did R watch
+          900067 How much attention did R give to the campaign news on
+              TV
+          900068 Does R ever discuss politics
+          900069 How often does R discuss politics
+          900070 How often did R discuss politics in the past week
+          900071 How often did R read a daily newspaper in the past week
+          900072 How many days did R watch TV news in the past week
+
+          900073 Interviewer Checkpoint: Form Type
+
+
+
+                  WHAT R LIKES/DISLIKES ABOUT DEMOCRATIC PARTY
+
+          900074 Whether R likes anything about the democratic party
+          900075 What R likes about the Democratic party - first mention
+          900076 What R likes about the Democratic party - second mention
+          900077 What R likes about the Democratic party - third mention
+          900078 What R likes about the Democratic party - fourth mention
+          900079 What R likes about the Democratic party - fifth mention
+          900080 Whether R dislikes anything about the Democratic party
+          900081 What R dislikes about the Democratic party - first
+              mention
+          900082 What R dislikes about the Democratic party - second
+              mention
+          900083 What R dislikes about the Democratic party - third
+              mention
+          900084 What R dislikes about the Democratic party - fourth
+              mention
+          900085 What R dislikes about the Democratic party - fifth
+              mention
+
+
+                  WHAT R LIKES/DISLIKES ABOUT REPUBLICAN PARTY
+
+          900086 Whether R likes anything about the Republican party
+          900087 What R likes about the Republican party - first mention
+          900088 What R likes about the Republican party - second mention
+          900089 What R likes about the Republican party - third mention
+          900090 What R likes about the Republican party - fourth mention
+          900091 What R likes about the Republican party - fifth mention
+          900092 Whether R dislikes anything about the Republican party
+          900093 What R dislikes about the Republican party - first
+              mention
+          900094 What R dislikes about the Republican party - second
+              mention
+          900095 What R dislikes about the Republican party - third
+              mention
+          900096 What R dislikes about the Republican party - fourth
+              mention
+          900097 What R dislikes about the Republican party - fifth
+              mention
+
+
+                        R'S ASSESSMENT OF BUSH PRESIDENCY
+
+          900098 R approve/disapprove of Bush's handling of presidency
+          900099 Strength of R's approval/disapproval of Bush's handling
+              of presidency
+          900100 R approve/disapprove of Bush's handling of economy
+          900101 Strength of R's approval/disapproval of Bush's handling
+              of economy
+          900102 R approve/disapprove of Bush's handling of relations
+              with foreign countries
+          900103 Strength of R's approval/disapproval of Bush's handling
+              of relations with foreign countries
+          900104 R approve/disapprove of Bush's handling of pollution
+              and other environmental problems
+          900105 Strength of R's approval/disapproval of Bush's handling
+              of pollution and other environmental problems
+
+
+                             CONGRESSIONAL CAMPAIGN
+
+          900106 How much did R personally care about the outcome of
+              the U.S. congressional election
+          900107 Does R remember the congressional candidates
+          900108 Number of congressional candidate - candidate 1
+          900109 From which party was the candidate - candidate 1
+          900110 Collapsed code for congressional candidate - candidate 1
+          900111 R's knowledge of candidate's name and party -
+              candidate 1
+          900112 Number of congressional candidate - candidate 2
+          900113 From which party was the candidate - candidate 2
+          900114 Collapsed code for congressional candidate -
+              candidate 2
+          900115 R's knowledge of candidate's name and party -
+              candidate 2
+          900116 Number of congressional candidate - candidate 3
+          900117 From which party was the candidate - candidate 3
+          900118 Collapsed code for congressional candidate -
+              candidate 3
+          900119 R's knowledge of candidate's name and party -
+              candidate 3
+
+          900120 Interviewer Checkpoint: U.S. Senate race in state?
+
+
+                                 SENATE CAMPAIGN
+
+          900121 Does R remember the Senate candidates
+          900122 Number of Senate candidate - candidate 1
+          900123 From which party was the candidate - candidate 1
+          900124 Collapsed code for Senate candidate - candidate 1
+          900125 R's knowledge of candidate's name and party -
+              candidate 1
+          900126 Number of Senate candidate - candidate 2
+          900127 From which party was the candidate - candidate 2
+          900128 Collapsed code for Senate candidate - candidate 2
+          900129 R's knowledge of candidate's name and party -
+              candidate 2
+          900130 Number of Senate candidate - candidate 3
+          900131 From which party was the candidate - candidate 3
+          900132 Collapsed code for Senate candidate - candidate 3
+          900133 R's knowledge of candidate's name and party -
+              candidate 3
+
+
+                     FEELING THERMOMETER:  POLITICAL FIGURES
+
+          900134 Feeling thermometer - George Bush
+          900135 Feeling thermometer - Mario Cuomo
+          900136 Feeling thermometer - Mikhail Gorbachev
+          900137 Feeling thermometer - Dan Quayle
+          900138 Feeling thermometer - Ronald Reagan
+          900139 Feeling thermometer - Jesse Jackson
+          900140 Feeling thermometer - Democratic U.S. Senate candidate
+          900141 Feeling thermometer - Republican U.S. Senate candidate
+          900142 Feeling thermometer - U.S. Senate incumbent whose
+              term is not up - race in state
+          900143 Feeling thermometer - U.S. Senate incumbent - no race
+              in state
+          900144 Feeling thermometer - second U.S. Senate incumbent -
+              no race in state
+          900145 Feeling thermometer - Democratic U.S. House candidate
+          900146 Feeling thermometer - Republican U.S. House candidate
+          900147 Feeling thermometer - Democratic gubernatorial candidate
+          900148 Feeling thermometer - Republican gubernatorial candidate
+          900149 Feeling thermometer - Governor or retiring Governor -
+              no race in state
+          900150 Feeling thermometer - third party gubernatorial
+              candidate (Connecticut only)
+          900151 Feeling thermometer - Democratic party
+          900152 Feeling thermometer - Republican party
+          900153 Feeling thermometer - political parties in general
+
+
+                     FEELING THERMOMETER:  GROUPS IN SOCIETY
+
+          900154 Feeling thermometer - supporters of abortion
+          900155 Feeling thermometer - Blacks
+          900156 Feeling thermometer - conservatives
+          900157 Feeling thermometer - labor unions
+          900158 Feeling thermometer - the women's movement
+          900159 Feeling thermometer - people on welfare
+          900160 Feeling thermometer - people seeking to protect the
+              environment
+          900161 Feeling thermometer - liberals
+          900162 Feeling thermometer - poor people
+          900163 Feeling thermometer - opponents of abortion
+
+
+                   R'S ASSESSMENT OF CONGRESSIONAL PERFORMANCE
+
+          900164 Does R approve/disapprove of the way Congress has been
+              handling its job
+          900165 How strongly does R approve/disapprove of Congress'
+              handling of its job
+
+
+                                 R'S VOTE:  1988
+
+          900166 Did R vote in 1988 election
+          900167 Who did R vote for in 1988 presidential election
+
+
+                                PROBE INDICATORS
+
+          900168 Was question B13a probed by interviewer
+          900169 Was question B13b probed by interviewer
+          900170 Was question B13c probed by interviewer
+          900171 Was question B13d probed by interviewer
+          900172 Was question B13e probed by interviewer
+          900173 Was question B13f probed by interviewer
+          900174 Was question B13g probed by interviewer
+          900175 Was question B13h probed by interviewer
+          900176 Was question B13k probed by interviewer
+          900177 Was question B13m probed by interviewer
+          900178 Was question B13n probed by interviewer
+          900179 Was question B13o probed by interviewer
+          900180 Was question B13p probed by interviewer
+          900181 Was question B13q probed by interviewer
+          900182 Was question B13r probed by interviewer
+          900183 Was question B13t probed by interviewer
+          900184 Was question B13u probed by interviewer
+          900185 Was question B14a probed by interviewer
+          900186 Was question B14b probed by interviewer
+          900187 Was question B14c probed by interviewer
+          900188 Was question B14d probed by interviewer
+          900189 Was question B14e probed by interviewer
+          900190 Was question B14f probed by interviewer
+          900191 Was question B14g probed by interviewer
+          900192 Was question B14h probed by interviewer
+          900193 Was question B14j probed by interviewer
+          900194 Was question B14k probed by interviewer
+          900195 Was question B14m probed by interviewer
+          900196 Was question B14n probed by interviewer
+          900197 Was question B14o probed by interviewer
+
+
+                 R'S LIKES/DISLIKES HOUSE CANDIDATE:  DEMOCRATIC
+
+          900198 Is there anything R likes about Democratic candidate
+              for House of Representatives
+          900199 What R likes about House Democratic candidate -
+              first mention
+          900200 What R likes about House Democratic candidate -
+              second mention
+          900201 What R likes about House Democratic candidate -
+              third mention
+          900202 What R likes about House Democratic candidate -
+              fourth mention
+          900203 What R likes about House Democratic candidate -
+              fifth mention
+          900204 Is there anything R dislikes about Democratic
+              candidate for House of Representatives
+          900205 What R dislikes about House Democratic candidate -
+              first mention
+          900206 What R dislikes about House Democratic candidate -
+              second mention
+          900207 What R dislikes about House Democratic candidate -
+              third mention
+          900208 What R dislikes about House Democratic candidate -
+              fourth mention
+          900209 What R dislikes about House Democratic candidate -
+              fifth mention
+
+
+                 R'S LIKES/DISLIKES HOUSE CANDIDATE:  REPUBLICAN
+
+          900210 Is there anything R likes about Republican candidate
+              for House of Representatives
+          900211 What R likes about House Republican candidate -
+              first mention
+          900212 What R likes about House Republican candidate -
+              second mention
+          900213 What R likes about House Republican candidate -
+              third mention
+          900214 What R likes about House Republican candidate -
+              fourth mention
+          900215 What R likes about House Republican candidate -
+              fifth mention
+          900216 Is there anything R dislikes about Republican
+              candidate for House of Representatives
+          900217 What R dislikes about House Republican candidate -
+              first mention
+          900218 What R dislikes about House Republican candidate -
+              second mention
+          900219 What R dislikes about House Republican candidate -
+              third mention
+          900220 What R dislikes about House Republican candidate -
+              fourth mention
+          900221 What R dislikes about House Republican candidate -
+              fifth mention
+
+          900222 Interviewer Checkpoint: Type of race - one or two
+              candidates
+
+
+                        IMPORTANT ISSUES:  HOUSE CAMPAIGN
+
+          900223 Important issues to R in campaign for House of
+              Representatives - first mention
+          900224 Important issues to R in campaign for House of
+              Representatives - second mention
+          900225 Important issues to R in campaign for House of
+              Representatives - third mention
+
+          900226 Interviewer Checkpoint: Has R mentioned issues
+
+          900227 Issue most important to R in campaign
+          900228 Did R prefer one of the candidates because of this issue
+          900229 Candidate R preferred
+          900230 Party of candidate named
+
+
+                        R'S KNOWLEDGE OF HOUSE INCUMBENT
+
+          900231 Two House candidates running: was either candidate
+              already in House of Representatives
+          900232 Two House candidates running: which candidate was
+              already in House of Representatives
+          900233 Two House candidates running: party of candidate
+              already in House of Representatives
+          900234 One House candidate running: was candidate already
+              in House of Representatives
+          900235 One House candidate running: candidate number code
+          900236 One House candidate running: party of candidate
+
+          900237 Interviewer Checkpoint: Districts in which House
+              incumbent ran
+
+
+                        R'S CONTACT WITH HOUSE INCUMBENT
+
+          900238 Did R have any contact with incumbent
+          900239 Did R meet incumbent personally
+          900240 Did R attend meeting/gathering where incumbent spoke
+          900241 Did R talk with incumbent's staff/office
+          900242 Did R receive something in mail from incumbent
+          900243 Did R read about incumbent in newspaper/magazine
+          900244 Did R hear incumbent on radio
+          900245 Did R see incumbent on television
+          900246 R had contact with incumbent in other ways
+          900247 Does R know anyone who had contact with incumbent
+
+          900248 Interviewer Checkpoint: District in which House
+              incumbent had opposition
+
+
+                        R'S CONTACT WITH HOUSE CHALLENGER
+
+          900249 Did R have any contact with candidate
+          900250 Did R meet candidate personally
+          900251 Did R attend meeting/gathering where candidate spoke
+          900252 Did R talk with candidate's staff/office
+          900253 Did R receive something in mail from candidate
+          900254 Did R read about candidate in newspaper/magazine
+          900255 Did R hear candidate on radio
+          900256 Did R see candidate on television
+          900257 R had contact with candidate in other ways
+          900258 Does R know anyone who had contact with candidate
+
+
+            R'S CONTACT WITH DEMOCRATIC HOUSE CANDIDATE, NO INCUMBENT
+
+          900259 Did R have any contact with candidate
+          900260 Did R meet candidate personally
+          900261 Did R attend meeting/gathering where candidate spoke
+          900262 Did R talk with candidate's staff/office
+          900263 Did R receive something in mail from candidate
+          900264 Did R read about candidate in newspaper/magazine
+          900265 Did R hear candidate on radio
+          900266 Did R see candiate on television
+          900267 R had contact with candidate in other ways
+          900268 Does R know anyone who had contact with candidate
+
+
+            R'S CONTACT WITH REPUBLICAN HOUSE CANDIDATE, NO INCUMBENT
+
+          900269 Did R have any contact with candidate
+          900270 Did R meet candidate personally
+          900271 Did R attend meeting/gathering where candidate spoke
+          900272 Did R talk with candidate's staff/office
+          900273 Did R receive something in mail from candidate
+          900274 Did R read about candidate in newspaper/magazine
+          900275 Did R hear candidate on radio
+          900276 Did R see candidate on television
+          900277 R had contact with candidate in other ways
+          900278 Does R know anyone who had contact with candidate
+
+                             VOTING SECTION:  VOTERS
+
+          900279 Did R vote in 1990 election
+          900280 Was R registered to vote in this election
+          900281 Is R registered to vote at current address
+          900282 In what county and state is R registered
+
+          900283 Interviewer Checkpoint: Did R vote in 1990 election
+
+          900284 Did R vote in person or by absentee ballot
+          900285 Where R has voted
+
+          900286 Interviewer Checkpoint: Is R registered to vote
+              in county/state of interview
+
+          900287 Did R vote for House of Representatives candidate
+          900288 For which House of Representatives candidate did R
+              vote
+          900289 R's vote for House candidate - party
+          900290 Was R's preference strong for House candidate
+
+          900291 Interviewer Checkpoint: Was there a Senate race in R's
+              state
+
+          900292 Did R vote for a Senate candidate
+          900293 For which Senate candidate did R vote
+          900294 R's vote for Senate candidate - party
+          900295 Was R's preference strong for Senate candidate
+
+          900296 Interviewer Checkpoint: Was there a gubernatorial
+              race in R's state
+
+          900297 Did R vote for gubernatorial candidate
+          900298 For which gubernatorial candidate did R vote
+          900299 R's vote for gubernatorial candidate - party
+
+
+                           VOTING SECTION:  NON-VOTERS
+
+          900300 Did R prefer one candidate for U.S. House
+          900301 Whom did R prefer for U.S. House
+          900302 R's preference for House candidate - party
+
+
+                    NON-CAMPAIGN CONTACT WITH HOUSE INCUMBENT
+
+          900303 Did R or family member ever contact U.S. House
+              incumbent/office
+          900304 Reason for contact with House incumbent - to express
+              opinion
+          900305 Reason for contact with House incumbent - to seek
+              information
+          900306 Reason for contact with House incumbent - to seek
+              help with problem
+          900307 Did R get response from House incumbent
+          900308 How satisfied was R with response from incumbent
+          900309 Does R know anyone else who had contact with U.S.
+              House incumbent
+          900310 Did person/group get response from House incumbent
+          900311 How satisfied was person/group with response from
+              incumbent
+          900312 How helpful would House incumbent be with another
+              problem
+
+
+                        R'S ASSESSMENT OF HOUSE INCUMBENT
+
+          900313 How well does U.S. representative keep in touch with
+              district
+          900314 Does R remember a bill representative voted on
+          900315 Does R agree/disagree with way representative voted
+          900316 Anything special done by House incumbent for district/
+              people
+
+
+                            R'S PARTY IDENTIFICATION
+
+          900317 R's party identification
+          900318 Strength of R's party identification
+          900319 R closer to Republican/Democratic party
+          900320 Summary: R's party identification
+
+
+                           IMPORTANT NATIONAL PROBLEMS
+
+          900321 How often does R follow government/public affairs
+          900322 What is most important national problem -
+              1st mention
+          900323 What is most important national problem -
+              2nd mention
+          900324 What is most important national problem -
+              3rd mention
+
+          900325 Interviewer Checkpoint: Has R mentioned any problems
+
+          900326 What is the single most important national problem
+
+          900327 Interviewer Checkpoint: Form A or B
+
+                                  INDIVIDUALISM
+
+          900328 Fitting in with people vs. acting according to your
+              own standards
+          900329 Taking care of yourself vs. caring more about society
+          900330 Raising children to be independent-minded vs. obedient
+          900331 Strong government vs. free market in handling economic
+              problems
+          900332 Being poor due to not working hard enough vs.
+              circumstances beyond control
+          900333 Less government vs. more government
+          900334 Cooperation vs. self-reliance
+          900335 The main reason government has become bigger
+
+
+                                PARTY DIFFERENCES
+
+          900336 Does R see important differences between parties
+          900337 Important party differences: party preference -
+              first mention
+          900338 Party difference content - first mention
+          900339 Important party differences: party preference -
+              second mention
+          900340 Party difference content - second mention
+          900341 Important party differences: party preference -
+              third mention
+          900342 Party difference content - third mention
+          900343 Important party differences: party preference -
+              fourth mention
+          900344 Party difference content - fourth mention
+          900345 Important party differences: party preference -
+              fifth mention
+          900346 Party difference content - fifth mention
+          900347 Important party differences: party preference -
+              sixth mention
+          900348 Party difference content - sixth mention
+          900349 Does R think one party more conservative at national
+              level
+          900350 Which party does R think is more conservative
+
+
+                                 EASTERN EUROPE
+
+          900351 How much has R heard about changes in Soviet Union/
+              eastern Europe
+          900352 Does R think the cold war is coming to an end
+          900353 Should U.S. give economic assistance to east European
+              countries that have turned toward democracy
+
+                                NATIONAL SECURITY
+
+          900354 Is Soviet Union or Japan bigger threat to national
+              security of U.S.
+
+
+                             FEDERAL BUDGET DEFICIT
+
+          900355 Does R approve/disapprove of efforts to reduce federal
+              deficit
+          900356 Did democrats/Republicans work hardest to reduce deficit
+
+
+                                  PERSIAN GULF
+
+          900357 Was sending U.S. troops to Persian Gulf right
+          900358 What should U.S. do now in Persian Gulf
+          900359 Does R approve/disapprove of Bush's handling of Persian
+              Gulf crisis
+          900360 How strongly does R approve/disapprove of Bush's
+              handling of Persian Gulf crisis
+
+
+                    PARTY CONTACTS WITH R DURING THE CAMPAIGN
+
+          900361 Did a political party worker contact R during
+              campaign
+          900362 Which party(s) contacted R during campaign
+          900363 Did anyone else contact R during campaign
+          900364 Which candidate did the contact ask R to support -
+              1st mention
+          900365 Which candidate did the contact ask R to support -
+              2nd mention
+
+
+                            R'S POLITICAL ACTIVITIES
+
+          900366 Did R try to influence other's vote choice
+          900367 Did R wear a button, put a sticker on the car, or
+              put up a sign
+          900368 Did R attend any political meetings or rallies
+          900369 Did R work for party or candidate
+          900370 Did R use $1 political contribution option on
+              federal income tax return
+          900371 Did R contribute money to an individual candidate
+          900372 R gave money to candidate from which party
+          900373 Did R give money to specific political party
+          900374 Which party did R give money to
+          900375 Did R give money to any other group supporting/opposing
+              candidates
+          900376 Was R contacted about registering or voting
+
+
+              INCREASE/DECREASE SPENDING ON FEDERAL BUDGET PROGRAMS
+
+          900377 Increase/decrease spending on protection of the
+              environment
+          900378 Increase/decrease spending on foreign aid
+          900379 Increase/decrease spending on fighting the disease
+              AIDS
+          900380 Increase/decrease spending on social security
+          900381 Increase/decrease spending for the war on drugs
+          900382 Increase/decrease spending on food stamps
+          900383 Increase/decrease spending on public schools
+          900384 Increase/decrease spending on the homeless
+          900385 Increase/decrease spending on childcare
+          900386 Increase/decrease spending on programs that assist
+              Blacks
+          900387 Increase/decrease spending on the space program
+
+
+           WHICH PARTY WOULD DO A BETTER JOB HANDLING VARIOUS PROBLEMS
+
+          900388 Which party is more likely to cut social security
+          900389 Which party is more likely to raise taxes
+          900390 Which party would do better job of handling the
+              economy
+          900391 Which party would do better job of handling the
+              environment
+          900392 Which party would do better job of dealing with crime
+          900393 Which party would do better job of handling foreign
+              affairs
+          900394 Which party would do better job of cleaning up savings
+              and loan business
+
+
+                      R'S RECOGNITION OF POLITICAL FIGURES
+
+          900395 Does R know what job/office Dan Quayle holds
+          900396 Does R know what job/office George Mitchell holds
+          900397 Does R know what job/office William Rehnquist holds
+          900398 Does R know what job/office Mikhail Gorbachev holds
+          900399 Does R know what job/office Margaret Thatcher holds
+          900400 Does R know what job/office Nelson Mandela holds
+          900401 Does R know what job/office Tom Foley holds
+
+
+                R'S KNOWLEDGE OF PARTY REPRESENTATION IN CONGRESS
+
+          900402 Does R know which party had the most members in the
+              House of Representatives before the election
+          900403 Does R know which party had the most members in the
+              Senate before the election
+
+                 R'S ASSESSMENT OF REPRESENTATIVE'S PERFORMANCE
+
+          900404 R's approval/disapproval of representative's handling of
+              job
+          900405 Strength of R's approval/disapproval of representative's
+              handling of job
+
+
+                     POSITIONS ON LIBERAL/CONSERVATIVE SCALE
+
+          900406 Liberal/conservative scale-R
+          900407 If R had to choose, would R consider self a liberal/
+              conservative
+          900408 Liberal/conservative scale-Bush
+          900409 Liberal/conservative scale-Democratic House candidate
+          900410 Liberal/conservative scale-Republican House candidate
+          900411 Liberal/conservative scale-Democratic Senate candidate
+          900412 Liberal/conservative scale-Republican Senate candidate
+          900413 Liberal/conservative scale-Democratic party
+          900414 Liberal/conservative scale-Republican party
+          900415 liberal/conservative scale-the federal government
+
+
+                        R'S PERSONAL FINANCIAL SITUATION
+
+          900416 Does R feel better/worse off financially than a
+              year ago
+          900417 How much better/worse off does R feel financially
+          900418 Has federal economic policy made a difference on R's
+              financial position
+          900419 How much better/worse has it made R financially
+          900420 Will R be better/worse off financially a year from now
+          900421 Will R be much or somewhat better/worse off financially
+              a year from now
+
+
+                         R'S OPINION OF NATIONAL ECONOMY
+
+          900422 Does R think the nation's economy has gotten better/
+              worse/stayed the same in the past year
+          900423 How much better/worse is the nation's economy
+          900424 Does R see the economy getting better/worse/staying
+              about the same in the next year
+
+          900425 Interviewer Checkpoint: Form A or B
+
+
+                           EQUAL OPPORTUNITIES/RIGHTS
+
+          900426 Society should ensure equal opportunity to succeed
+          900427 We have gone too far in pushing equal rights
+          900428 A problem in this country is that we don't give
+              everyone an equal chance
+          900429 We should worry less about equality
+          900430 It is not a problem if people have unequal chances
+          900431 We would have fewer problems if people were treated
+              more equally
+
+
+                LIMITS ON IMPORTS/SANCTIONS AGAINST SOUTH AFRICA
+
+          900432 Increase/decrease limits on foreign imports scale-R
+              (Form A)
+          900433 Increase/decrease sanctions against South Africa scale-R
+              (Form A)
+          900434 Does R favor increasing/decreasing limits on foreign
+              imports (Form B)
+          900435 How much does R favor increasing/decreasing limits
+              on foreign imports (Form B)
+          900436 Does R favor increasing/decreasing sanctions against
+              South Africa (Form B)
+          900437 How much does R favor increasing/decreasing sanctions
+              against South Africa (Form B)
+
+
+                               WOMEN RIGHTS SCALE
+
+          900438 Women's rights scale-R
+
+
+                             DEFENSE SPENDING SCALE
+
+          900439 Defense spending scale-R
+          900440 Defense spending scale-Bush
+          900441 Defense spending scale-Democratic House candidate
+          900442 Defense spending scale-Republican House candidate
+          900443 Defense spending scale-Democratic party
+          900444 Defense spending scale-Republican party
+          900445 Defense spending scale-federal government
+
+
+                       GUARANTEED STANDARD OF LIVING SCALE
+
+          900446 Guaranteed standard of living/job scale-R
+
+
+                      SOCIO/ECONOMIC STATUS OF BLACKS SCALE
+
+          900447 Social/economic status of Blacks scale-R
+          900448 Social/economic status of Blacks scale-Bush
+          900449 Social/economic status of Blacks scale-Democratic party
+          900450 Social/economic status of Blacks scale-Republican party
+          900451 Social/economic status of Blacks scale-federal
+              government
+
+
+                       GOVERNMENT SERVICES/SPENDING SCALE
+
+          900452 Government services/spending scale-R
+          900453 Government services/spending scale-Bush
+          900454 Government services/spending scale-Democratic House
+              candidate
+          900455 Government services/spending scale-Republican House
+              candidate
+          900456 Government services/spending scale-Democratic party
+          900457 Government services/spending scale-Republican party
+          900458 Government services/spending scale-the federal
+              government
+
+
+                        JOB DISCRIMINATION AGAINST WOMEN
+
+          900459 Does R favor/oppose laws to protect women against job
+              discrimination
+          900460 How strongly does R favor/oppose laws protecting women
+              against job discrimination
+          900461 How much job discrimination do women face
+
+          900462 Interviewer Checkpoint: Form A or B
+
+
+                  PREFERENTIAL HIRING/STUDENT QUOTAS FOR BLACKS
+
+          900463 R is for/against preferential hiring and promotion
+              of Blacks
+          900464 How strongly does R favor/oppose preferential hiring and
+              promotion of Blacks
+          900465 R is for/against quotas to admit Black students
+          900466 How strongly does R favor/oppose quotas
+
+
+                                  SCHOOL PRAYER
+
+          900467 R's opinion on school prayer
+          900468 How strongly does R favor their opinion on school prayer
+
+
+                         DESEGREGATION OF PUBLIC SCHOOLS
+
+          900469 Does R have opinion on government's involvement in
+              desegregation of public schools
+          900470 R's opinion on government's involvement in desegregation
+              of public schools
+
+
+                      BURNING/DESTROYING THE AMERICAN FLAG
+
+          900471 Should burning/destroying the American flag as political
+              protest be legal/illegal
+          900472 Favor/oppose constitutional amendment outlawing
+              destruction of flag for political reasons
+
+
+                    PROBLEMS IN THE SAVINGS AND LOAN INDUSTRY
+
+          900473 Has R heard/read about problems in savings and loan
+              business
+          900474 Who is more to blame for problems of savings and loan
+              business
+          900475 Is Reagan/Bush/Congress more to blame for savings and
+              loan problems
+          900476 Is Democratic/Republican party more to blame for savings
+              and loan problems
+
+
+                                  DEATH PENALTY
+
+          900477 Does R favor/oppose the death penalty
+          900478 How strongly does R favor/oppose the death penalty
+
+
+                                    ABORTION
+
+          900479 R's position on abortion
+          900480 Does R favor/oppose parental consent law
+          900481 How strongly does R favor/oppose parental consent law
+          900482 Does R favor/oppose government-funded abortion
+          900483 How strongly does R favor/oppose government-funded
+              abortion
+
+
+                                  TAX INCREASE
+
+          900484 Would R support/oppose tax increase to reduce federal
+              budget deficit
+          900485 How strongly does R support/oppose tax increase to
+              reduce federal budget deficit
+          900486 Would R support/oppose tax increase to clean up
+              nation's air and water
+          900487 How strongly does R support/oppose tax increase to
+              clean up nation's air and water
+
+                        GOVERNMENT CHILD CARE ASSISTANCE
+
+          900488 Should government provide child care assistance to low
+              and middle income working parents
+          900489 Would R favor/oppose law requiring national service of
+              all young adults
+
+
+                                 PEACE DIVIDEND
+
+          900490 How peace dividend should be used
+
+
+                           STRICT POLLUTION STANDARDS
+
+          900491 Should government force compliance with strict pollution
+              standards
+
+
+                              JAPANESE COMPETITION
+
+          900492 Do Japanese companies compete unfairly or is U.S.
+              blaming Japan for its own economic problems
+
+
+                        WHICH PARTY KEEP U.S. OUT OF WAR
+
+          900493 Which party could better handle keeping the U.S. out of
+              war
+
+
+                            STRENGTH OF U.S. POSITION
+
+          900494 Has the United States' position grown
+              stronger/weaker/stayed the same in the past year
+
+          900495 Interviewer Checkpoint: Form A or B
+
+
+                IMPORTANCE OF STRONG MILITARY/CONCERNS ABOUT WAR
+
+          900496 How important is a strong military force for
+              dealing with our enemies
+          900497 How worried is R about the U.S. getting into a
+              conventional war
+          900498 Does R agree/disagree U.S. should stay out of
+              problems in other parts of the world
+          900499 How worried is R about the U.S. getting into a
+              nuclear war
+
+                                  MORAL VALUES
+
+          900500 Newer lifestyles are contributing to societal
+              breakdown
+          900501 We should adjust moral behavior to changes in the
+              world
+          900502 There would be fewer problems if more emphasis was
+              placed on traditional family ties
+          900503 We should be more tolerant of people with different
+              moral standards
+
+
+                    R'S FEELINGS ABOUT GOVERNMENT IN GENERAL
+
+          900504 How much of the time does R think he/she can
+              trust government
+          900505 How much does the government waste our tax dollars
+          900506 Is government run by a few big interests or for the
+              benefit of all
+          900507 How many people in government does R think are
+              crooked
+          900508 How much attention does R feel government pays to
+              what people think
+          900509 People like me don't have any say about government
+          900510 Politics are so complicated a person like me can't
+              understand what's going on
+
+
+                           IMPORTANCE OF RELIGION TO R
+
+          900511 Is religion an important part of R's life
+          900512 How much guidance does religion provide in R's life
+          900513 How often does R pray
+          900514 How often does R read the bible
+
+          900515 Interviewer Checkpoint: Form A or B
+
+          900516 R's view of the bible
+          900517 R's feelings about the bible
+
+
+                         CIVIL RIGHTS/POSITION OF BLACKS
+
+          900518 Does R think civil rights leaders are pushing too
+              fast/slow
+          900519 How much change does R think there has been in the
+              position of Blacks
+          900520 Blacks have gotten less than they deserve over the
+              past few years
+          900521 Blacks should overcome prejudice without any
+              special favors
+
+          900522 If Blacks would try harder they could be just as
+              well off as whites
+          900523 Generations of slavery and discrimination make it
+              difficult for Blacks to move up
+
+
+                      R'S RELIGIOUS PREFERENCE AND PRACTICE
+
+          900524 Does R ever attend religious services
+          900525 Does R consider self as part of a particular church
+              or denomination
+          900526 How often does R attend religious services
+          900527 Does R go to religious services once a week or more
+              often
+          900528 R's religious preference
+          900529 R's religious denomination
+          900530 R's religious group association - Baptist
+          900531 R's religious group association - larger Baptist or
+              local
+          900532 R's religious group association - Lutheran
+          900533 R's religious group association - Methodist
+          900534 R's religious group association - Presbyterian
+          900535 R's religious group association - Reformed
+          900536 R's religious group association - Brethren
+          900537 R's religious group association - "Christian"
+          900538 R's religious group association - Church of Christ
+          900539 R's religious group association - Church of God
+          900540 R's religious group association - "other" responses
+          900541 R's religious group association - miscellaneous
+              denomination
+          900542 Is R's "other" religious denomination Christian?
+          900543 Does R attend/consider self Orthodox, Conservative,
+              Reform or other Jew
+          900544 What best describes R's christianity
+          900545 Does R consider self a born-again Christian
+          900546 Religious affiliation summary
+
+
+                          PERSONAL INFORMATION ABOUT R
+
+          900547 R's gender
+          900548 R's age from household listing
+          900549 R's race
+          900550 R's date of birth - month
+          900551 R's date of birth - year
+          900552 R's recoded age
+          900553 R's marital status
+          900554 Highest grade of school completed by R
+          900555 Does R have a high school diploma
+          900556 R's highest college degree
+          900557 Summary: R's education
+          900558 Interviewer Checkpoint: R is married or living with
+              partner
+
+                          EDUCATION LEVEL OF R'S SPOUSE
+
+          900559 Highest grade of school completed by spouse/partner
+          900560 Does spouse/partner have high school diploma
+          900561 Spouse/partner's highest college degree
+          900562 Summary: spouse/partner's education
+
+          900563 Interviewer Checkpoint: R is male and married/partnered
+
+
+                          R'S WIFE/PARTNER WORK STATUS
+
+          900564 Is R's wife/partner working now
+
+
+                             R'S OCCUPATION SECTION
+
+          900565 R's present employment status
+          900566 Summary: R's working status
+          900567 Has R (unemployed) ever worked for pay
+          900568 When did R retire
+          900569 Has R (disabled) ever worked for pay
+          900570 Is R (homemaker/student) working now
+          900571 Has R (homemaker/student) worked in last six months
+
+                        R Working or Temporarily Laid Off
+
+          900572 R's present occupation - census occupation code
+          900573 R's present occupation - collapsed census occupation
+              code
+          900574 R's present occupation - census industry code
+          900575 Is R self-employed
+          900576 Is R employed by federal/state/local government
+          900577 Number of hours per week R works
+          900578 Is R satisfied with number of hours worked
+          900579 How worried is R about job security
+
+          900580 Interviewer Checkpoint: Is R working now
+
+          900581 Was R out of work within the last six months
+          900582 Has R had to take a pay cut/reduce hours within the last
+              six months
+
+
+
+                       R Unemployed, Retired, or Disabled
+
+          900583 R's last occupation - census occupation code
+          900584 R's last occupation - collapsed census occupation
+          900585 R's last occupation - census industry code
+          900586 Was R self-employed on last regular job
+          900587 Was R employed by federal/state/local government
+          900588 Did R work within the last six months
+          900589 Number of hours worked per week on last job
+
+          900590 Interviewer Checkpoint: Is R unemployed
+
+          900591 Is R doing any work for pay at the present time
+          900592 Is R looking for work at the present time
+          900593 How worried is R about not being able to find a job
+
+                             R Homemaker or Student
+
+          900594 R's last occupation - census occupation code
+          900595 R's last occupation - collapsed census occupation code
+          900596 R's last occupation - census industry code
+          900597 Was R self-employed on last regular job
+          900598 Was R employed by federal/state/local government
+          900599 Number of hours worked per week on last job
+          900600 Is R looking for work at the present time
+          900601 How worried is R about not being able to find a job
+
+
+                         R'S OCCUPATIONAL DATA - STACKED
+
+          900602 R's present/last occupation - census occupation code
+          900603 R's present/last occupation - collapsed census
+              occupation code
+          900604 R's present/last occupation - census industry code
+          900605 Is/was R self-employed on current/last regular job
+          900606 Is/was R employed by federal/state/local government
+          900607 Number of House work/ed per week on current/last job
+          900608 Is R worried about job security
+          900609 Did R (unemployed/retired/disabled) work within the last
+              six months
+          900610 Is R (unemployed/retired/disabled) looking for work at
+              the present time
+          900611 Has R (unemployed/disabled) ever worked for pay
+
+          900612 Interviewer Checkpoint: Is R married and female
+
+                      R'S HUSBAND/PARTNER OCCUPATIONAL DATA
+
+          900613 Husband/partner's present employment status
+          900614 Summary: husband/partner's working status
+          900615 Has husband/partner (unemployed) ever done any work for
+              pay
+          900616 When did husband/partner retire
+          900617 Has husband/partner (disabled) ever done any work for
+              pay
+          900618 Is husband/partner (homemaker/student) doing any work
+              for pay at the present time
+          900619 Has husband/partner (homemaker/student) worked for pay
+              in the last six months
+
+                 Husband/Partner Working or Temporarily Laid Off
+
+          900620 Husband/partner's present occupation - census occupation
+              code
+          900621 Husband/partner's present occupation - collapsed
+              census occupation code
+          900622 Husband/partner's present occupation - census industry
+              code
+          900623 Is husband/partner self-employed
+          900624 Is husband/partner employed by federal/state/local
+              government
+          900625 Number of hours per week husband/partner works
+          900626 Is husband/partner satisfied with number of hours worked
+          900627 How worried is husband/partner about job security
+
+          900628 Interviewer Checkpoint: Is husband/partner working now
+
+          900629 Was husband/partner out of work within the last six
+              months
+          900630 Has husband/partner had to take a pay cut/reduce
+              hours within the last six months
+
+                Husband/Partner Unemployed, Retired, or Disabled
+
+          900631 Husband/partner's last occupation - census occupation
+              code
+          900632 Husband/partner's last occupation - collapsed
+              census occupation code
+          900633 Husband/partner's last occupation - census industry code
+          900634 Was husband/partner self-employed on last job
+          900635 Was husband/partner employed by federal/state/local
+              government on last job
+          900636 Was husband/partner employed in the last six months
+          900637 Number of hours per week husband/partner worked on last
+              job
+
+          900638 Interviewer Checkpoint: Is husband/partner unemployed
+
+          900639 Is husband/partner doing any work for pay at the present
+              time
+          900640 Is husband/partner looking for work at the present time
+          900641 How worried is husband/partner about not being able to
+              find a job
+
+                      Husband/Partner Homemaker or Student
+
+          900642 Husband/partner's last regular occupation - census
+              occupation code
+          900643 Husband/partner's last regular occupation - collapsed
+              census occupation code
+          900644 Husband/partner's last regular occupation - census
+              industry code
+          900645 Was husband/partner self-employed on last regular job
+          900646 Was husband/partner employed by federal/state/local
+              government on last regular job
+          900647 Number of hours per week husband/partner worked on
+              last regular job
+          900648 Is husband/partner looking for work at the present time
+          900649 How worried is husband/partner about not being able to
+              find a job
+
+
+                  HUSBAND/PARTNER'S OCCUPATIONAL DATA - STACKED
+
+          900650 H/p's present/last occupation - census occupation code
+          900651 H/p's present/last occupation - collapsed census
+              occupation code
+          900652 H/p's present/last occupation - census industry code
+          900653 Is/was h/p self-employed on current/last regular job
+          900654 Is/was h/p employed by federal/state/local government
+          900655 Number of House work/ed per week on current/last job
+          900656 Is h/p worried about job security
+          900657 Did h/p (unemployed/retired/disabled) work within the
+              last six months
+          900658 Is h/p (unemployed/retired/disabled) looking for work at
+              the present time
+          900659 Has h/p (unemployed/disabled) ever worked for pay
+
+
+                              LABOR UNION POSITION
+
+          900660 Does anyone in R's Household belong to a labor union
+          900661 Who belongs to a labor union
+
+          900662 Interviewer Checkpoint: Is R only family member age
+              14 or older
+
+                           R'S INCOME AND SOCIAL CLASS
+
+          900663 Family/household income before taxes
+          900664 R's income before taxes
+          900665 Does R think of self as belonging to a social class
+          900666 Does R think of self as middle or working class
+          900667 Does R think of self as average or upper middle/working
+          900668 Summary: R's social class
+          900669 Does R feel close to middle/working class
+
+
+                               R'S ETHNIC IDENTITY
+
+          900670 What does R consider his/her main ethnic group (other
+              than American) - first mention
+          900671 What does R consider his/her main ethnic group (other
+              than American) - second mention
+
+          900672 Interviewer Checkpoint: R mentioned more than one group
+
+          900673 With which group does R most closely identify
+          900674 Were R's parents born in this country
+
+          900675 Interviewer Checkpoint: Did R mention some hispanic
+              group
+
+          900676 Is R of spanish or hispanic origin/descent
+          900677 Category that best describes R's hispanic origin
+
+
+                             R'S COMMUNITY/RESIDENCE
+
+          900678 R's birthplace
+          900679 Where did R grow up
+          900680 Community type R grew up in
+          900681 How long has R lived in present city/town/township/
+              county
+          900682 Where did R live before - city
+          900683 Where did R live before - state or country
+          900684 How long has R lived in this house/condo/apartment
+          900685 Does R/R's family own or rent R's home
+
+
+                           CONDITIONS OF THE INTERVIEW
+
+          900686 Others present at interview
+          900687 R's cooperation
+          900688 R's level of information about politics/public affairs
+          900689 R's apparent intelligence
+          900690 Was R suspicious before interview
+          900691 R's interest in the interview
+          900692 R's sincerity
+          900693 Did R report income correctly
+          900694 Interviewer's estimate of R's family income
+          900695 Was interview conducted in english
+          900696 Language in which interview was conducted (if other than
+              english)
+
+
+                          R'S REACTION TO THE INTERVIEW
+
+          900697 R's reaction to interview: negative - general
+          900698 Negative - too long
+          900699 Negative - too complicated
+          900700 Negative - boring/tedious/repetitious
+          900701 R wanted to stop before completion
+          900702 R was ill/deaf/tired, interview was hard for R
+          900703 R was confused by questions, interview was hard for R
+          900704 Doubts over lack of knowledge/suitability for interview
+          900705 Doubts over lack of political knowledge
+          900706 R was agitated or stressed by interview process
+          900707 R angry at interview content
+          900708 R concerned about sampling purposes or bias
+          900709 R could not read respondent booklet
+          900710 R appeared to enjoy interview
+          900711 Neutral or no
+
+
+                                 VOTE VALIDATION
+
+          900712 Vote validation filter variable
+          900713 Interview ID
+          900714 Election Office Number
+
+                Location and Verification of Registration Record
+
+          900715 Was a registration record found for respondent
+          900716 How well does R's name on coversheet match the name on
+              the registration record
+          900717 Does birth date match
+          900718 Month of birth on registration record
+          900719 Year of birth on registration record
+          900720 Is birthday on record within 10 years of coversheet date
+          900721 Is address on registration record same as that on
+              coversheet
+
+          900722 Interviewer Checkpoint: Household composition
+
+          900723 Using registration record, did R vote in November 1988
+          900724 Using registration record, did R vote in November 1990
+          900725 Is coversheet polling place recognizable to office as
+              their jurisdiction
+          900726 Is polling place given by R right for address on
+              coversheet
+          900727 Can a record be found when the correct records/precinct
+              for this polling place are checked
+          900728 Check local phone book to match surname with coversheet
+              address
+          900729 Does surname spelling match that on coversheet
+          900730 Recheck registration records for name as spelled in
+              telephone book
+          900731 Does address on record match that on coversheet
+          900732 Check with office: is one address a mailing address
+
+          900733 Was the registration record found in current &/or
+              active file
+          900734 Month R registered
+          900735 Year R registered
+
+          900736 Was record located in purged/deceased/cancelled
+              /to be processed/inactive file
+          900737 Month record was purged
+          900738 Year record was purged
+          900739 Month R registered
+          900740 Year R registered
+
+                                   Did R Vote
+
+          900741 Interviewer Checkpoint: Vote information on
+              registration records
+
+          900742 Does registration record indicate R voted November 1990
+          900743 Month R last voted
+          900744 Day R last voted
+          900745 Year R last voted
+          900746 Are there any records with 1990 voting information other
+              than registration records
+          900747 Do voting records indicate R voted in November 1990
+
+          900748 Interviewer Checkpoint: Registration record found for R
+
+          900749 Does registration record indicate R voted November 1988
+          900750 Are there any records with voting information other
+              than registration records
+          900751 Do voting records indicate R voted in November 1988
+
+            Using Voter Records to Determine if a Registered R Voted
+
+          900752 Do any voting records indicate R voted in November 1990
+          900753 Do any voting records indicate R voted in November 1988
+          900754 1990 vote summary
+          900755 1988 vote summary
+          900756 Summary: assignment of R to vote/non-vote
+
+                     ELECTION ADMINISTRATION (OFFICE) SURVEY
+
+          900757 Month of record check
+          900758 Day of record check
+          900759 Number of precincts in office jurisdiction
+          900760 Length of record check task
+          900761 Number of forms assigned to this office
+
+                         Search for Registration Records
+
+          900762 How are registration records stored
+          900763 Were files used to ascertain whether R was registered
+          900764 How were the records used or accessed
+          900765 Did interviewer or someone else operate crt
+          900766 Was name of registrant sufficient to access a record
+          900767 Can specific address identify who is registered
+          900768 Is precinct number recorded
+
+             Printouts of Machine-readable Master Registration File
+
+          900769 Printout 1: Order of the listing
+          900770 Printout 1: Is precinct number listed
+          900771 Printout 1: Did interviewer or someone else source the
+                          listing
+          900772 Printout 2: Order of the listing
+          900773 Printout 2: Is precinct number listed
+          900774 Printout 2: Did interviewer or someone else source the
+                          listing
+
+                                 Card Index File
+
+          900775 Order of the file
+          900776 Is precinct number listed
+          900777 Did interviewer or someone else source the file
+
+                    Sources Used to Ascertain Whether R Voted
+
+          900778 Were primary or secondary sources used to determine if
+              registrant voted in 1988
+          900779 Were poll books used as main or supplemental source in
+              1988
+          900780 Were primary or secondary sources used to determine if
+              registrant voted in 1990
+          900781 Were poll books used as main or supplemental source in
+              1990
+          900782 Did interviewer herself do actual poll book lookups
+          900783 Were secondary sources used to ascertain if registrant
+              voted
+          900784 What kind of secondary sources were used
+
+          900785 Who is responsible for transcription of information
+              from polling place onto computer file
+
+          900786 Is entry process complete for 1990 election
+
+          900787 Does office purge for non-voting
+          900788 Standard procedure to see if voters live at
+              registration address
+          900789 Check for everyone and/or non-voters
+          900790 Time interval for check
+          900791 How far back were purged records available
+          900792 Month records last purged for non-voting
+          900793 Year records last purged for non-voting
+          900794 Name sufficient to access purged record
+          900795 Can specific address identify who was registered
+          900796 Precinct number recorded
+          900797 Vote history recorded
+          900798 Were purged registration records used
+
+                                Interviewer Notes
+
+          900799 How helpful was person operating the computer
+          900800 Does interviewer think she would have found more
+              herself
+          900801 How helpful was person doing non-computer search
+          900802 Does interviewer think she would have found more
+              herself
+          900803 Interviewer rating of office's records
+
+
+      DATA NOTE:
+
+           The original release of 1990 data included 2,000 cases,
+           and the ICPSR 1990 printed codebook was produced with
+           marginals for 2,000 cases.  However, it was determined
+           later that the interview production of one 1990
+           interviewer was highly suspect.  As a result of a review
+           of cases, it was decided that there was a high
+           probability that 20 interviews were either faked or
+           conducted with ineligible respondents.  THESE 20 CASES
+           HAVE BEEN DELETED FROM THE RAW DATA, SO THAT THERE ARE
+           NOW 1,980 CASES FOR THE 1990 NES.
+           [Deleted case IDs are:  0193,0370,0943,0946,1156,1566,
+            1567,1569,1635,1636,1637,1937,1990,1993,1994,1995,1996,
+            1997,1998,2000]

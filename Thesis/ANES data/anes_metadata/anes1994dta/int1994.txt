@@ -1,0 +1,4703 @@
+Version 01 Codebook
+-------------------
+CODEBOOK INTRODUCTION FILE
+1994 POST-ELECTION STUDY
+(1994.TN)
+
+
+
+
+
+
+
+
+
+
+
+                      AMERICAN NATIONAL ELECTION STUDIES
+
+
+                             1994 POST ELECTION SURVEY
+
+                       [ENHANCED WITH 1992 AND 1993 DATA]
+
+
+
+
+
+
+
+
+                            Principal Investigators
+
+
+                    Steven J. Rosenstone, Warren E. Miller,
+                       Donald R. Kinder, and the National
+                                Election Studies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ICPSR ARCHIVE NUMBER 6507
+
+                             BIBLIOGRAPHIC CITATION
+
+
+            Publications  based  on  ICPSR  data  collections should
+            acknowledge  those  sources  by  means  of  bibliographic
+            citations.  To ensure that such source  attributions  are
+            captured  for  social  science  bibliographic  utilities,
+            citations must appear in footnotes or  in  the  reference
+            section  of publications.  The bibliographic citation for
+            this data collection is:
+
+
+                  Steven J. Rosenstone,  Miller, Warren E., Donald R.
+                  Kinder, and the National Election Studies.
+                  AMERICAN NATIONAL ELECTION  STUDY,  1994: POST-
+                  ELECTION  SURVEY  [ENHANCED WITH 1992 AND 1993 DATA]
+                  [Computer  file].  Conducted  by
+                  University  of  Michigan,  Center for Political
+                  Studies. 2nd ICPSR ed. Ann Arbor, MI: University of
+                  Michigan,  Center  for  Political  Studies, and
+                  Inter-university Consortium for  Political  and
+                  Social  Research  [producers], 1995. Ann Arbor,
+                  MI: Inter-university Consortium  for  Political
+                  and Social Research [distributor], 1995.
+
+
+
+               REQUEST FOR INFORMATION ON USE OF ICPSR RESOURCES
+
+
+             To provide funding agencies  with  essential  information
+             about  use  of  archival  resources and to facilitate the
+             exchange  of  information   about   ICPSR   participants'
+             research activities, users of ICPSR data are requested to
+             send to ICPSR bibliographic citations for each  completed
+             manuscript or thesis abstract. Please indicate in a cover
+             letter which data were used.
+
+                                DATA DISCLAIMER
+
+
+             The original  collector  of  the  data,  ICPSR,  and  the
+             relevant  funding  agency bear no responsibility for uses
+             of this collection or for interpretations  or  inferences
+             based upon such uses.
+
+
+
+                               TABLE OF CONTENTS
+
+
+           Note: >>sections in the codebook introduction and
+           codebook appendix can be navigated in the
+           machine-readable files by searching ">>".
+
+
+INTRODUCTORY MATERIAL  (file int1994.cbk)
+---------------------
+>> 1994 GENERAL INTRODUCTION
+>> 1994 ELECTION STUDY DESIGN AND CONTENT
+>> 1994 NOTES ON SURVEY ADMINISTRATION FOR 1992, 1993 AND 1994 STUDIES
+>> 1994 CONGRESSIONAL DISTRICT IDENTIFICATION AND CONGRESSIONAL CANDIDATES
+>> 1994 FILE STRUCTURE
+>> 1994 NOTES ON CONFIDENTIAL VARIABLES, 1994
+>> 1994 OPEN-ENDED MATERIALS 
+>> 1994 CODEBOOK INFORMATION 
+>> 1994 ICPSR PROCESSING INFORMATION 
+>> 1994 VARIABLE DESCRIPTION LIST: 1994 VARIABLES
+>> 1994 VARIABLE DESCRIPTION LIST: 1992 VARIABLES
+>> 1994 VARIABLE DESCRIPTION LIST: 1993 VARIABLES
+
+
+CODEBOOK
+--------
+     1994 variables
+
+
+APPENDICES  (file app1994.cbk)
+----------
+>> 1994 ENHANCED DATA VARIABLES STUDY DESIGNS
+>> 1994 STUDY DESIGN, CONTENT AND ADMINISTRATION 
+>> 1994 SURVEY FORMS:  DESIGN AND IMPLEMENTATION
+>> 1994 OPEN-ENDED MATERIALS
+>> 1993 STUDY DESCRIPTION
+                 1993 Survey Content and Objectives
+                 1993 Study Characteristics and Administration
+>> 1993 SAMPLE DESIGN: TECHNICAL MEMORANDA
+>> WEIGHTED ANALYSIS OF 1994 NES DATA
+>> 1994 PROCEDURES FOR SAMPLING ERROR ESTIMATION
+>> SAMPLE DESIGN OF THE 1992 PRE- AND POST-ELECTION STUDY
+>> WEIGHTED ANALYSIS OF 1992 NES DATA
+>> COMPARING THE 1992 NES TO PREVIOUS NATIONAL ELECTION STUDIES
+>> SAMPLING ERRORS OF 1992 NES ESTIMATES
+>> NES TECHNICAL REPORTS AND OTHER OCCASIONAL PAPERS, 1994
+>> NES PILOT STUDY REPORTS, 1991 and 1993
+
+MASTER CODES
+------------
+>> 1994 CAMPAIGN ISSUES MASTER CODE
+>> 1994 CAMPAIGN POLITICAL ADVERTISMENTS
+>> 1994 CANDIDATE NUMBER MASTER CODE
+>> 1994 BALLOT CARDS AND CANDIDATE LISTS
+>> 1992 CANDIDATE LISTS AND BALLOT CARDS
+>> 1994 CANDIDATE SUPPORT CODE
+>> 1990 CENSUS DEFINITIONS
+>> 1980 CENSUS OCCUPATION CODE
+>> 1980 CENSUS INDUSTRY CODE
+>> 1994 SPECIFIC DOMESTIC POLICIES OPPOSED BY LIBERAL/CONSERVATIVE
+>> 1994 PARTY-CANDIDATE MASTER CODES
+>> 1994 PARTY DIFFERENCES MASTER CODE
+>> PRESIDENTIAL PRIMARY BALLOT CARDS BY STATE, 1992
+>> 1994 TYPE OF RACE
+>> 1994 CITY MASTER CODE
+
+>> 1994 GENERAL INTRODUCTION
+
+        AMERICAN NATIONAL ELECTION STUDY, 1994: [POST-ELECTION
+            SURVEY ENHANCED WITH DATA FROM 1992 AND 1993]
+
+                             (ICPSR 6507)
+
+
+     The 1994 NES/CPS American National Election Study, the
+     1992 Pre-Post Election Study and the 1993 Pilot Study
+     Study, were conducted by the Center for Political Studies of
+     the Institute for Social Research, under the general
+     direction of principal investigators Steven J. Rosenstone,
+     Warren E. Miller, and Donald R. Kinder. Santa Traugott is
+     the Director of Studies for the National Election Studies
+     and Giovanna Morchio the Study manager for NES.
+
+     The 1994 Election Study is the twenty-third in a
+     series of studies of American national elections produced
+     by the Political Behavior Program of the Survey Research
+     Center and the Center for Political Studies, and it is the
+     ninth such study to be conducted under the auspices of
+     National Science Foundation Grants (SOC77-08885,
+     SES-8207580, SES-8341310, SES-8808361 and SBR-9317631)
+     providing long-term support for the national election
+     studies.
+
+     Since 1978 the NES election studies have been designed
+     by a National Board of Overseers, the members of which
+     meet several times a year to plan content and
+     administration of the major study components.
+
+     Board members during the planning of one or more of
+     these studies included Thomas Mann, The Brookings
+     Institution (Chair until February 1994); David C. Leege,
+     Notre Dame University (Chair from February 1994), Larry
+     Bartels, Princeton University, Charles Franklin, the
+     University of Wisconsin, Stanley Feldman, University of
+     Kentucky; Mary Jackman, University of California at Davis,
+     Gary C. Jacobson, University of California at San Diego;
+     Stanley Kelley, Jr., Princeton University; Douglas Rivers,
+     Stanford University; Gina Sapiro, the University of
+     Wisconsin, John Zaller, the University of California
+     at Los Angeles; Warren E. Miller, Arizona State
+     University, ex officio; Donald R. Kinder, and Steven J.
+     Rosenstone, University of Michigan, ex officio.
+
+     As part of the planning process, a special planning
+     committee is appointed, a pilot study conducted, and a
+     stimulus letter sent to the scholarly community
+     soliciting input on study plans. The 1994 Study
+     Planning Committee was chaired by Franklin and included
+     Rosenstone (ex-officio), Leege and Sapiro from the
+     Board of Overseers. Other scholars included Bruce Cain
+     University of California, Berkeley; Laura Stoker,
+     University of California, Berkeley; and Peverill Squire,
+     University of Iowa.
+
+     David Leege chaired the 1992 Study Planning Committee
+     which included from the Board Stanley Feldman, Mary
+     Jackman, Douglas Rivers, Steven J. Rosenstone, Virginia
+     Sapiro, and three other scholars: Paul Beck, Ohio State
+     University; Jack Citrin, University of California at
+     Berkeley; and Leonie Huddy, State University of New York
+     at Stony Brook.
+
+     John Zaller chaired the 1993 Pilot Study Planning
+     Committee which included several Board members
+     (Bartels, Leege, Jacobson and Rosenstone) and three other
+     scholars: Jack Dennis, The University of Wisconsin; Charles
+     Franklin, The University of Wisconsin; and Laura Stoker,
+     University of California, Berkeley.  While not officially
+     a member of the Planning Committee, Douglas Strand, of
+     University of California, Berkeley advised the Committee
+     on many aspects of the proposed items on attitudes toward
+     homosexuals and policy about homosexuals.
+
+
+
+
+>> 1994 ELECTION STUDY DESIGN AND CONTENT
+
+
+     The 1994 Election Study was designed to be simultaneously
+     the third wave in a three wave panel, which began in 1992,
+     and also a stand-alone cross-section data collection in
+     the traditional NES time-series. Thus, there are two
+     components to the 1994 Post-election Study: one is a fresh
+     cross-section component, comprising 1136 respondents who
+     were interviewed for the first time in the weeks following
+     the November 8, 1994 general election, and the other is a
+     set of 759 respondents who were intially interviewed in
+     the 1992 Pre-election Study. All of these respondents
+     were interviewed in the 1992 Post-Election Study, and 635
+     of the panel respondents also gave us an interview in the
+     1993 Pilot Study. The full set of 1795 respondents may be
+     treated, with appropriate  weighting, as a fully
+     representative national cross-section.
+
+     The three-wave study was designed to exploit the special
+     features of the 1992-1994 elections; a minority president
+     struggling to forge a majority coalition in the face of a
+     strong third-party challenge, and the replacement in 1992
+     of fully one-quarter of the House of Representatives. The
+     design themes of the 1992-1994 Panel became particularly
+     salient because of the electoral earthquake of the 1994
+     election, when the Republicans gained control of both
+     houses of Congress first time since 1952.
+
+     The datafile has been enhanced, for panel respondents,
+     with data from the 1992 and 1993 studies. Data from these
+     earlier studies may be thought of as 'lagged' measures,
+     for use in analysis of 1994 panel respondents. For a full
+     description of the 1992 and 1993 study designs and
+     content, the user is referred to the Appendices to this
+     documentation, which contain the complete original study
+     descriptions as they appear in the documentation for these
+     studies.
+
+     Of the 1005 respondents who make up the 1992 NES
+     post-election cross-section, (from which the 1992-93-94
+     Panel respondents were drawn) over a quarter resided in
+     congressional districts that sent a new member to congress
+     in 1992. Thus, the high turnover that occurred in the House
+     in 1992 provides sufficient numbers of respondents to
+     support detailed analysis of the processes by which newly-
+     elected representatives shore up, or fail to shore up their
+     support during their first term in office.
+
+     The congressional battery that has been in place in NES
+     studies since 1978 was the chief vehicle used in 1992,
+     1993 and 1994 to evaluate respondents' attitudes towards
+     Congress and their congressional representatives. (For
+     1993, these questions were modified as necesssary to
+     refer to "last November"s election and to the incumbent
+     rather than to the congressional candidates). These
+     questions include:
+
+      *   what respondents like and dislike about
+          congressional candidates
+
+      *   whether and how they have been contacted by the
+          candidates for summary evaluations ( feeling'
+          thermometers) of the candidates, whether they can
+          recall congresssional candidates (1993: running in
+          this district this past November')
+
+      *   whether they have had contact with the incumbent
+          candidate
+
+      *   where they place congressional candidates on
+          several issue dimensions
+
+      *   for their evaluations of congressional
+          performance
+
+      *   what the most important issue discussed
+          in the congressional campaign in their district
+
+     The core battery of congressional evaluations was
+     supplemented by questions on term limits, (1992 and 1994)
+     on the representative's vote on President Clinton's crime
+     bill,(1994), or on the Persian Gulf war resolution (1992),
+     on Clinton's deficit reduction package (1993), whether
+     their Representative was implicated in the House
+     banking scandal (1992) and on whether the respondent felt
+     that his representative cared more about prestige and
+     influence for him/herself rather than solving the problems
+     of the congressional district(1994).
+
+     Another major theme of the 1992-1993-1994 Panel is the
+     assessment of how well the "Clinton coalition" is faring.
+     The 1992 Study, since it occurred in a Presidential year,
+     had a full set of items bearing on the evaluation of
+     candidate Clinton, some of which were repeated in 1993
+     and 1994. These repeated items include:
+
+        * Summary evaluations (feeling thermometer) of Clinton
+        * Traits and affects for Clinton
+        * Placement of Clinton on several issue dimensions
+          (92 and 94 only)
+        * Placement of Clinton on liberal-conservative dimension
+        * approval ratings of several aspects of Clinton's
+          performance in office (93 and 94 only)
+        * For whom R voted (92); recall of Presidential vote (94)
+        * Evaluation of the economy
+
+     Each of the studies includes specific measures
+     relating to evaluation of Clinton, including likes/dislikes
+     in 1992, opinion about NAFTA and the federal budget deficit
+     in 1993, who the respondent would vote for if the
+     election were held today (1993).
+
+     Emphasis on the panel aspects of the design should not
+     obscure the fact that the 1994 data can be used to support
+     cross-sectional analyses of the 1994 electorate. Note that
+     almost all of the items listed below were also asked in
+     the 1992 Election Study.
+
+
+       *   Campaign interest
+       *   Media exposure
+       *   Measures of partisanship (party likes/dislikes
+              and party identification), which party would
+              better handle certain public problems
+
+       *   Summary evaluations (feeling thermometers) on
+              major political figures and social groups
+
+       *   Voting behavior
+
+       *   Views on issues:  most important problem and
+              several issue dimensions, including defense
+              spending, assistance to blacks, spending and
+              services trade-off, health insurance, women's
+              role, and recent proposals to reform welfare.
+
+       *   Preferences on federal budget allocations
+
+       *   Electoral participation
+
+       *   Retrospective and prospective national and
+              personal economic evaluations
+
+       *   Liberal-conservative self-placement
+
+       *   Political information held by respondent
+
+       *   Values, including moral traditionalism,
+              egalitarianism, and attitudes toward race,
+              as well as individual items on school prayer
+              and abortion
+
+       *   Religious affiliation and behavior
+
+       *   Occupation, work force status, home ownership and
+              residential mobility, nationality, education,
+              income, and number of children being raised.
+
+
+     The 1992 Election Study, in addition to the topics
+     already mentioned, included questions on social altruism
+     and social connectedness of the respondent; assessments
+     of U.S. involvement in the Persian Gulf War and U.S.
+     foreign policy goals; opinions of the respondent about
+     racial and ethnic stereotypies, on school integration
+     and affirmative action; attitudes towards immigrants
+     (particularly Hispanics and Asians); opinions on
+     immigration policy and bilingual eduation; and
+     opinions on the rights of homosexuals; on sexual
+     harassment and women's rights.
+
+     In addition to the congressional and Clinton
+     evaluations already mentioned, the 1993 Pilot Study
+     included a number of items intended to tap the sources
+     and strength of support for Ross Perot.
+
+     As a pilot study, the 1993 Study included
+     developmental work in a number of areas.  One such area
+     is the interest group basis of political attitudes.
+     Questions were asked about the perceived interests of
+     several groups (wealthy, poor, middle class, blacks,
+     whites),as well as self and national interest in three
+     domains: national health insurance, affirmative action,
+     and school choice. The 1993 Study also includes a number
+     of questions relating to attitudes toward homosexuals,
+     and about policies affecting homosexuals.  Finally, a
+     number of experiments in the survey response were
+     implemented in the study, including:
+
+       *  an experiment in wording of the vote choice for
+            Representative question
+
+       *  reversing order of self versus political object
+            placement on liberal-conservative 7-pt scale
+
+       *  certainty probe on liberal-conservative scale;
+            self and other objects
+
+
+
+>> 1994 NOTES ON SURVEY ADMINISTRATION FOR 1992, 1993 AND 1994 STUDIES
+
+                            Field Periods
+
+     Like the 1992 Pre-and Post-Election Study, the 1994
+     study design involved face-to face, paper and pencil
+     interviews of respondents randomly selected from the SRC's
+     national area probability sample. The 1994 field period
+     was November 9, 1994 through January 9, 1995, with 40% of
+     the 1795 interviews taken in the first week, and 68% of
+     the interviews within three weeks of the November 8
+     General Election. This is a significant improvement over
+     the performance of the 1992 Post Election Study, in which
+     only 42.3% of the Post-Election interviews were taken at
+     the end of three weeks.
+
+     In the 1992 Pre-Election Study, 2485 citizens were
+     interviewed in person in the 9 weeks prior to the November
+     3, 1992 election of whom 1126 were cross section
+     respondents. To permit analysis of the impact of the
+     unfolding election campaign, a random half of the sample
+     was released to the field on September 1 and the other
+     half on October 1. In  the weeks following the
+     election, 2255 pre-election respondents were
+     reinterviewed; 1005 of them were cross-section.
+
+                          Sample Replicates
+
+     To more closely tailor the field effort to the actual
+     sample performance, NES samples are randomly divided into
+     "replicates" of varying sizes. The usual practice is hold
+     some replicates in reserve. In 1992, additional
+     replicates for both panel and cross section were
+     released midway through the Pre-Election field period; in
+     1994, all panel sample was released at the beginning
+     of the field period.  It did not prove necessary to release
+     additional cross-section replicates.
+
+              Response Rates for the 1994 Election Study
+
+                          1994 Post Election
+
+                             N     Resp.Rate
+
+            X-Section      1036     72.1%
+            Panel           759     77.0%
+            Overall        1795     74.1%
+
+
+                    Notes on the 1993 Pilot Study
+
+     The 1993 Pilot Study was a telephone reinterview of
+     cross-section respondents to the NES 1992 Pre- and Post-
+     election Study. Interviewing was carried out by the
+     Telephone Facility of the Survey Research Center,
+     the Institute for Social Research. The Field period
+     was Sept. 23 - Nov. 24, 1993, roughly halfway
+     between the 1992 and 1994 Election Studies. 750
+     interviews were taken, with a response rate of
+     74.6%. The study was CATI. The average interview
+     length was 42 minutes. Because there were a number
+     of experiments, each respondent was randomly assigned
+     to one of four forms.
+
+        Randomization of the Feeling Thermometers in the 1993
+                             Pilot Study
+
+     There are many survey questions, like the feeling
+     thermometers, where lists of objects are presented for
+     evaluation by respondents.  It is extremely difficult, if
+     not impossible to identify a single order for the items
+     which eliminates response effects.  An alternative is to
+     randomize the order in which items on a list are presented
+     to respondents.  The AUTOQUEST CATI system has a
+     randomizing function, and this was implemented for the
+     feeling thermometers in the 1993 Pilot Study.  No
+     information as to the order in which the thermometer items
+     were asked for a given respondent was preserved.
+
+
+
+>> 1994 CONGRESSIONAL DISTRICT IDENTIFICATION AND CONGRESSIONAL
+CANDIDATES
+
+             Congressional Ballot Cards, Candidate Lists,
+                        and Candidate Numbers
+
+     In all NES Post-Election surveys since 1978, respondents
+     have been asked several questions about their particular
+     Congresspersons and Senators.  These questions in the
+     survey require the insertion by the interviewer, during
+     pre-editing, of the names of candidates.  See, for
+     example, question B11, which includes feeling thermometers
+     for the various candidates.  Each candidate and Senator is
+     assigned a unique number that reflects his or her incumbency
+     status and party. (See Candidate Number Master
+     Code). The Candidate Lists used by the interviewers,
+     which show which candidates are associated with which
+     congressional district and with which numbers they
+     are tagged, are Notes 4 and 5 in the Master Codes
+     section of this documentation.
+
+                 Congressional District Determination
+
+     From 1978 through 1990, the congressional district in
+     which an NES sample segment was located was determined
+     by the SRC's sampling section.  This was usually done
+     by comparing very detailed maps of the sample segment
+     and of congressional districts.  Congressional district
+     determination for the 1992 and 1994 studies presented
+     complications due to the massive redistricting
+     following the 1990 U.S. Census, and due to its panel
+     nature -- movers had to be tracked and their new district
+     determined.
+
+
+              Handling of Congressional Incumbency Where
+                  Redistricting has Occurred (1992)
+
+     Throughout the documentation for the 1992 study,
+     whenever the word "incumbent" is used, its referent is a
+     representative who was a member of the 102nd Congress;
+     i.e., the Congress in session prior to the November
+     1992 General Election.  Due to redistricting, any
+     given incumbent's district for the 103rd Congress may
+     consist of a fairly different geographical area from the
+     area covered by the district prior to the boundary changes.
+     Therefore, prior to 1992, the "incumbent"may or may not
+     have been the representative for the particular piece of
+     geography (the sample segment or census tract) in which
+     the respondent lives.  For each sample segment, we have
+     included in the dataset its 1992 congressional district
+     number, v3019, and its congressional district number in
+     1990, v3020.  By comparing the two, it can be determined
+     whether the "incumbent" in question was actually the
+     respondent's incumbent prior to the 1992 general election.
+
+            Congressional District Assignments For Movers
+
+     Respondents to the 1992 Post-election Study were the
+     recipients of several mailings, which we used to track
+     address changes, and minimize panel attrition due to
+     "lost" respondents. When the United States Post Office
+     returned information indicating that respondents
+     had changed their addresses, the study staff attempted
+     to determine, usually by calling local election offices,
+     in which congressional district the respondent now lived.
+     The substantive decision, for 1993 and for 1994 panel waves,
+     was to ask the R to evaluate the congressional candidates
+     in the district in which h/she was now living, and about
+     whom h/she was presumably receiving information.
+
+      In some instances, information about where a
+     respondent was now living was not available until the
+     field period, when interviewers were able to track the
+     respondents by talking to former neighbors, etc. In 1994,
+     the interviewers were instructed to contact local
+     electoral offices directly to determine if R's change of
+     address involved also a change of congressional district.
+     A candidate list for R's new district was then prepared,
+     and used to pre-edit the respondent's questionnaire.  A
+     similar procedure was used in the 1993 Pilot Study.
+
+            A Reliability Check of Congressional District
+                             Assignments
+
+     Since one of the chief themes of the 1992-93-94 Panel
+     Study is the evaluation over time of respondents' attitudes
+     toward their congressional representatives, and because of
+     the complications of following movers and of redistricting,
+     NES staff made an intensive effort to assess the both the
+     accuracy and the stability of congressional district
+     assignments.  Their findings will appear as Technical Report
+     52, "Accuracy and Stability of Congressional District
+     Assignments in the 1992-93-94 National Election Studies."
+     That report will be available by early June, 1995.
+
+     For the 1994 Election Study, we decided to send the
+     entire set of sample segment selections to an outside source
+     for computerized matching of congressional district
+     boundaries and the Census geocodes for the SRC sample
+     segments.  In this process, we completely checked
+     the 1992 Congressional District assignments. Approximately
+     71, or 2.8% of the 1992 respondents (N = 2485) were assigned
+     to the wrong congressional district, because of errors in
+     the original determination of the district (misreading maps,
+     incorrect information from local election offices, etc.)
+     These misassignments were corrected for the 1994 field work,
+     but not for the 1993 Pilot Study, where 4.5% of the 750
+     respondents were misassigned. In both the 1992 and 1994
+     Studies, all other causes of being asked about the wrong
+     congressional candidates (e.g., wrongly pre-edited
+     questionaires, inappropriate determination of congressional
+     districts for movers) totaled less than one percent of the
+     respondents.
+
+     More important than these errors is the simple question
+     of the stability of the congressional objects themselves.
+     The candidates we ask the respondent to evaluate can change,
+     because a) the respondent moves; b) his/her incumbent does
+     not stand for re-election, or c) there is redistricting.
+     respondent lives.  3% of the panel respondents were affected
+     by 1993 and 1994 redistricting, so that they were not asked
+     to evaluate the same candidates in 1992 and 1994. Incumbents
+     did not run in the general election for 15% of the panel
+     cases, so the congressional candidates they were asked to
+     evaluate in 1994 were different than 1993 or 1992. About
+     8% of the panel respondents moved between their initial
+     1992 interview and the 1994 Election Study.
+
+     Finally, it should be noted that about 3% of the 1994
+     respondents are registered in districts different than
+     the one in which they were interviewed.  Consequently,
+     their vote choice was between a different set of
+     candidates than those about whom they were asked.
+
+     This dataset contains a number of variables,
+     V940022-V940032, V940080, V937004, and V937007, which record the
+     various contingencies discussed above. Users interested
+     in more detail about these matters should request
+     Technical Report 52 from NES Project Staff.
+
+
+
+
+>> 1994 FILE STRUCTURE
+
+     The AMERICAN NATIONAL ELECTION STUDY, 1994 PRE- AND
+     POST-ELECTION SURVEY [ENHANCED WITH DATA FROM 1993 AND 1992]
+     are available from ICPSR in logical record length (LRECL)
+     format.  The data are sorted in ascending order by
+     respondent number, and contains variables for
+     1,795 respondents.
+
+     A machine-readable codebook, which provides complete
+     formatting and other information for all variables
+     accompanies the data.  In addition, a set of SAS and SPSS
+     control statements has been prepared for this collection.
+     The control statements contain formatting information as
+     well as variable labels, value labels and missing data
+     specifications for all variables in the collection.
+
+     The data can also be accessed directly through software
+     packages that do not use SAS or SPSS control statements by
+     specifying the record locations of the desired variables.
+     The record locations for all variables are provided in the
+     codebook.
+
+
+
+
+
+>> 1994 NOTES ON CONFIDENTIAL VARIABLES, 1994
+
+       Starting with the 1986 Election Study, occupation
+     code variables have been released in somewhat less detail
+     than in years past.  The dataset includes a two-digit code
+     with 71 categories corresponding to Census Bureau
+     occupational groupings.  Those who have need of the full
+     occupation code for their research should contact the
+     NES project staff for information about the conditions
+     under which access to these data may be provided.
+
+     Similarly, the National Election Studies have not
+     included information for census tracts or minor civil
+     divisions since 1978. Permission to use the more detailed
+     geographic information for scholarly research may be
+     obtained from the Board of Overseers. More information
+     about this is available from NES project staff.
+
+     Coding of the new religious denomination variable is
+     in some cases based on an alphabetic "other, please
+     specify" variable  This variable is restricted for
+     reasons of confidentiality, but access may be provided
+     to legitimate scholars under established NES
+     procedures.
+
+
+
+
+
+>> 1994 OPEN-ENDED MATERIALS
+
+     Traditionally, the Election Studies have contained
+     several minutes of open-ended responses (for example,
+     the congressional candidates likes and dislikes).
+     Responses to these questions are Coded and appear on
+     the datafile. Other Other scholars have developed
+     alternative or supplemental coding schemes for the
+     questions. The Board of Overseers wishes to encourage
+     these efforts but in ways that respect the NES and SRC
+     obligation to protect the privacy and anonymity of
+     respondents. Circumstances under which individuals may
+     have access to transcribed versions of these questions
+     have been worked out and those interested should contact
+     the NES project staff for further details.
+
+     Special Note: the frequencies appearing in this
+     codebook are weighted by V940006, TIME SERIES WEIGHT.
+
+
+
+>> 1994 CODEBOOK INFORMATION
+
+The following example from the 1948 NES study provides the standard 
+format for codebook variable documentation. 
+
+Note that NES studies which are not part of the Time-Series usually
+omit marginals and the descriptive content in lines 2-5 (except for
+variable name).
+
+
+Line
+
+1  ==============================                                              
+2  VAR 480026    NAME-R NOT VT-WAS R REG TO VT                                 
+3                COLUMNS 61   - 61                                             
+4                NUMERIC                                                       
+5                MD=0 OR GE 8                                                  
+6                                                                              
+7                  Q. 17.  (IF R DID NOT VOTE)  WERE YOU REGISTERED (ELIGIBLE)
+8                  TO VOTE.                                                   
+9                  ...........................................................
+10                                                                            
+11            82       1.  YES                                                
+12           149       2.  NO                                                 
+13                                                                             
+14             0       8.  DK                                                 
+15             9       9.  NA                                                 
+16           422       0.  INAP., R VOTED                                     
+                                                                       
+
+
+Line 2 - VARIABLE NAME.  Note that in the codebook the variable name
+         (usually a 'number') does not include the "V" prefix which is 
+         used in the release SAS and SPSS data definition files
+         (.sas and .sps files) for all variables including those
+         which do not have 'number' names.  For example the variable
+         "VERSION" in the codebook is "VVERSION" in the data definition
+         files.
+
+Line 2 - "NAME".  This is the variable label used in the SAS and SPSS
+         data definition files (.sas and .sps files).  Some codebooks 
+         exclude this.
+
+Line 3 - COLUMNS.  Columns in the ASCII data file (.dat file).
+
+Line 4 - CHARACTER OR NUMERIC.  If numeric and the variable is a decimal
+         rather than integer variable, the numer of decimal places is 
+         also indicated (e.g. "NUMERIC  DEC 4")
+
+Line 5 - Values which are assigned to missing by default in the Study's
+         SAS and and SPSS data definition files (.sas and .sps files).
+
+Line 7 - Actual question text for survey variables or a description of 
+         non-survey variables (for example, congressional district).
+         Survey items usually include the question number (for example
+         "B1a.") from the Study questionnaire; beginning in 1996 
+         non-survey items also have unique item numbers (for example
+         "CSheet.1").
+
+Line 9 - A dashed or dotted line usually separates question text from
+         any other documentation which follows.
+
+Line 10- When present, annotation provided by Study staff is presented
+         below the question text/description and preceding code values.
+
+Lines 11-16
+         Code values are listed with descriptive labels.  Valid codes
+         (those not having 'missing' status in line 5) are presented
+         first, followed by the values described in line 5.  For
+         continuous variables, one line may appear providing the range
+         of possible values.  A blank line usually separates the 'valid'
+         and 'missing' values.
+
+Lines 11-16
+         Marginals are usually provided for discrete variables.  The
+         counts may be unweighted or weighted; check the Study codebook
+         introductory text to determine weight usage.
+
+>> 1994 ICPSR PROCESSING INFORMATION
+
+The data collection was processed according to standard
+ICPSR processing procedures.  The data were checked for
+illegal or inconsistent code values which, when found, were
+corrected or recoded to missing data values. Consistency
+checks were performed.  Statements bracketed in "<" and ">"
+signs in the body of the codebook were added by the
+processors for explanatory purposes.
+
+ICPSR has added frequencies to the codebook text for
+most variables in which the entire coding scheme is
+listed in the codebook, and a frequency addendum is provided
+for those variables with an extensive coding scheme.
+
+ERRATA IN DATA - 1992 Congressional Districts
+Late in 1994 it became apparent that in some cases of the 1992 NES
+Study an incorrect congressional district number had been
+assigned.  These errors affect all questions related to House race
+which are administered according to assigned-CD candidate names. 
+Below is a listing of affected 1992 (pre) case IDs with correct
+congressional districts, however no data have been changed in the
+1992 data as a result.  Data users can delete these cases from
+affected vars if desired.  NES plans in 1995 to produce a
+technical report examining the 1992 incidence of CD misassignment
+and its possible effects on 1992 NES data.
+
+92 PRE    OLD       CORRECT   CORRECT
+ID        ST/CD     ST/CD     TYPERACE
+0001      3405      3406      12
+0006      4404      4406      21
+0007      4404      4406      21
+0008      3405      3404      12
+0056      2103      2101      12
+0059      2103      2101      12
+0071      3405      3404/3406 12/12
+0124      1205      1209      12
+0137      3306      3305      12
+0167      3306      3305      12
+0180      3306      3305      12
+0188      4707      4708      12
+0211      2103      2101      12
+0212      4404      4406      21
+0233      1319      1317      12
+0249      2310      2312      12
+0304      7144      7148      21
+0332      2310      2312      12
+0345      4707      4708      12
+0355      1319      1317      12
+0376      3405      3404/3406 12/12
+0381      1319      1317      12
+0383      7144      7148      21
+0428      4707      4708      12
+0441      1302      1301      12
+0442      1302      1301      12
+0452      3405      3404      12
+0508      3405      3404      12
+0524      4404      4406      21
+0587      4707      4708      12
+0703      3405      3404      12
+0709      3306      3305      12
+0710      3306      3305      12
+0746      1205      1209      12
+0753      7144      7148      21
+0757      7144      7148      21
+0770      1205      1209      12
+0781      4707      4708      12
+0808      7144      7148      21
+0828      2310      2312      12
+0865      3405      3404      12
+0866      1319      1317      12
+0867      1319      1317      12
+0879      3306      3305      12
+0932      2310      2312      12
+0938      7144      7148      21
+0943      2103      2101      12
+0945      4404      4406      21
+0986      1205      1209      12
+0992      1205      1209      12
+1007      1319      1317      12
+1013      1319      1317      12
+1045      4707      4708      12
+1058      7144      7148      21
+1059      7144      7148      21
+1065      1302      1301      12
+1068      1302      1301      12
+1085      7144      7148      21
+1087      7144      7148      21
+1092      7144      7148      21
+1096      3306      3305      12
+1119      7144      7148      21
+1122      7144      7148      21
+1123      7144      7148      21
+1124      7144      7148      21
+1125      7144      7148      21
+2322      4707      4708      12
+2358      4707      4708      12
+2468      4707      4708      12
+2496      4707      4708      12
+2595      4707      4708      12
+
+
+
+>> 1994 VARIABLE DESCRIPTION LIST: 1994 VARIABLES
+
+
+
+VARIABLE  VARIABLE LABEL
+--------  --------------
+ VERSION  NES VERSION NUMBER
+  DSETNO  NES DATASET NUMBER
+ 94STUDY  ICPSR ARCHIVE NUMBER
+
+                         SAMPLING INFORMATION
+
+  940001  94PO: 1994 CASE ID
+  940002  94PO: 94 Panel/cross-section indicator
+  940003  94PO: 93 Pilot indicator
+  940004  94PO: Full Sample Weight
+  940005  94PO: Panel only weight
+  940006  94PO: Time series weight
+  940007  94PO: Form yellow/blue
+  940008  94PO: Primary area code
+  940009  94PO: Primary area name
+  940010  94PO: Area segment of R's household
+  940011  94PO: Census region in 1994
+  940012  94PO: State abbreviation
+  940013  94PO: ICPSR State code
+  940014  94PO: Fips state code
+  940015  94PO: Congressional district number
+  940016  94PO: ICPSR State & Congressional District
+  940017  94PO: Type of House race
+  940018  94PO: Type of Senate race
+  940019  94PO: Type of governor race
+
+
+            CONGRESSIONAL DISTRICT ASSIGNMENT INFORMATION
+
+  940020  94PO: State/Congressional district for voter outstate
+  940021  94PO: FIPS state/county
+  940022  94PO: Panel Summary 1992,1994: R moved 1992-94
+  940023  94PO: Panel Summary 1994: Redistricting in 1994
+  940024  94PO: Panel Summary 1992: 1992 Congressional district
+                    assignment wrong
+  940025  94PO: Summary 1993: 1993 Congressional district
+                    assignment wrong
+  940026  94PO: Error in administration of candidate list - 1994
+  940027  94PO: Summary 1994: R's registration in Congressional
+                    dist of interview
+  940028  94PO: Summary 1994: Candidate names administered in '94
+                    same as R's dist
+  940029  94PO: Summary 1992, 1994: Did R evaluate same incumbent
+                    in 1992 and 1994
+  940030  94PO: Panel Summary 1992,94: Did R evaluate same
+                    incumbent in '92 '93
+  940031  94PO: Panel Summary 1993,94: Did R elaluate same
+                    incumbent in '93 '94
+  940032  94PO: Panel Summary 92-94: Did R elaluate same incumbent
+                    in 92-94
+
+
+                 INTERVIEW ADMINISTRATION INFORMATION
+
+  940033  94PO: Month of Interview
+  940034  94PO: Day of interview
+  940035  94PO: Year of interview
+  940036  94PO: Number of days since election
+  940037  94PO: Interviewer interview number
+  940038  94PO: Length of interview
+  940039  94PO: Length of pre-edit
+  940040  94PO: Length of post-edit
+  940041  94PO: Number of phone calls to housing unit
+  940042  94PO: Number of face to face calls to housing unit
+  940043  94PO: Total Number of calls
+  940044  94PO: Interview within/out range
+  940045  94PO: Interview face to face/phone
+  940046  94PO: Administration/mode summary
+  940047  94PO: Language of interview
+  940048  94PO: Final result of interview
+  940049  94PO: Panel same address/moved
+  940050  94PO: Panel different sex/name/age
+  940051  94PO: Panel name different
+  940052  94PO: Panel sex different
+  940053  94PO: Panel age different
+  940054  94PO: Cross-section number of housing units at sample
+                    location
+  940055  94PO: Cross-section source of household listing
+  940056  94PO: Cross-section selection table
+  940057  94PO: Person number selected as R
+  940058  94PO: Number of eligible adults
+
+                          SAMPLING VARIABLES
+
+  940059  94PO: 1990 Belt code
+  940060  94PO: 1990 population in 1000'S
+  940061  94PO: Size of place
+  940062  94PO: 1980 Census tract/ed indicator
+  940063  94PO: 1994 sampling error stratum code
+  940064  94PO: 1994 sampling error computation unit code
+  940065  94PO: Census Region for 1992 panel
+  940066  94PO: 1980 SMSA code
+  940067  94PO: 1980 CMSA code
+
+                     R'S RESISTANCE TO INTERVIEW
+
+  940068  94PO: Recontact: Name obtained?
+  940069  94PO: Recontact: Address same?
+  940070  94PO: How recontact address is different
+  940071  94PO: Recontact: Phone number obtained?
+  940072  94PO: Recontact: Phone listed in directory?
+  940073  94PO: Recontact: Phone listed in R's name?
+  940074  94PO: Recontact: Other residence?
+  940075  94PO: Recontact: Contact address given
+  940076  94PO: Recontact: Problem to interview by phone?
+  940077  94PO: Contact description: Type of housing unit
+  940078  94PO: Contact description: Gatekeeper required for
+                    entrance?
+  940079  94PO: Gatekeeper description
+  940080  94PO: Panel Summary 1992-94: When R's moved
+  940081  94PO: Contact description: Initial refusal?
+  940082  94PO: Contact description: Broken appointment?
+  940083  94PO: Resistance to interview?
+  940084  94PO: Reason for resistance - Waste of time
+  940085  94PO: Reason for resistance - Very ill
+  940086  94PO: Reason for resistance - Too busy
+  940087  94PO: Reason for resistance - Difficult family situation
+  940088  94PO: Reason for resistance - Confidentiality
+  940089  94PO: Reason for resistance - Privacy
+  940090  94PO: Reason for resistance - No special reason
+  940091  94PO: Reason for resistance - Other reason
+  940092  94PO: Refusal conversion indicator
+  940093  94PO: Persuasion letter sent
+  940094  94PO: Payment amount
+  940095  94PO: Check sent/jan95
+  940096  94PO: Verification indicator
+  940097  94PO: Evaluation indicator
+  940098  94PO: Interview taped?
+
+                        INTERVIEWER VARIABLES
+
+   940099  94PO: Field supervisor ID
+   940100  94PO: Interviewer of record ID
+   940101  94PO: Interviewer gender
+   940102  94PO: Interviewer education
+   940103  94PO: Interviewer race
+   940104  94PO: Interviewer ethnicity
+   940105  94PO: Interviewer languages
+   940106  94PO: Interviewer years of experience
+   940107  94PO: Interviewer age bracketted
+
+
+                   R'S ATTENTION TO CAMPAIGN/MEDIA
+
+   940124  94PO: Interest in politics
+   940125  94PO: Read paper?
+   940126  94PO: Watch news?
+   940127  94PO: Listen to radio?
+   940128  94PO: Discuss politics?
+   940129  94PO: Frequency of political discussion
+   940130  94PO: Number of days politics discussed in past week
+
+
+              R'S LIKES/DISLIKES ABOUT DEMOCRATIC PARTY
+
+   940131  94PO: Does R like Democratic party?
+   940132  94PO: What R likes about Democratic party #1
+   940133  94PO: What R likes about Democratic party #2
+   940134  94PO: What R likes about Democratic party #3
+   940135  94PO: What R likes about Democratic party #4
+   940136  94PO: What R likes about Democratic party #5
+   940137  94PO: Does R dislike Democratic party?
+   940138  94PO: What R dislikes about Democratic party #1
+   940139  94PO: What R dislikes about Democratic party #2
+   940140  94PO: What R dislikes about Democratic party #3
+   940141  94PO: What R dislikes about Democratic party #4
+   940142  94PO: What R dislikes about Democratic party #5
+
+
+              R'S LIKES/DISLIKES ABOUT REPUBLICAN PARTY
+
+   940143  94PO: Does R like Republican party?
+   940144  94PO: What R likes about Republican party #1
+   940145  94PO: What R likes about Republican party #2
+   940146  94PO: What R likes about Republican party #3
+   940147  94PO: What R likes about Republican party #4
+   940148  94PO: What R likes about Republican party #5
+   940149  94PO: Does R dislike Republican party?
+   940150  94PO: What R dislikes about Republican party #1
+   940151  94PO: What R dislikes about Republican party #2
+   940152  94PO: What R dislikes about Republican party #3
+   940153  94PO: What R dislikes about Republican party #4
+   940154  94PO: What R dislikes about Republican party #5
+
+
+                R'S ASSESSMENT OF CLINTON AS PRESIDENT
+
+   940201  94PO: Approve/disapprove Clinton
+   940202  94PO: Approve/disapprove clinton - scale
+   940203  94PO: Approve/disapprove Clinton - economy
+   940204  94PO: Approve/disapprove Clinton - economy scale
+   940205  94PO: Approve/disapprove Clinton - foreign policy
+   940206  94PO: Approve/disapprove Clinton - foreign policy scale
+   940207  94PO: Approve/disapprove Clinton - health care
+   940208  94PO: Approve/disapprove Clinton - health care scale
+   940209  94PO: How much R cares about outcome of house race
+
+
+                         RECALL OF CANDIDATES
+
+   940210  94PO: Does R recall names of House candidates?
+   940211  94PO: #1 recall house - Code
+   940212  94PO: #1 recall house - Party
+   940213  94PO: #1 recall house - Summary
+   940214  94PO: #1 recall house - Accuracy
+   940215  94PO: #2 recall house - Code
+   940216  94PO: #2 recall house - Party
+   940217  94PO: #2 recall house - Summary
+   940218  94PO: #2 recall house - Accuracy
+   940219  94PO: #3 recall house - Code
+   940220  94PO: #3 recall house - Party
+   940221  94PO: #3 recall house - Summary
+   940222  94PO: #3 recall house - Accuracy
+
+
+                         FEELING THERMOMETER
+
+   940223  94PO: Feel thermometer-Clinton
+   940224  94PO: Feel thermometer-Perot
+   940225  94PO: Feel thermometer-Dole
+   940226  94PO: Feel thermometer-Quayle
+   940227  94PO: Feel thermometer-Gore
+   940228  94PO: Feel thermometer-Jackson
+   940229  94PO: Feel thermometer-Hillary
+   940230  94PO: Feel thermometer-C Powell
+   940231  94PO: Feel thermometer-Senate Democratic candidate
+   940232  94PO: Feel thermometer-Senate Republican candidate
+   940233  94PO: Feel thermometer-Tennessee only Senate Democratic
+                    candidate
+   940234  94PO: Feel thermometer-Tennessee only Senate Republican
+                    candidate
+   940235  94PO: Feel thermometer-Senate candiate term not up
+   940236  94PO: Feel thermometer-Senate candidate 1 no race
+   940237  94PO: Feel thermometer-Senate candidate 2 no race
+   940238  94PO: Feel thermometer-House Democrat
+   940239  94PO: Feel thermometer-House Republican
+   940301  94PO: Feel thermometer-Democratic Party
+   940302  94PO: Feel thermometer-Republican Party
+   940303  94PO: Feel thermometer-political parties in general
+   940304  94PO: Feel thermometer-Hispanics
+   940305  94PO: Feel thermometer-Blacks
+   940306  94PO: Feel thermometer-conservatives
+   940307  94PO: Feel thermometer-labor unions
+   940308  94PO: Feel thermometer-womens movement
+   940309  94PO: Feel thermometer-people on welfare
+   940310  94PO: Feel thermometer-environmentalists
+   940311  94PO: Feel thermometer-liberals
+   940312  94PO: Feel thermometer-poor people
+   940313  94PO: Feel thermometer-whites
+   940314  94PO: Feel thermometer-big business
+   940315  94PO: Feel thermometer-chrst fundamentalists
+   940316  94PO: Feel thermometer-elderly
+   940317  94PO: Feel thermometer-illegal immigrants
+   940318  94PO: Feel thermometer-gays, lesbians
+   940319  94PO: Feel thermometer-wealthy people
+
+
+                    CONGRESS APPROVAL/DISAPPROVAL
+   940320  94PO: Approve/disapprove congress
+   940321  94PO: Approve/disapprove congress-scale
+   940322  94PO: Approve/disapprove congress-health care
+   940323  94PO: Approve/disapprove congress-health care scale
+
+
+                   VOTING BEHAVIOR -- 1992 ELECTION
+
+   940324  94PO: Voted in 1992?
+   940325  94PO: Presidential vote in 1992
+
+
+                    DEMOCRATIC CANDIDATES -- 1992
+
+   940401  94PO: Does R like Democratic candidate?
+   940402  94PO: What R likes about Democratic candidate #1
+   940403  94PO: What R likes about Democratic candidate #2
+   940404  94PO: What R likes about Democratic candidate #3
+   940405  94PO: What R likes about Democratic candidate #4
+   940406  94PO: What R likes about Democratic candidate #5
+   940407  94PO: Does R dislike Democratic candidate?
+   940408  94PO: What R dislikes about Democratic candidate #1
+   940409  94PO: What R dislikes about Democratic candidate #2
+   940410  94PO: What R dislikes about Democratic candidate #3
+   940411  94PO: What R dislikes about Democratic candidate #4
+   940412  94PO: What R dislikes about Democratic candidate #5
+
+
+                    REPUBLICAN CANDIDATES -- 1992
+
+   940413  94PO: Does R like Republican candidate?
+   940414  94PO: What R likes about Republican candidate #1
+   940415  94PO: What R likes about Republican candidate #2
+   940416  94PO: What R likes about Republican candidate #3
+   940417  94PO: What R likes about Republican candidate #4
+   940418  94PO: What R likes about Republican candidate #5
+   940419  94PO: Does R dislike Republican candidate?
+   940420  94PO: What R dislikes about Republican candidate #1
+   940421  94PO: What R dislikes about Republican candidate #2
+   940422  94PO: What R dislikes about Republican candidate #3
+   940423  94PO: What R dislikes about Republican candidate #4
+   940424  94PO: What R dislikes about Republican candidate #5
+   940425  94PO: Checkpoint: no House candidates
+
+
+                    CONGRESSIONAL DISTRICT ISSUES
+
+   940426  94PO: District issue #1
+   940427  94PO: District issue #2
+   940428  94PO: District issue #3
+   940429  94PO: Checkpoint: no district issues
+   940430  94PO: Most important district issue
+
+
+                       INCUMBENCY OF CANDIDATE
+
+   940431  94PO: Either House candidate incumbent?
+   940432  94PO: Which House candidate was incumbent?
+   940433  94PO: Party of House candidate incumbent
+   940434  94PO: If only 1 candidate ran - was candidate
+                    incumbent?
+   940435  94PO: If only 1 candidate ran - candidate number of
+                    House incumbent
+   940436  94PO: If only 1 candidate ran - party of House
+                    incumbent
+   940501  94PO: Checkpoint: Democratic candidate in House race?
+
+
+             INTERACTION WITH DEMOCRATIC HOUSE CANDIDATE
+
+   940502  94PO: Contact w/Democratic House candidate?
+   940503  94PO: Met Democratic House candidate
+   940504  94PO: Attended meeting where Democratic House candidate
+                    spoke
+   940505  94PO: Talked to staff of Democratic House candidate
+   940506  94PO: Received mail from Democratic House candidate
+   940507  94PO: Read news about Democratic House candidate
+   940508  94PO: Heard Democratic House candidate on radio
+   940509  94PO: Saw Democratic House candidate on tv
+   940510  94PO: Other contact with Democratic House candidate
+   940511  94PO: Anyone else have contact with Democratic House
+                    candidate?
+
+
+             INTERACTION WITH REPUBLICAN HOUSE CANDIDATE
+
+   940512  94PO: Checkpoint: Republican candidate in House race?
+   940513  94PO: Contact w/Republican House candidate?
+   940514  94PO: Met Republican House candidate
+   940515  94PO: Attended meeting where Republican House candidate
+                    spoke
+   940516  94PO: Talked to staff of Republican House candidate
+   940517  94PO: Recieved mail from Republican House candidate
+   940518  94PO: Read news about Republican House candidate
+   940519  94PO: Heard Republican House candidate on radio
+   940520  94PO: Saw Republican House candidate on tv
+   940521  94PO: Other contact with Republican House candidate
+   940522  94PO: Anyone else contact Republican House candidate?
+
+
+                         R'S VOTING BEHAVIOR
+
+   940601  94PO: Did R vote?
+   940602  94PO: Was R registered?
+   940603  94PO: Where was R registered?
+   940604  94PO: FIPS state/county code of R
+   940605  94PO: FIPS state/county R registered
+   940606  94PO: Checkoint: did R register and vote?
+   940607  94PO: Did R vote on election day or before?
+   940608  94PO: How long before election day did R vote?
+   940609  94PO: Voted in person or absentee?
+   940610  94PO: Checkpoint: registered in county/state of
+                    interview?
+   940611  94PO: Checkoint: blue or yellow ballot card?
+   940612  94PO: Did R vote for House candidate?
+   940613  94PO: R's House vote
+   940614  94PO: R's house vote - party
+   940615  94PO: Checkpoint: Senate race?
+   940616  94PO: Did R vote for Senate Candidate?
+   940617  94PO: R's Senate vote
+   940618  94PO: R's Senate vote - party
+   940619  94PO: Checkpoint: Gubernatorial race?
+   940620  94PO: Did R vote for Gubernatorial candidate?
+   940621  94PO: R's Gubernatorial vote
+   940622  94PO: R's Gubernatorial vote - party
+   940623  94PO: Checkpoint: blue or yellow ballot card?
+   940624  94PO: Nonvoter-House candidate preference?
+   940625  94PO: Nonvoter-House candidate preferred
+   940626  94PO: Nonvoter-House candidate preferred-party
+   940627  94PO: Checkpoint: incumbent in House race?
+
+
+                   R'S CONTACT WITH RESPRESENTATIVE
+
+   940628  94PO: Did R have contact w/House representatve?
+   940629  94PO: House contact- express opinion
+   940630  94PO: House contact- seek information
+   940631  94PO: House contact- seek help
+   940632  94PO: Did R get response from House represeantative?
+   940633  94PO: Was R satisified w/response from House
+                    representative?
+   940634  94PO: Anyone else in contact with House representative?
+   940635  94PO: Did that person get a response?
+   940636  94PO: Was person satisfied w/response?
+   940637  94PO: Approve/disapprove House incumbent's performance
+   940638  94PO: Approve/disapprove House incumbent - scale
+
+
+                      R'S KNOWLEDGE OF INCUMBENT
+
+   940639  94PO: Would House representative be helpful?
+   940640  94PO: Has House representative done anthing special for
+                    district?
+   940641  94PO: Does R know # years House representative in
+                    office?
+   940642  94PO: How many years House representative in office?
+   940643  94PO: Less than or greater than 12 years in office?
+   940644  94PO: House incumbent's support for Clinton
+   940645  94PO: House incumbent supports Clinton almost always
+   940646  94PO: House incumbent supports Clinton almost never
+   940647  94PO: House incumbent supports Clinton half the time
+   940648  94PO: Did House incumbent vote for crime bill?
+   940649  94PO: R's guess re: House incumbent's vote on crime
+                    bill
+   940650  94PO: Does House incumbent care more about solving
+                    problems/prestige
+   940651  94PO: Does R favor/oppose term limits?
+
+
+                         PARTY IDENTIFICATION
+
+   940652  94PO: Is R Republican, Democrat or Independent?
+   940653  94PO: Is R strong Republican/Democrat?
+   940654  94PO: Is R closer to Republican/Democratic Party?
+   940655  94PO: Party identification summary
+
+
+                       PROBLEMS FACING COUNTRY
+
+   940701  94PO: Does R follow public affairs?
+   940702  94PO: Most important problem facing country #1
+   940703  94PO: Most important problem facing country #2
+   940704  94PO: Most important problem facing country #3
+   940705  94PO: Checkpoint: most important problems facing
+                    country
+   940706  94PO: Which problem facing country is most important?
+   940707  94PO: Best political party to deal w/most important
+                    problem
+
+
+                          PARTY DIFFERENCES
+
+   940708  94PO: Any differences between Democratic/Republican
+                    parties?
+   940709  94PO: Party difference #1
+   940710  94PO: Party difference #1 content code
+   940711  94PO: Party difference #2
+   940712  94PO: Party difference #2 content code
+   940713  94PO: Party difference #3
+   940714  94PO: Party difference #3 content code
+   940715  94PO: Party difference #4
+   940716  94PO: Party difference #4 content code
+   940717  94PO: Party difference #5
+   940718  94PO: Party difference #5 content code
+   940719  94PO: Party difference #6
+   940720  94PO: Party difference #6 content code
+
+
+                  R'S CONTACT WITH POLITICAL PARTIES
+
+   940801  94PO: Did parties contact R?
+   940802  94PO: Which party contacted R?
+   940803  94PO: Did anyone else contact R about candidates?
+   940804  94PO: Support asked for candidate #1
+   940805  94PO: Support asked for candidate #2
+   940806  94PO: Did anyone talk to R about voting/registering?
+   940807  94PO: Did any moral/religious groups contact R?
+   940808  94PO: Did R advise anyone about voting?
+   940809  94PO: Did R display button/sticker/sign?
+   940810  94PO: Did R go to meetings, rallies etc.?
+   940811  94PO: Did R do any other work for party/candidate?
+   940812  94PO: Did R contribute to candidate?
+   940813  94PO: Party of candidate contribution
+   940814  94PO: Did R contribute to political party?
+   940815  94PO: Party of contribution
+   940816  94PO: Did R contribute to any other group?
+
+
+                           FEDERAL SPENDING
+   940817  94PO: Federal spending increased/decreased for
+                    environment
+   940818  94PO: Federal spending increased/decreased for foreign
+                    aid
+   940819  94PO: Federal spending increased/decreased for social
+                    security
+   940820  94PO: Federal spending increased/decreased for welfare
+   940821  94PO: Federal spending increased/decreased for aids
+                    research
+   940822  94PO: Federal spending increased/decreased for food
+                    stamps
+   940823  94PO: Federal spending increased/decreased for public
+                    schools
+   940824  94PO: Federal spending increased/decreased for child
+                    care
+   940825  94PO: Federal spending increased/decreased for crime
+   940826  94PO: Federal spending increased/decreased for health
+                    care
+   940827  94PO: Federal spending increased/decreased for defense
+
+
+               APTITUDE/TENDENCIES OF POLITICAL PARTIES
+
+   940828  94PO: Which party would raise taxes?
+   940829  94PO: Which party would best handle the economy?
+   940830  94PO: Which party would best handle pollution?
+   940831  94PO: Which party would best handle crime?
+   940832  94PO: Which party would best handle foreign affairs?
+   940833  94PO: Which party would fix health care?
+   940834  94PO: Which party would reform welfare?
+
+
+                 R'S FEELINGS ABOUT PRESIDENT CLINTON
+
+   940835  94PO: Has Clinton ever made R angry?
+   940836  94PO: Has Clinton ever made R hopeful?
+   940837  94PO: Has Clinton ever made R afraid?
+   940838  94PO: Has Clinton ever made R proud?
+
+
+               POLITICAL RULER: LIBERAL TO CONSERVATIVE
+
+   940839  94PO: R self-rated, liberal/conservative scale
+   940840  94PO: If R had to choose: liberal/conservative?
+   940841  94PO: Clinton: liberal/conservative scale
+   940842  94PO: Certainty about Clinton on liberal/conservative
+                    scale
+   940843  94PO: House Democratic candidate: liberal/conservative
+                    scale
+   940844  94PO: Certainty about House Democrat on
+                    liberal/conservative scale
+   940845  94PO: House Republican: liberal/conservative scale
+   940846  94PO: Certainty about House Republican on
+                    liberal/conservative scale
+   940847  94PO: Democratic party: liberal/conservative scale
+   940848  94PO: Republican party: liberal/conservative scale
+   940901  94PO: Is United States on right/wrong track?
+
+                       R'S PERSONAL FINANCIAL SITUATION
+
+   940902  94PO: Is R better/worse off than last year?
+   940903  94PO: Is R much better/worse off than last year?
+   940904  94PO: Will R be better/worse off next year?
+   940905  94PO: Will R be much better/worse off next year?
+   940906  94PO: Were R's federal taxes higher/lower in 1993?
+   940907  94PO: Were R's federal taxes much higher/lower in 1993?
+   940908  94PO: Has economy gotten better/worse in past year?
+   940909  94PO: Has economy gotten much better/worse in past
+                    year?
+   940910  94PO: Will economy get better/worse next year?
+   940911  94PO: Have policies made economy better/worse in past
+                    year?
+   940912  94PO: Have policies made economy much better/worse in
+                    past year?
+
+
+                             PARTY SYSTEM
+
+   940913  94PO: Does R favor 2-party system/no parties/multiple
+                parties?
+
+
+                          EQUAL OPPORTUNITY
+
+   940914  94PO: R agrees/disagrees: society should ensure equal
+                    opportunity
+   940915  94PO: R agrees/disagrees: gone too far with equal
+                    rights
+   940916  94PO: R agrees/disagrees: big problem- not giving
+                    everyone equal chance
+   940917  94PO: R agrees/disagrees: better not to worry about
+                    equal opportunity
+   940918  94PO: R agrees/disagrees: lack of equal opportunity not
+                    a problem
+   940919  94PO: R agrees/disagrees: fewer problems if equal
+                    opportunity
+
+                        ASSESSMENT OF CLINTON
+
+   940920  94PO: How well does moral describe Clinton?
+   940921  94PO: How well does strong leadership describe Clinton?
+   940922  94PO: How well does cares about you describe Clinton?
+   940923  94PO: How well does knowledgeable describe Clinton?
+   940924  94PO: How well does gets things done describe Clinton?
+   940925  94PO: R agees/disagrees: raise taxes to reduce deficit
+   940926  94PO: R agrees/disagrees: cut health/education to
+                    reduce deficit
+   940927  94PO: R agrees/disagrees: increase health/education
+                    even if more taxes
+
+
+                            7-POINT SCALES
+
+   940928  94PO: 7-point scale: equal role for women
+   940929  94PO: 7-point scale: defense spending
+   940930  94PO: 7-point scale: job/standard of living
+   940931  94PO: CLINTON 7-point scale: job/standard of living
+   940932  94PO: House Democrat 7-point scale: job/standard of
+                    living
+   940933  94PO: House Republican 7-point scale: job/standard of
+                    living
+   940934  94PO: Democratic Party 7-point scale: job/Standard of
+                    living
+   940935  94PO: Republican Party 7-point scale: job/Standard of
+                    living
+   940936  94PO: 7-point scale: aid to Blacks
+   940937  94PO: Clinton 7-point scale: aid to Blacks
+   940938  94PO: Democratic Party 7-point scale: aid to Blacks
+   940939  94PO: Republican Party 7-point scale: aid to Blacks
+   940940  94PO: 7-point scale: services/spending
+   940941  94PO: Clinton 7-point scale: services/spending
+   940942  94PO: House Democrat 7-point scale: services/spending
+   940943  94PO: House Republican 7-point scale: services/spending
+   940944  94PO: Democratic Party 7-point scale: services/spending
+   940945  94PO: Republican Party 7-point scale: services/spending
+   940946  94PO: R favors/opposes no welfare increase if more kids
+   940947  94PO: Degree of favor/oppostion to no extra welfare for
+                    extra kids
+   940948  94PO: R favors/opposes 2 year limit for welfare
+   940949  94PO: Degree of favor/opposition to 2 year welfare
+                    limit
+   940950  94PO: 7-point scale: federal health insurance
+   940951  94PO: Clinton 7-point scale: federal health insurance
+   940952  94PO: House Democrat 7-point scale: federal health
+                    insurance
+   940953  94PO: House Republican 7-point scale: federal health
+                    insurance
+   940954  94PO: Democratic Party 7-point scale: federal health
+                    insurance
+
+   940955  94PO: Republican Party 7-point scale: federal health
+                    insurance
+
+
+                          AFFIRMATIVE ACTION
+
+   941001  94PO: R favors/opposes preference in hiring Blacks
+   941002  94PO: Degree of favor/opposition to preferential
+                 hiring of Blacks
+   941003  94PO: Is it goverment's role to insure blacks/whites
+                 in same schools?
+   941004  94PO: Does R think gov't should insure blacks/whites
+                 in same schools?
+   941005  94PO: How much change in position of blacks?
+
+
+                            R'S KNOWLEDGE
+
+   941006  94PO: R's knowledge - Gore
+   941007  94PO: R's knowledge - Rehnquist
+   941008  94PO: R's knowledge - Yeltsin
+   941009  94PO: R's knowledge - Foley
+   941010  94PO: R's Knowledge - final decision on
+                 constitutionality of law
+   941011  94PO: R's knowledge - responsibility to nominate
+                 federal judges
+   941012  94PO: Party in control of House before last election
+   941013  94PO: Party in control of Senate before last election
+   941014  94PO: R's view: circumstances that allow for legal
+                 abortion
+
+                         U.S. FOREIGN POLICY
+
+   941015  94PO: Has U.S. position in world grown stronger/weaker
+                 in past year
+   941016  94PO: Should U.S.immigration be
+                 increased/decreased/left the same
+   941017  94PO: Should preventing nuclear proliferation be
+                 foreign policy goal?
+   941018  94PO: Should spreading democracy be foreign policy
+                 goal?
+   941019  94PO: R agrees/diagrees: U.S should stay home
+   941020  94PO: R's opinion: prayer in public schools
+   941021  94PO: Strength of R's opinion: prayer in public
+                 schools
+
+
+                           R'S HEALTH CARE
+
+   941022  94PO: Does R have health insurance?
+   941023  94PO: Is R satisfied with health plan?
+   941024  94PO: Is R's health plan a serious problem?
+   941025  94PO: Can R afford health care?
+
+   941026  94PO: R's satisfication with available health care
+   941027  94PO: Has R put off dental/medical treatment due to
+                 lack of money?
+   941028  94PO: R's satisfaction with U.S. health care
+
+
+                         R AGREES/DISAGREES:
+
+   941029  94PO: R agrees/disagrees: Newer lifestyles contribute
+                    to breakdown of society
+   941030  94PO: R agrees/disagrees: Adjust morals to change
+   941031  94PO: R agrees/disagrees: Emphasize traditional family
+                 ties
+   941032  94PO: R agrees/disagrees: Tolerate different moral
+                 stands
+   941033  94PO: How often R trusts government
+   941034  94PO: How much government wastes tax money
+   941035  94PO: Is government run by big interests?
+   941036  94PO: How many people in government are crooked?
+   941037  94PO: R agrees/disagrees: Public officials dont care
+   941038  94PO: R agrees/disagrees: People like R have no say
+   941039  94PO: R agrees/disagrees: Politcs/government is too
+                 complicated
+   941040  94PO: R favors/opposes Clinton crime bill
+   941041  94PO: R favors/opposes death penalty
+   941042  94PO: Strength of R's favor/opposition to death
+                 penalty
+
+
+                     ROLE OF RELIGION IN R'S LIFE
+
+   941043  94PO: Is religion important to R?
+   941044  94PO: Amount of guidance R receives from religion
+   941045  94PO: How often does R pray?
+   941046  94PO: How often does R read the bible?
+   941047  94PO: R's opinion on the authority of the bible
+
+
+                   R'S OPINION ON STATUS OF BLACKS
+
+   941048  94PO: R agrees/disagrees: Blacks have gotten less than
+                    they deserve
+   941049  94PO: R agrees/disagrees: No special favors for blacks
+   941050  94PO: R agrees/disagrees: Blacks need to try harder
+   941051  94PO: R agrees/disagrees: Difficult for blacks to work
+                 out of lower class due to slavery/discrimination
+   941100  94PO: Checkoint: cross-section /panel
+
+
+               R'S RELIGIOUS PREFERENCES AND PRACTICES
+
+   941101  94PO: Does R attend religious services?
+   941102  94PO: Is R part of a denomination?
+   941103  94PO: How often R attends religious services
+
+   941104  94PO: R attends religious services once a week or more
+   941105  94PO: R is protestant/catholic/jewish/other
+   941106  94PO: R's religious denomination
+   941107  94PO: Baptist type
+   941108  94PO: Is R affiliated with larger Baptist group
+   941109  94PO: Lutheran type
+   941110  94PO: Methodist type
+   941111  94PO: Presbyterian type
+   941112  94PO: Reformed type
+   941113  94PO: Church of brethren type
+   941114  94PO: 'christian' type
+   941115  94PO: Church of christ type
+   941116  94PO: Church of god type
+   941117  94PO: 'other' subgroupings
+   941118  94PO: Name of 'other' subgroups
+   941119  94PO: Is church/denomination christian?
+   941120  94PO: Is R Jewish orthodox/conservative/reform?
+   941121  94PO: Is R Protestant
+                 fundamentalist/evangelical/charismatic/
+                 pentecostal?
+   941122  94PO: R's relgion - summary
+   941123  94PO: Checkoint: R's church attendance
+   941124  94PO: Was political information available at place of
+                 worship?
+   941125  94PO: Did clergy support a partiular candidate/party?
+   941126  94PO: #1 candidate clergy supported
+   941127  94PO: #2 candidate clergy supported
+   941128  94PO: #3 candidate clergy supported
+
+
+                         PERSONAL INFORMATION
+
+   941201  94PO: Month of birth
+   941202  94PO: Year of birth
+   941203  94PO: Recoded age
+   941204  94PO: Marital status
+   941205  94PO: Checkoint: cross-section/panel
+
+
+                            R'S EDUCATION
+
+   941206  94PO: Highest grade of education
+   941207  94PO: Dis R get high school diploma or equivalent?
+   941208  94PO: Highest degree of education
+   941209  94PO: R's education - summary
+
+
+                     EDUCATION OF SPOUSE/PARTNER
+
+   941210  94PO: Checkoint: married/partnered
+   941211  94PO: Highest grade of spouse's education
+   941212  94PO: Did spouse get high school diploma/equivalent
+   941213  94PO: Highest degree in spouse's education
+   941214  94PO: Spouse's education - summary
+
+                          R'S WORK STATUS
+
+   941215  94PO: R's employment status
+   941216  94PO: R's employment status - summary
+   941217  94PO: If unemployed- has R ever worked for pay?
+   941218  94PO: If retired- when did R retire?
+   941219  94PO: If disabled- has R ever worked for pay?
+   941220  94PO: If homemaker/student- is R working now?
+   941221  94PO: If unemployed homemaker/student- has R worked in
+                 past 6 months?
+
+
+                  R WORKING OR TEMPORARILY LAID OFF
+
+   941222  94PO: R working- occupation
+   941223  94PO: R working- collapsed occupation code
+   941224  94PO: R working- prestige score
+   941225  94PO: Is R working for industry?
+   941226  94PO: Is R working for self/other?
+   941227  94PO: Is R working for government?
+   941228  94PO: R working- number of hours
+   941229  94PO: R working- wants more/fewer hours
+   941230  94PO: R working- worried/not worried about losing job
+   941231  94PO: Checkpoint: R working now/temporarily laid off
+   941232  94PO: R working- laid off in past?
+   941233  94PO: R working- pay/hours cut?
+
+
+                  R UNEMPLOYED, RETIRED OR DISABLED
+
+   941234  94PO: R unemployed/retired/disabled- occupation
+   941235  94PO: R unemployed/retired/disabled- collapsed
+                 occupation code
+   941236  94PO: R unemployed/retired/disabled- prestige
+   941237  94PO: R unemployed/retired/disabled- industry
+   941238  94PO: R unemployed/retired/disabled- works for self
+   941239  94PO: R unemployed/retired/disabled- works for
+                 government
+   941240  94PO: R unemployed/retired/disabled- worked in past 6
+                 months
+   941241  94PO: R unemployed/retired/disabled- hours worked
+   941242  94PO: Checkoint: R unemployed/retired/disabled
+   941243  94PO: R retired/disabled- working now
+   941244  94PO: R retired/disabled- lookng for work
+   941245  94PO: R unemployed/retired/disabled- worried/not
+                 worried about finding a job
+
+
+                         R HOMEMAKER/STUDENT
+
+   941246  94PO: R homemaker/student- occupation
+   941247  94PO: R homemake/student- collapsed occupation
+   941248  94PO: R homemaker/student- prestige
+   941249  94PO: R homemaker/student- industry
+   941250  94PO: R homemaker/student- worked for self
+   941251  94PO: R homemaker/student- worked for government
+   941252  94PO: R homemaker/student- hours worked
+   941253  94PO: R homemaker/student- looking for work
+   941254  94PO: R homemaker/student- worried/not worried about
+                 finding a job
+
+
+                    R'S OCCUPATION DATA - STACKED
+
+   941255  94PO: Recode1. R's occupation stacked
+   941256  94PO: Recode2. R's occupation headings
+   941257  94PO: Recode3. R's prestige bracketed
+   941258  94PO: Recode4. R's industry stacked
+   941259  94PO: Recode5. R employed self/other
+   941260  94PO: Recode6. R employed by government
+   941261  94PO: Recode7. R's # hours worked per week
+   941262  94PO: Recode8. R worried/not worried about loosing job
+   941263  94PO: Recode9. R had job in past 6 months
+   941264  94PO: Recode10. R looking for job now
+   941265  94PO: Recode11. R ever worked for pay
+
+
+                     OCCUPATION OF SPOUSE/PARTNER
+
+   941301  94PO: Checkpoint: r married/partnered
+   941302  94PO: Spouse employment status
+   941303  94PO: Spouse employment status - summary
+   941304  94PO: Spouse unemployed-ever worked for pay
+   941305  94PO: Spouse retired- when retired
+   941306  94PO: Spouse disabled- ever work for pay
+   941307  94PO: Spouse homemaker/student- working now
+   941308  94PO: Spouse unemployed homemaker/student-worked in
+                 past 6 months
+   941309  94PO: Spouse working- occupation
+   941310  94PO: Spouse working- collapsed occupation code
+   941311  94PO: Spouse working- prestige
+   941312  94PO: Spouse working- industry
+   941313  94PO: Spouse working- work for self
+   941314  94PO: Spouse working- work for government
+   941315  94PO: Spouse working- no. hours
+   941316  94PO: Spouse working- wants more/fewer hours
+   941317  94PO: Spouse working- worried/not worried about losing
+                 job
+   941318  94PO: Checkpoint: Spouse working/temporarily laid off
+   941319  94PO: Spouse working- layoff in past 6 months
+   941320  94PO: Spouse working- pay/hours cut?
+
+
+              SPOUSE/PARTNER UNEMPLOYED/RETIRED/DISABLED
+
+   941321  94PO: Spouse unemployed/retired/disabled- occupation
+   941322  94PO: Spouse unemployed/retired/disabled- collapsed
+                 occupation
+   941323  94PO: Spouse unemployed/retired/disabled- prestige
+   941324  94PO: Spouse unemployed/retired/disabled- industry
+   941325  94PO: Spouse unemployed/retired/disabled- works for
+                 self
+   941326  94PO: Spouse unemployed/retired/disabled- works for
+                 government
+   941327  94PO: Spouse unemployed/retired/disabled- job in past
+                 6 months
+   941328  94PO: Spouse unemployed/retired/disabled- hours worked
+   941329  94PO: Checkpoint: Spouse unemployed/retired/disabled
+   941330  94PO: Spouse retired/disabled- working now
+   941331  94PO: Spouse retired/disabled- looking for work
+   941332  94PO: Spouse unemployed/retired/disabled- worried/not
+                 worried about finding a job
+
+
+                   SPOUSE/PARTNER HOMEMAKER/STUDENT
+
+   941333  94PO: Spouse homemaker/student- occupation
+   941334  94PO: Spouse homemaker/student- collapsed occupation
+                 code
+   941335  94PO: Spouse homemaker/student- prestige
+   941336  94PO: Spouse homemaker/student- industry
+   941337  94PO: Spouse homemaker/student- worked for self
+   941338  94PO: Spouse homemaker/student- worked for government
+   941339  94PO: Spouse homemaker/student- hours worked
+   941340  94PO: Spouse homemaker/student- looking for job
+   941341  94PO: Spouse homemaker/student- worried/not worried
+                 about finding job
+
+
+              SPOUSE/PARTNER'S OCCUPATION DATA - STACKED
+
+   941342  94PO: Recode1001. spouse occupation stack
+   941343  94PO: Recode1002. spouse occup headings
+   941344  94PO: Recode1003. spouse prestige bracket
+   941345  94PO: Recode1004. spouse industry stacked
+   941346  94PO: Recode1005. spouse employed self/other
+   941347  94PO: Recode1006. spouse employ government
+   941348  94PO: Recode1007. spouse # hours work a week
+   941349  94PO: Recode1008. spouse worried/not worried about
+                 loosing Job
+   941350  94PO: Recode1009. spouse had job past 6 months
+   941351  94PO: Recode1010. spouse looking for job now
+   941352  94PO: Recode1011. spouse ever worked for pay
+
+
+                           UNION MEMBERSHIP
+
+   941401  94PO: Anyone in labor union?
+   941402  94PO: Who belongs to labor union?
+
+
+                           HOUSEHOLD INCOME
+
+   941403  94PO: Checkpoint: family members over 14 years old?
+   941404  94PO: Family income
+   941405  94PO: R's income
+   941406  94PO: Does R belong to social class?
+   941407  94PO: R's social class
+   941408  94PO: Is R average/upper middle/working social class?
+   941409  94PO: Social class- summary
+   941410  94PO: Is R close to middle/working class people?
+   941411  94PO: Checkpoint: cross section/panel
+
+                      R'S ETHNIC GROUP IDENTITY
+
+   941412  94PO: R's ethnic group #1
+   941413  94PO: R's ethnic group #2
+   941414  94PO: Number of ethnic groups given
+   941415  94PO: Closest ethnic group
+   941416  94PO: Both parents born in U.S.?
+   941417  94PO: Checkpoint: Did R mention Hispanic
+   941418  94PO: Is R hispanic
+   941419  94PO: R type hispanic
+
+
+                            R'S BACKGROUND
+
+   941420  94PO: Place R was born
+   941421  94PO: Place R grew up
+   941422  94PO: Where was R brought up?
+   941423  94PO: How long in community?
+   941424  94PO: R last community- city?
+   941425  94PO: R last community-state/country
+
+
+               R'S RESIDENCE AND HOUSEHOLD COMPOSITION
+
+   941426  94PO: How long lived in residence?
+   941427  94PO: R own/pay rent?
+   941428  94PO: R have children?
+   941429  94PO: No. R's children under 6
+   941430  94PO: No. children under 6 living with R
+   941431  94PO: No. R's children 6-18 years
+   941432  94PO: No. children 6-18 living with R
+
+
+                 POST INTERVIEW DESCRIPTION VARIABLES
+
+   941433  94PO: Time ending
+   941434  94PO: R's gender
+   941435  94PO: R's race
+   941436  94PO: Other person at interview
+   941437  94PO: R's level of cooperation
+   941438  94PO: R's level of information
+   941439  94PO: R's apparent intelligence
+   941440  94PO: R'S suspiciousness
+   941441  94PO: R's interest in interview
+   941442  94PO: R's sincerity
+   941443  94PO: Did R report income correctly?
+   941444  94PO: Estimate of R's family income
+   941445  94PO: Interview entirely in english
+   941446  94PO: Other language used
+   941447  94PO: #1 reaction to interview
+   941448  94PO: #2 reaction to interview
+   941449  94PO: #3 reaction to interview
+   941450  94PO: #4 reaction to interview
+   941451  94PO: #5 reaction to interview
+   941452  94PO: #6 reaction to interview
+   941453  94PO: #7 reaction to interview
+   941454  94PO: #8 reaction to interview
+   941455  94PO: #9 reaction to interview
+   941456  94PO: #10 reaction to interview
+   941457  94PO: #11 reaction to interview
+   941458  94PO: #12 reaction to interview
+
+                      FEELING THERMOMETER PROBES
+
+   941501  94PO: V223 Clinton feeling thermometer probe
+   941502  94PO: V224 Perot feeling thermometer probe
+   941503  94PO: V225 Dole feeling thermometer probe
+   941504  94PO: V226 Quayle feeling thermometer probe
+   941505  94PO: V227 Gore feeling thermometer probe
+   941506  94PO: V228 Jackson feeling thermometer probe
+   941507  94PO: V229 Hillary feeling thermometer probe
+   941508  94PO: V230 C Powell feeling thermometer probe
+   941509  94PO: V231 Senate Democrat feeling thermometer probe
+   941510  94PO: V232 Senate Republican feeling thermometer probe
+   941511  94PO: V233 Tennessee Senate Democrat feeling
+                 thermometer probe
+   941512  94PO: V234 Tennessee Senate Republican feeling
+                 thermometer probe
+   941513  94PO: V235 Tennessee Senate incumbent feeling
+                 thermometer probe
+   941514  94PO: V236 Tennessee Senator 1 no state race feeling
+                 thermometer probe
+   941515  94PO: V237 Tennessee Senator 2 no state race feeling
+                 thermometer probe
+   941516  94PO: V238 House Democrat feeling thermometer probe
+   941517  94PO: V239 House Republican feeling thermometer probe
+   941518  94PO: V301 Democratic party feeling thermometer probe
+   941519  94PO: V302 Republican party feeling thermometer probe
+   941520  94PO: V303 Political parties feeling thermometer probe
+   941521  94PO: V304 Hispanics feeling thermometer probe
+   941522  94PO: V305 Blacks feeling thermometer probe
+   941523  94PO: V306 Conservatvs feeling thermometer probe
+   941524  94PO: V307 Labor unions feeling thermometer probe
+   941525  94PO: V308 Women's movement feeling thermometer probe
+   941526  94PO: V309 Welfare feeling thermometer probe
+   941527  94PO: V310 Environmentalist feeling thermometer probe
+   941528  94PO: V311 Liberals feeling thermometer probe
+   941529  94PO: V312 Poor people feeling thermometer probe
+   941530  94PO: V313 Whites feeling thermometer probe
+   941531  94PO: V314 Big busness feeling thermometer probe
+   941532  94PO: V315 Christian fund feeling thermometer probe
+   941533  94PO: V316 Elderly feeling thermometer probe
+   941534  94PO: V317 Illegal immigirant feeling thermometer
+                 probe
+   941535  94PO: V318 Gays/lesbians feeling thermometer probe
+   941536  94PO: V319 Wealthy feeling thermometer probe
+
+     
+>> 1994 VARIABLE DESCRIPTION LIST: 1992 VARIABLES
+
+
+                         SAMPLING INFORMATION
+
+   923004  1992 Pre-Election Study Case ID
+   923005  1992 Panel or Cross-Section Indicator
+   923006  1990 Post Election Study Case ID
+   923007  Panel Status For The 1991 Panel/Pilot
+           Study
+   923008  Full Sample Weight
+   923009  Panel Only Weight
+   923010  Pre-Post Indicator: 1992 Election Study
+   923011  Pre-Election Form-Sample Indicator
+   923012  Primary Area Code (3 digits)
+   923013  PRIMARY AREA NAME
+   923014  Census Region
+   923015  State Abbreviation
+   923016  ICPSR State and 1992 Congressional District
+   923017  ICPSR State Code
+   923018  FIPS State Code
+   923019  1992 Congressional District Number (2 digits)
+   923020  1990 Congressional District Number
+   923021  Type of Race:  House of Representatives
+   923022  Type of Race: Senate
+
+
+                       PRE-ELECTION INFORMATION
+
+   923023  Pre-Election Sample Releases and Replicates
+   923024  Pre-Election Sample Release -- Summary
+   923025  Pre-Election: Beginning Time (local)--Exact Time
+           Now
+   923026  Pre-Election: Date of Interview:  MONTH
+   923027  Pre-Election: Date Interview:  Day
+   923028  Pre-Election: Interviewer's Interview Number
+   923029  Pre-Election: Interview Length in Minutes
+   923030  Pre-Election: Post-Edit Length, in Minutes
+   923031  Pre-Election: Mode of Interview: Telephone or Personal
+   923032  Pre-Election: Total Number of Calls to Obtain
+           Interview
+   923033  Pre-Election: Result Code
+   923034  Reasons for using telephone questionnaire
+   923035  Was Name Obtained
+   923036  R's Address
+   923037  Address Different From Sample Label
+   923038  Phone Number Obtained
+   923039  Is Number Listed in the Phone Directory
+   923040  Is Phone Listed in R's Name
+   923041  Does R Have Other Residence
+   923042  Contact Information
+   923043  Reason for not Interviewing by Phone
+   923044  Type of Structure in Which R Lives
+   923045  Is Cooperation Needed to Gain Access to Housing Unit
+   923046  Instructions for Gaining Access to Housing Unit
+
+                     R'S RESISTANCE TO INTERVIEW
+
+   923047  Refusal Conversion Indicator
+   923048  Persuasion Letter Requested
+   923049  Type of Incentive Sent to Selected Household
+   923050  Amount of Payment Offered to R
+   923051  Amount of Payment Made to R
+   923052  Did R Refuse Interview Initially
+   923053  Did R Break Any Appointment
+   923054  Reason for Resistance to Interview: Waste of Time
+   923055  Reason for Resistance to Interview:  Very Ill
+   923056  Reason for Resistance to Interview:  'Too Busy'
+   923057  Reason for Resistance to Interview: Stressful Family
+           Situation
+   923058  Reason for Resistance to Interview: Confidentiality
+   923059  Reason for Resistance to Interview: Invasion of
+           Privacy
+   923060  Reason for Resistance to Interview: Other
+
+                         GEOGRAPHIC VARIABLES
+
+   923061  FIPS State and County Codes
+   923062  Tract/Enumeration District Indicator
+   923063  FIPS 1980 SMSA Code
+   923064  FIPS 1990 CMSA Codes
+   923065  Size of Place of Interview - 1990
+   923066  Actual Population of Interview Location - 1990
+   923067  1990 Belt Code
+
+                          SAMPLING VARIABLES
+
+   923068  Sampling Error Code - Combined Panel/Cross-Section
+   923069  Sampling Error Code - Panel Only
+   923070  Cross-Section: Number of Household Units
+   923071  Panel Only: R Found Not Living at Sample Label Address
+   923072  Cross-Section: Household Listing
+   923073  Cross-Section: Selection Table
+   923074  Cross-Section: Person Number Selected As R
+   923075  Cross-Section: Number of Persons in Household
+   923076  Cross Section: Number of Politically Eligible Adults
+           in HH
+   923077  Cross Section: Household Composition Code
+   923078  Household Description for Panel and Cross-Section
+   923079  Cross-Section: Number of Children Under 6 Years Old in
+           HH
+   923080  Cross-Section: Number of Children 6-9 Years Old in HH
+   923081  Cross-Section: Number of Children 10-13 Years Old in
+           HH
+   923082  Cross-Section: Number of Children 14-17 Years Old in
+           HH
+
+                        INTERVIEWER VARIABLES
+
+   923083  Interviewer's ID Number
+   923084  Supervisor ID Number
+   923085  Interviewer's Race
+   923086  Interviewer's Ethnicity
+   923087  Interviewer's Age Bracketed
+   923088  Interviewer's Years of Experience
+   923089  Interviewer's Gender
+   923090  Interviewer's Education
+   923101  Interest in the Campaign
+
+
+                         INTERVIEW QUESTIONS
+
+   923102  Prediction of Winner in Presidential Election
+   923103  Does R Think Presidential Race Will Be Close
+   923104  Which Presidential Candidate Does R Think Will Carry
+           State
+   923105  Does R Think the Presidential Race Will Be Close in
+           State
+   923106  Does R Care Which Party Wins the Presidential Election
+   923107  Did R Vote in 1988 Presidential Election
+   923108  Vote for President in 1988
+
+
+                          BUSH AS CANDIDATE
+
+   923109  Is There Anything About Bush That Would Make R Vote
+           For Him
+   923110  Reasons Would Vote For Bush - First Mention
+   923111  Reasons Would Vote For Bush - Second Mention
+   923112  Reasons Would Vote For Bush - Third Mention
+   923113  Reasons Would Vote For Bush - Fourth Mention
+   923114  Reasons Would Vote For Bush - Fifth Mention
+   923115  Is There Anything About Bush That Would Make R Vote
+           Against Him
+   923116  Reasons Would Vote Against Bush - First Mention
+   923117  Reasons Would Vote Against Bush - Second Mention
+   923118  Reasons Would Vote Against Bush - Third Mention
+   923119  Reasons Would Vote Against Bush - Fourth Mention
+   923120  Reasons Would Vote Against Bush - Fifth Mention
+   923121  Is There Anything About Clinton That Would Make R Vote
+           For Him
+
+
+                         CLINTON AS CANDIDATE
+
+   923122  Reasons Would Vote For Clinton - First Mention
+   923123  Reasons Would Vote For Clinton - Second Mention
+   923124  Reasons Would Vote For Clinton - Third Mention
+   923125  Reasons Would Vote For Clinton - Fourth Mention
+   923126  Reasons Would Vote For Clinton - Fifth Mention
+   923127  Is There Anything About Clinton That Would Make R Vote
+           Against Him
+   923128  Reasons Would Vote Against Clinton - First Mention
+   923129  Reasons Would Vote Against Clinton - Second Mention
+   923130  Reasons Would Vote Against Clinton - Third Mention
+   923131  Reasons Would Vote Against Clinton - Fourth Mention
+   923132  Reasons Would Vote Against Clinton - Fifth Mention
+   923133  Is There Anything About Perot That Would Make R Vote
+           For Him
+
+
+                          PEROT AS CANDIDATE
+
+   923134  Reasons Would Vote For Perot - First Mention
+   923135  Reasons Would Vote For Perot - Second Mention
+   923136  Reasons Would Vote For Perot - Third Mention
+   923137  Reasons Would Vote For Perot - Fourth Mention
+   923138  Reasons Would Vote For Perot - Fifth Mention
+   923139  Is There Anything About Perot That Would Make R Vote
+           Against Him
+   923140  Reasons Would Vote Against Perot - First Mention
+   923141  Reasons Would Vote Against Perot - Second Mention
+   923142  Reasons Would Vote Against Perot - Third Mention
+   923143  Reasons Would Vote Against Perot - Fourth Mention
+   923144  Reasons Would Vote Against Perot - Fifth Mention
+
+
+                   R'S ATTENTION TO CAMPAIGN/MEDIA
+
+   923145  Satisfaction With Presidential Candidates
+   923201  How Often Did R Watch News on TV in the Past Week
+   923202  How Much Attention Did R Give to the Presidential
+           Campaign News on TV
+   923203  How Often Did R Read a Daily Newspaper in the Past
+           Week
+   923204  Did R Read About the Campaign in Any Newspaper
+   923205  How Much Attention Did R Give to Campaign News in the
+           Newspaper
+   923206  Did R Read About the Campaign in Any Magazines
+   923207  How Much Attention Did R Give to the Campaign News in
+           Magazines
+   923208  Did R Listen to Campaign Speeches or Discussions on
+           the Radio
+   923209  How Many Campaign Speeches/Discussions Did R Listen to
+           on the Radio
+   923210  Did R Listen/Watch Call-In Radio/TV Talk Shows
+   923211  Does R Recall Seeing Any Presidential Campaign
+           Advertisements on TV
+   923212  Remembered About Campaign Ads on TV - First Mention
+   923213  Remembered About Campaign Ads on TV - Second Mention
+   923214  Remembered About Campaign Ads on TV - Third Mention
+   923215  Remembered About Campaign Ads on TV - Fourth Mention
+   923216  Remembered About Campaign Ads on TV - Fifth Mention
+
+
+                 R'S PARTICIPATION IN PRIMARY/CAUCUS
+
+   923301  Did R Vote in Caucus/Primary Election
+   923302  Did R Vote in Republican or Democratic Primary/Caucus
+   923303  Which Republican Did R Vote For in State
+           Primary/Caucus
+   923304  Which Democratic Did R Vote For in State
+           Primary/Caucus
+
+
+                         FEELING THERMOMETERS
+
+   923305  Feeling Thermometer - George Bush
+   923306  Feeling Thermometer - Bill Clinton
+   923307  Feeling Thermometer - Ross Perot
+   923308  Feeling Thermometer - Dan Quayle
+   923309  Feeling Thermometer - Albert Gore
+   923310  Feeling Thermometer - Anita Hill
+   923311  Feeling Thermometer - Tom Foley
+
+
+   923312  Feeling Thermometer - Barbara Bush
+   923313  Feeling Thermometer - Hillary Clinton
+   923314  Feeling Thermometer - Clarence Thomas
+   923315  Feeling Thermometer - Pat Buchanan
+   923316  Feeling Thermometer - Jesse Jackson
+   923317  Feeling Thermometer - Democratic Party
+   923318  Feeling Thermometer - Republican Party
+
+          R'S ASSESSMENT OF BUSH AS PRESIDENT (PRE-ELECTION)
+
+   923319  Approves/Disapproves of Bush's Handling of His Job as
+           President
+   923320  How Strongly Approve/Disapprove of Bush's Handling of
+           His Job
+   923321  Approves/Disapproves of Bush's Handling of Foreign
+           Relations
+   923322  How Strongly Approve/Disapprove of Bush's Foreign
+           Relations
+   923323  Approve/Disapprove of Bush's Handling of the Economy
+   923324  How Strongly Approve/Disapprove of Bush's Handling of
+           Economy
+   923325  Approve/Disapprove of Bush's Handling of Persian Gulf
+           Crisis
+   923326  How Strongly Approve/Disapprove of Bush's Handling of
+           Gulf
+
+
+               R'S OPINION ABOUT CANDIDATES AND PARTIES
+
+     Candidate Best Able to Handle...
+
+   923327  ...The Nation's Economy
+   923328  ...Foreign Affairs
+   923329  ...Poverty
+   923330  ...Pollution and the Environment
+   923331  ...Health Care
+   923332  ...the Budget Deficit
+
+
+              R'S LIKES/DISLIKES ABOUT DEMOCRATIC PARTY
+
+   923401  Whether R Likes Anything About the Democratic Party
+   923402  Likes About the Democratic Party - First Mention
+   923403  Likes About the Democratic Party - Second Mention
+   923404  Likes About the Democratic Party - Third Mention
+   923405  Likes About the Democratic Party - Fourth Mention
+
+
+   923406  Likes About the Democratic Party - Fifth Mention
+   923407  Whether R Dislikes Anything About the Democratic Party
+   923408  Dislikes About the Democratic Party - First Mention
+   923409  Dislikes About the Democratic Party - Second Mention
+   923410  Dislikes About the Democratic Party - Third Mention
+   923411  Dislikes About the Democratic Party - Fourth Mention
+   923412  Dislikes About the Democratic Party - Fifth Mention
+
+
+              R'S LIKES/DISLIKES ABOUT REPUBLICAN PARTY
+
+   923413  Whether R Likes Anything About the Republican Party
+   923414  Likes About the Republican Party - First Mention
+   923415  Likes About the Republican Party - Second Mention
+   923416  Likes About the Republican Party - Third Mention
+   923417  Likes About the Republican Party - Fourth Mention
+   923418  Likes About the Republican Party - Fifth Mention
+   923419  Whether R Dislikes Anything About the Republican Party
+   923420  Dislikes About the Republican Party - First Mention
+   923421  Dislikes About the Republican Party - Second Mention
+   923422  Dislikes About the Republican Party - Third Mention
+   923423  Dislikes About the Republican Party - Fourth Mention
+   923424  Dislikes About the Republican Party - Fifth Mention
+
+
+                   R'S PERSONAL FINANCIAL SITUATION
+
+   923425  Better/Worse Off Financially Than a Year Ago
+   923426  How Much Better/Worse Off Financially Than a Year Ago
+   923427  Better/Worse Off Financially a Year From Now
+   923428  Much or Somewhat Better/Worse Off a Year From Now
+   923429  Income Stayed At/Above/Below the Cost of Living
+   923430  Income Gone Up/Fallen Behind the Cost of Living
+   923431  Federal Economic Policy Has Affected R Financially
+   923432  How Much Federal Economic Policy Has Affected R
+           Financially
+   923433  Been Able to Buy/Had to Put Off Buying Things During
+           Past Year
+   923434  Put Off Medical/Dental Treatment Due to Lack of Money
+   923435  Borrow Money to Make Ends Meet
+   923436  Dip Into Savings to Make Ends Meet
+   923437  Look for Job, Work 2nd Job/More Hours to Make Ends
+           Meet
+   923438  Able to Save Any Money Over the Past Year
+   923439  Fallen Behind in Rent/House Payments This Past Year
+
+
+                       R HAS RECEIVED PAYMENTS
+
+   923440  Receive Payments From Social Security
+   923441  Receive Payments From Food Stamps
+   923442  Receive Payments From Medicare
+   923443  Receive Payments From Medicaid
+   923444  Receive Payments From Unemployment Compensation
+   923445  Receive Payments From AFDC
+   923446  Receive Payments From Veterans Benefits
+   923447  Receive Payments From Government Retirement Pensions
+   923448  Receive Payments From Disability Payments
+   923449  Receive Payments From Workman's Compensation
+   923450  Presidential Candidate Most Likely to Raise Taxes
+
+
+                  R'S FEELINGS ABOUT CANDIDATE: BUSH
+
+   923501  Whether Bush Makes R Angry
+   923502  Whether Bush Makes R Hopeful
+   923503  Whether Bush Makes R Afraid
+   923504  Whether Bush Makes R Proud
+
+
+                R'S FEELINGS ABOUT CANDIDATE: CLINTON
+
+   923505  Whether Clinton Makes R Angry
+   923506  Whether Clinton Makes R Hopeful
+   923507  Whether Clinton Makes R Afraid
+   923508  Whether Clinton Makes R Proud
+
+
+                        IDEOLOGICAL PLACEMENT
+
+   923509  Ideological Placement
+   923510  Interviewer Checkpoint: Ideological Placement
+   923511  Ideological Placement if Moderate/Middle of Road
+   923512  Ideological Placement if DK/Haven't Thought Much
+   923513  Summary: Ideological Placement
+   923514  Ideological Placement - Bush
+   923515  Ideological Placement - Clinton
+   923516  Ideological Placement - Ross Perot
+   923517  Ideological Placement - The Republican Party
+   923518  Ideological Placement - The Democratic Party
+   923519  Whether Political Candidates Should Display Higher
+           Moral Standards
+
+
+                     QUALITIES OF A TRUE AMERICAN
+
+   923520  Getting Ahead Through Own Effort
+   923521  Believing in God
+   923522  Treating People of All Races Equally
+   923523  Speaking English
+
+
+               R'S OPINION ON NATIONAL ISSUES/PROBLEMS
+
+   923524  Racial/Ethnic Groups Should Maintain Distinct
+           Cultures
+   923525  Those Who Avoided Vietnam Should Have Served Despite
+           Beliefs
+   923526  Things in This Country Are Going in the Right
+           Direction
+   923527  Level of Unemployment Has Gotten Better/Worse in Past
+           Year
+
+
+                  R'S OPINION ON ECONOMIC CONDITIONS
+
+   923528  How Much Better/Worse is the Level of Unemployment
+   923529  Inflation Has Gotten Better/Worse in the Past Year
+   923530  How Much Better/Worse is Inflation
+   923531  Nation's Economy Has Gotten Better/Worse in Past Year
+   923532  How Much Better/Worse is the Nation's Economy
+   923533  Economy Has Gotten Better/Worse in Last Few Months
+   923534  How Much Better/Worse is Economy in Past Few Months
+   923535  Economy Has Gotten Better/Worse Compared to Four Years
+           Ago
+   923536  How much Better/Worse is Economy Compared to Four
+           Years Ago
+   923537  Economy Will Get Better/Worse in Next 12 Months
+   923538  America's Ability to Compete in World Economy Gotten
+           Better/Worse
+   923539  How Much Better/Worse is America's Ability to Compete
+           in World Economy
+   923540  Standard of Living Will be Better/Worse 20 Years From
+           Now
+   923541  Federal Economic Policies Have Made Economy
+           Better/Worse
+   923542  How Much Better/Worse Have Federal Economic Policies
+           Made Economy
+   923543  Economic Conditions in State Have Gotten Better/Worse
+   923544  How Much Better/Worse Are Economic Conditions in State
+
+
+                   R'S OPINION ON POLITICAL PARTIES
+           Which Party Would Do a Better Job...
+
+   923545  ...Handling Economy
+   923546  ...Handling Foreign Affairs
+   923547  ...Solving Problem of Poverty
+   923548  ...Making Health Care More Affordable
+   923549  ...Cut Social Security Benefits
+
+                        TAXES AND THE DEFICIT
+
+   923550  Which Party is More Likely to - Raise Taxes
+   923551  Who is More to Blame for Federal Budget Deficit
+
+
+                    R'S OPINION ON MILITARY ISSUES
+
+   923601  Unites States' World Position Has Grown
+           Weaker/Stronger
+   923602  Party Best Able to Keep United States Out of War
+   923603  Should U.S. Maintain Military Power Through High
+           Defense Spending
+   923604  U.S. Should Not Concern Itself With Problems in Other
+           Parts of World
+   923605  How Willing Should U.S. be to Use Force to Solve Intl.
+           Problems
+   923606  How Worried is R About U.S. Getting into a Nuclear War
+   923607  How Worried is R About U.S. Getting into Conventional
+           War
+   923608  Did U.S. Do the Right Thing in Sending Military Forces
+           to Persian Gulf
+   923609  Was One Party Was More in Favor of Military Force in
+           Persian Gulf
+   923610  Which Party Supported Use of Force in Persian Gulf
+           More
+
+               INCUMBENT'S SUPPORT OF PERSIAN GULF WAR
+
+   923611  INTERVIEWER CHECKPOINT: Candidate Named
+
+   923612  Remembers How Incumbent Voted on Use of Force in
+           Persian Gulf
+   923613  Did Incumbent Vote For/Against Use of Force
+   923614  Would R Have Guessed Incumbent Would Vote For/Against
+           Use of Force
+   923615  Approve/Disapprove of Bush's Handing of War in Persian
+           Gulf
+   923616  Approve/Disapprove of Bush's Handling of Gulf War
+
+                     EFFECTS OF PERSIAN GULF WAR
+
+   923617  Did Anything Good Come Out of the Persian Gulf War for
+           the U.S.
+   923618  Good Effects of the Persian Gulf War - First Mention
+   923619  Good Effects of the Persian Gulf War - Second Mention
+   923620  Good Effects of the Persian Gulf War - Third Mention
+   923621  Good Effects of the Persian Gulf War - Fourth Mention
+   923622  Good Effects of the Persian Gulf War - Fifth Mention
+   923623  Did Anything Bad Come Out of the War for the U.S.
+           Besides Losing Lives
+   923624  Bad Effects of Persian Gulf War - First Mention
+   923625  Bad Effects of Persian Gulf War - Second Mention
+   923626  Bad Effects of Persian Gulf War - Third Mention
+   923627  Bad Effects of Persian Gulf War - Fourth Mention
+   923628  Bad Effects of Persian Gulf War - Fifth Mention
+   923629  Was the War Worth the Cost
+   923630  Should the War Have Continued After Kuwait Was
+           Liberated
+
+
+                         PARTY IDENTIFICATION
+
+   923631  Party Identification
+   923632  Strength of Party Identification
+   923633  Is R Closer to Republican/Democratic Party
+   923634  Summary: Party Identification
+
+
+                 QUALITIES DESCRIBING CANDIDATE: BUSH
+
+   923635  How Well Does "Intelligent" Describe Bush
+   923636  How Well Does "Compassionate" Describe Bush
+   923637  How Well Does "Moral" Describe Bush
+   923638  How Well Does "Inspiring" Describe Bush
+   923639  How Well Does "Provides Strong Leadership" Describe
+           Bush
+   923640  How Well Does "Really Cares About People Like You"
+           Describe Bush
+   923641  How Well Does "Knowledgeable" Describe Bush
+   923642  How Well Does "Honest" Describe Bush
+   923643  How Well Does "Gets Things Done" Describe Bush
+
+
+               QUALITIES DESCRIBING CANDIDATE: CLINTON
+
+   923644  How Well Does "Intelligent" Describe Clinton
+   923645  How Well Does "Compassionate" Describe Clinton
+   923646  How Well Does "Moral" Describe Clinton
+   923647  How Well Does "Inspiring" Describe Clinton
+   923648  How Well Does "Provides Strong Leadership" Describe
+           Clinton
+   923649  How Well Does "Really Cares About People Like You"
+           Describe Clinton
+   923650  How Well Does "Knowledgeable" Describe Clinton
+   923651  How Well Does "Honest" Describe Clinton
+   923652  How Well Does "Gets Things Done" Describe Clinton
+
+
+                 GOVERNMENT SERVICES/SPENDING SCALES:
+
+   923701  Respondent
+   923702  George Bush
+   923703  Bill Clinton
+   923704  The Republican Party
+   923705  The Democratic Party
+   923706  The Federal Government
+
+
+                       DEFENSE SPENDING SCALES:
+
+   923707  Respondent
+   923708  George Bush
+   923709  Bill Clinton
+   923710  The Republican Party
+   923711  The Democratic Party
+   923712  The Federal Government
+
+
+                   HEALTH CARE AND HEALTH INSURANCE
+
+   923713  Can R Afford Health Care
+   923714  Does R Have Health Insurance
+   923715  Satisfaction With Quality of Available Health Care
+   923716  Should Gov't Insurance Plan Cover All Medical Expenses
+   923717  Should Government Require Parental Leave
+
+
+                        JOB ASSURANCE SCALES:
+
+   923718  Respondent
+   923719  George Bush
+   923720  Bill Clinton
+   923721  The Republican Party
+   923722  The Democratic Party
+   923723  The Federal Government
+
+   923724  Governmental Support of Social and Economic
+           Position of Blacks
+
+
+        INCREASE/DECREASE SPENDING ON FEDERAL BUDGET PROGRAMS
+                    (See also Variables 3811-3819)
+
+   923725  Increase/Decrease Federal Spending on Food Stamps
+   923726  Increase/Decrease Federal Spending on Welfare
+   923727  Increase/Decrease Federal Spending on AIDS Research
+   923728  Increase/Decrease Federal Spending on Financial Aid
+           For Students
+   923729  Increase/Decrease Federal Spending on Programs That
+           Assist Blacks
+   923730  Increase/Decrease Federal Spending on Solving Problem
+           of Homeless
+   923731  Increase/Decrease Federal Spending on Programs That
+           Assist Blacks
+
+
+                          VIEWS ON ABORTION
+
+   923732  Respondent's Position on Abortion
+   923733  Respondent's View of Bush's Position on Abortion
+   923734  Respondent's View of Clinton's Position on Abortion
+   923735  Would Respondent Favor/Oppose Parental Consent Law for
+           Teenage Abortions
+   923736  How Strongly Does Respondent Favor/Oppose Parental
+           Consent Law for Abortions
+   923737  Would Respondent Favor/Oppose Government Funding for
+           Abortions
+   923738  How Strongly Does Respondent Favor/Oppose Government
+           Funding for Abortions
+   923739  Spousal Notification Law for Married Women Seeking
+           Abortion
+   923740  How Strongly Does Respondent Favor/Oppose Spousal
+           Notification Law
+
+                      VIEWS ON SEXUAL HARASSMENT
+
+   923741  Respondent's View of Seriousness of Sexual Harassment
+           in the Work Place
+   923742  Has Respondent or Anyone Respondent Knows Been Subject
+           to Sexual Harassment in Workplace
+   923743  Status of Protection for Women From Sexual Harassment
+           in Workplace
+   923744  Is Respondent More Inclined to Believe the Woman/Man
+           in Sexual Harassment
+
+
+                  CONGRESSIONAL ISSUES AND PROBLEMS
+
+   923745  Should Gov't Provide Child Care Assistance to Low/Mid
+           Income Parents
+   923746  Dealing With Urban Unrest/Rioting Scale - R
+   923747  Does Respondent Favor/Oppose Term Limits For Congress
+   923748  Has Respondent Heard/Read About Problems in Savings
+           and Loan Business
+   923749  Respondent's View of Who is to Blame for Problems of
+           Savings and Loan Business
+   923801  Women's Rights Scale - R
+   923802  Does Respondent Favor/Oppose New Limits on Foreign
+           Imports
+   923803  Respondent's View of Japanese Business Competition and
+           U.S. Response
+
+
+               RESPONDENTS PLANS FOR NOVEMBER ELECTION
+
+   923804  Does Respondent Expect to Vote in November
+   923805  Who Will Respondent Vote for in the Presidential
+           Election
+   923806  How Strong is Respondent's Preference for Presidential
+           Candidate
+   923807  If "No" in v 3804: Who Would Respondent Vote for in
+           the Presidential Election
+   923808  If "No" in v 3804: Strength of Respondent's Preference
+           for President
+   923809  INTERVIEWER CHECKPOINT: Respondent Volunteered Ross
+           Perot in V 3807
+   923810  Was Perot Ever Respondent's First Choice for President
+
+
+        INCREASE/DECREASE SPENDING ON FEDERAL BUDGET PROGRAMS
+                    (See also Variables 3725-3731)
+
+   923811  Increase/Decrease Spending on Social Security
+   923812  Increase/Decrease Spending on Science and Technology
+   923813  Increase/Decrease Spending on Child Care
+   923814  Increase/Decrease Spending on Dealing with Crime
+   923815  Increase/Decrease Spending on Improving and Protecting
+           the Environment
+   923816  Increase/Decrease Spending on Government Assistance
+           to the Unemployed
+   923817  Increase/Decrease Spending on Poor people
+   923818  Increase/Decrease Spending on Public schools
+   923819  Increase/Decrease Spending on Aid to Big Cities
+
+
+                R'S RELIGIOUS PREFERENCE AND PRACTICE
+
+   923820  Is Religion an Important Part of Respondent's Life
+   923821  Amount of Guidance in Daily Living Provided by
+           Respondent's Religion
+   923822  How Often Does Respondent Pray
+   923823  How Often Does Respondent Read the Bible
+   923824  Respondent's View of the Bible
+   923825  How Often Does Respondent Watch/Listen to Religious
+           Programs
+   923826  Does Respondent Attend Religious Services Apart From
+           Weddings/Baptisms/Funerals
+   923827  Does Respondent Consider Self Part of a Particular
+           Church or Denomination
+   923828  How Often Does Respondent Attend Religious Services
+   923829  Does Respondent Attend Religious Services More Than
+           Once a Week
+
+           Denomination/Affiliation
+
+   923830  Does Respondent Consider Self Protestant/Roman
+           Catholic/Jewish
+   923831  Respondent's Church/Denomination
+   923832  Respondent's Specific Denominational Affiliation -
+           Baptist
+   923833  Is Respondent's Church Affiliated With Larger Baptist
+           Group/Strictly Local
+   923834  Respondent's Specific Denominational Affiliation -
+           Lutheran
+   923835  Respondent's Specific Denominational Affiliation -
+           Methodist
+   923836  Respondent's Specific Denominational Affiliation -
+           Presbyterian
+   923837  Respondent's Specific Denominational Affiliation -
+           Reformed
+   923838  Respondent's Specific Denominational Affiliation -
+           Brethren
+   923839  Respondent's Specific Denominational Affiliation -
+           Christian
+   923840  Respondent's Specific Denominational Affiliation -
+           Church/Churches of Christ
+   923841  Respondent's Specific Denominational Affiliation -
+           Church of God
+   923842  Respondent's Specific Denominational Affiliation -
+           Holiness/Pentecostal
+   923843  Respondent's Specific Denominational Affiliation -
+           Other
+   923844  Is "Other" Group Mentioned in V3843 Christian
+   923845  If Jewish:  Is Respondent Orthodox/Conservative/Reform
+   923846  Description of Respondent's Kind of Christianity
+   923847  Is Respondent a Born-Again Christian
+   923848  Is Respondent Officially a Member of a Place of
+           Worship
+   923849  Does Respondent Participate in Religious Group
+           Outside of Place of Worship
+   923850  Respondent's Religious Affiliation - Summary
+
+
+                         PERSONAL INFORMATION
+
+   923901  Respondent's Date of Birth - Month
+   923902  Respondent's Date of Birth - Year
+   923903  Respondent's Recoded Age
+   923904  Respondent's Marital Status
+
+
+                            R'S EDUCATION
+
+   923905  Years of Education Completed - R
+   923906  Did Respondent Get High School Diploma/Pass
+           Equivalency Test
+   923907  Highest Degree Earned - R
+   923908  Summary: R's Education
+
+
+                     EDUCATION OF SPOUSE/PARTNER
+
+   923909  INTERVIEWER CHECKPOINT: Respondent Married/Living with
+           Partner
+
+   923910  Years of Education Completed - Respondent's
+           Spouse/Partner
+   923911  Did Respondent's Spouse/Partner Get High School
+           Diploma/Pass Equivalency Test
+   923912  Highest Degree Earned - Respondent's Spouse/Partner
+   923913  Summary: Spouse's Education
+
+
+                        R'S OCCUPATION SECTION
+
+   923914  Respondent's Working Status
+   923915  Summary: Respondent's Working Status
+   923916  If Unemployed: Has Respondent Ever Worked for Pay
+   923917  If Retired: When Did Respondent Retire
+   923918  If Disabled: Has Respondent Ever Worked for Pay
+   923919  If Homemaker/Student: Is Respondent Doing Any Work for
+           Pay at Present
+   923920  If Unemployed Homemaker/Student: Has Respondent Worked
+           for Pay in Last 6 Months
+   923921  If Working/Temporarily Laid Off: Respondent's
+           Occupation
+   923922  Collapsed 1980 Occupation Code
+   923923  Prestige Score
+   923924  Respondent's Industry/Business
+   923925  Is Respondent Self-Employed/Works for Someone Else
+   923926  Is Respondent Employed by Federal/State/Local
+           Government
+   923927  Number of Hours Worked Per Week by R
+   923928  Is Respondent Satisfied with Number of Hours Worked
+   923929  How Worried is Respondent About Losing Job
+
+
+            OCCUPATION - R WORKING OR TEMPORARILY LAID OFF
+
+   923930  INTERVIEWER CHECKPOINT: Respondent is
+           Working/Temporarily Laid Off
+   923931  Was Respondent Out of Work/Laid Off During Last 6
+           Months
+   923932  Has Respondent Had Pay Cut/Reduction in Work Hours in
+           Past 6 Months
+   923933  Respondent's Last Occupation - Collapsed Census
+           Occupation Code
+   923934  Collapsed 1980 Occupation Code
+   923935  Prestige Score
+   923936  Respondent's Last Occupation - Census Industry Code
+   923937  Was Respondent Self-Employed/Worked for Someone Else
+   923938  Was Respondent Employed by Federal/State/Local
+           Government
+   923939  Has Respondent Had a Job in the Past 6 Months
+   923940  Number of Hours Per Week Respondent Worked
+
+
+            OCCUPATION - R UNEMPLOYED, RETIRED OR DISABLED
+
+   923941  INTERVIEWER CHECKPOINT: Employment Status
+
+   923942  Is Respondent Doing Any Work for Pay at the Present
+           Time
+   923943  Is Respondent Looking for Work at the Present Time
+   923944  How Worried is Respondent About Not Being Able to Find
+           a Job
+
+
+                   R'S OCCUPATIONAL DATA - STACKED
+
+   923945  Respondent's Last Occupation - Census Occupation Code
+   923946  Respondent's Last Occupation - Collapsed 1980
+           Occupation Code
+   923947  Respondent's Last Occupation - Prestige Score
+   923948  Respondent's Last Occupation - Census Industry Code
+   923949  Was Respondent Self-Employed/Worked for Someone Else
+   923950  Was Respondent Employed by Federal/State/Local
+           Government
+   923951  Number of Hours Respondent Worked in Average Week
+   923952  Is Respondent Looking for Work at the Present Time
+   923953  How Worried is Respondent About Not Being Able to Find
+           a Job
+   923954  Respondent's Present/Last Occupation - Census
+           Occupation Code
+   923955  Respondent's Current/Former Occupation - Collapsed
+           Code
+   923956  Respondent's Current/Former/Occupation - Census
+           Industry Code
+   923957  Was Respondent Self-Employed/Worked for Someone Else
+   923958  Is/Was Respondent Employed by Federal/State/Local
+           Government
+   923959  Number of Hours Respondent Works/Worked on Job in
+           Average Week
+   923960  How Worried is Respondent About Losing Job/Not Being
+           able to Find a Job
+   923961  Has Respondent (If Unemployed/Disabled) Had a Job in
+           the Last 6 Months
+   923962  Is Respondent (If Unemployed/Retired/Disabled) Looking
+           for Work at Present Time
+   923963  Has Respondent (If Unemployed/Permanently Disabled)
+           Ever Done Any Work For Pay
+
+
+                     OCCUPATION OF SPOUSE/PARTNER
+
+  924001  INTERVIEWER CHECKPOINT: Respondent's Marital Status
+
+  924002  Is Respondent's Spouse/Partner Working Now
+  924003  Summary: Working Status of Respondent's Spouse/Partner
+  924004  Has Spouse/Partner (If Unemployed) Ever Worked for Pay
+  924005  When Did Respondent's Spouse/Partner Retire
+  924006  Has Respondent's Spouse/Partner (If Disabled) Ever
+           Done Any Work for Pay
+  924007  Is Respondent's Spouse/Partner (If Homemaker/Student)
+           Doing Any Work for Pay
+  924008  Has Respondent's Spouse/Partner Done Any Work in Last
+           6 Months for Pay
+  924009  Present Occupation of Respondent's Spouse/Partner -
+           Census Occupation code
+  924010  Collapsed 1980 Occupation Code - Respondent's
+           Spouse/Partner
+  924011  Prestige Score - Respondent's Spouse/Partner
+  924012  Census Industry Code - Respondent's Spouse/Partner
+  924013  Respondent's Spouse/Partner was Self-Employed/Worked
+           for Someone Else
+  924014  Is Respondent's Spouse/Partner Employed by
+           Federal/State/Local Government
+  924015  Number of Hours Worked by Respondent's Spouse/Partner
+           in Average Week
+  924016  Does Respondent's Spouse/Partner Work More/Fewer Hours
+           Than He/She Wants
+  924017  How Worried is Respondent's Spouse/Partner About
+           Losing His/Her Job
+
+
+              OCCUPATION - SPOUSE/PARTNER WORKING NOW OR
+                         TEMPORARILY LAID OFF
+
+  924018  INTERVIEWER CHECKPOINT: Employment Status of
+           Respondent's Spouse/Partner
+
+  924019  Has Respondent's Spouse/Partner Been Out of Work/Laid
+           Off in Last 6 Months
+  924020  Has Respondent's Spouse/Partner Had Reduction in
+           Hours/Pay in Last Six Months
+  924021  Census Occupation Code - Respondent's Spouse/Partner
+  924022  Collapsed Census Occupation Code - Respondent's
+           Spouse/Partner
+  924023  Prestige Score - Respondent's Spouse/Partner
+  924024  Census Industry Code - Respondent's  Spouse/Partner
+  924025  Respondent's Spouse/Partner Worked for Someone
+           Else/Was Self-Employed
+  924026  Was Respondent's Spouse/Partner Employed by
+           Federal/State/Local Government
+  924027  Has Respondent's Spouse/Partner had a Job in the Last
+           6 Months
+  924028  Number of Works Worked By Respondent's Spouse/Partner
+           in Average Week
+
+
+           OCCUPATION - SPOUSE/PARTNER UNEMPLOYED, RETIRED
+                             OR DISABLED
+
+  924029  INTERVIEWER CHECKPOINT: Employment Status of
+           Respondent's Spouse/Partner
+
+  924030  Is Respondent's Spouse/Partner Doing Any Work for Pay
+           as the Present Time
+  924031  Is Respondent's Spouse/Partner Looking for Work at the
+           Present Time
+  924032  How Worried is Respondent's Spouse/Partner About
+           Losing His/Her Job
+  924033  Census Occupation Code - Respondent's Spouse/Partner
+  924034  Collapsed Census Occupation Code - Respondent's
+           Spouse/Partner
+  924035  Prestige Score - Respondent's Spouse/Partner
+  924036  Census Industry Code - Respondent's Spouse/Partner
+  924037  Respondent's Spouse/Partner Worked for Someone
+           Else/Was Unemployed
+  924038  Was Respondent's Spouse/Partner Employed by
+           Federal/State/Local Government
+  924039  Number of Hours Worked by Respondent's Spouse/Partner
+           in Average Week
+  924040  Is Respondent's Spouse/Partner Looking for Work at the
+           Present Time
+  924041  How Worried is Respondent's Spouse/Partner About Not
+           Being Able to find a Job
+
+
+             SPOUSE/PARTNER'S OCCUPATIONAL DATA - STACKED
+
+  924042  Census Occupation Code - Respondent's Spouse/Partner
+  924043  Collapsed Census Occupation Code - Respondent's
+           Spouse/Partner
+  924044  Census Industry Code - Respondent's Spouse/Partner
+  924045  Respondent's Spouse/Partner Works/Worked for Someone
+           Else or Is/Was Unemployed
+  924046  Was Respondent's Spouse/Partner Employed by
+           Federal/State/Local Government
+  924047  Number of Hours Worked by Respondent's Spouse/Partner
+           in Average Week
+  924048  How Worried is Respondent's Spouse/Partner About
+           Losing His/Her Job
+  924049  Has Respondent's Spouse/Partner Had a Job in the Past
+           6 Months
+  924050  Is Respondent's Spouse/Partner Looking For Work at the
+           Present Time
+  924051  Has Respondent's Spouse/Partner Ever Done Any Work For
+           Pay
+
+
+                           UNION MEMBERSHIP
+
+  924101  Does Anyone in Respondent's Household Belong to a
+           Labor Union
+  924102  Who in Respondent's Household Belongs to a Labor Union
+
+
+                           HOUSEHOLD INCOME
+
+  924103  INTERVIEWER CHECKPOINT: Respondent Only HH Member Age
+           14 or Older
+
+  924104  Respondent's Family Income Before Taxes
+  924105  Respondent's Income Before Taxes
+
+
+                         SHORT FORM VARIABLES
+
+  924106  INTERVIEWER CHECKPOINT: Respondent Only HH
+           Member Age 14 or Older
+
+  924107  Respondent's Family Income Before Taxes
+  924108  Family Income Category
+  924109  Was Respondent's Income Before Taxes Above/Below
+           $24,999
+  924110  Respondent's Income
+
+
+                          R'S CLASS IDENTITY
+
+  924111  Does Respondent Think of Self as Belonging to a Social
+           Class
+  924112  Does Respondent Think of Self as Middle Class or
+           Working Class
+  924113  If Middle Class: Is Respondent Average/Upper Middle
+           Class
+  924114  Summary: Respondent's Social Class
+  924115  Does Respondent Feel Closer to Middle/Working Class
+
+
+                      R'S ETHNIC GROUP IDENTITY
+
+  924116  Respondent's Main Ethnic/Nationality Group (Other Than
+           American) - 1st Mention
+  924117  Respondent's Main Ethnic/Nationality Group (Other Than
+           American) - 2nd Mention
+
+  924118  INTERVIEWER CHECKPOINT:  Number of Groups Mentioned
+
+  924119  Ethnic/National Group R Identifies Most Closely
+  924120  Both Parents Born in This Country
+
+  924121  INTERVIEWER CHECKPOINT: Hispanic Group Mentioned/Not
+           Mentioned
+
+  924122  Is R of Spanish/Hispanic Origin/Descent
+  924123  Category Best Describing Hispanic Origin
+
+
+                            R'S BACKGROUND
+
+  924124  Birthplace
+  924125  Where R Grew Up
+  924126  Occupation of Father - Collapsed Occupation Code
+  924127  Did Mother Have a Job
+  924128  Occupation of Mother - Collapsed Occupation Code
+  924129  Type of Community R Grew Up In
+  924130  How Long R Has Lived in Present
+           City/Town/Township/County
+  924131  Where Lived Previously - City
+  924132  Where Lived Previously - State/Country
+  924133  Distance to Previous Residence
+
+
+                 RESIDENCE AND HOUSEHOLD COMPOSITION
+
+  924134  How Long R Has Lived at Current Residence
+  924135  Does R/Family Own/Rent Home
+  924136  Does R Have Any Children
+  924137  Number of Children Under Age 6
+  924138  Number of Children Under Age 6 Living With R
+  924139  Number of Children Between 6-18 Years Old
+  924140  Number of Children Between Age 6-18 Living With R
+  924141  Responsible for Raising Any Other Children
+  924142  How Many Additional Children Live With R
+  924143  Ending Time of Interview
+
+
+                 CONDITIONS OF PRE-ELECTION INTERVIEW
+
+  924201  Sex
+  924202  Race
+  924203  Other Persons Present at Interview
+  924204  Cooperation
+  924205  Level of Information About Politics/Public Affairs
+  924206  Intelligence
+  924207  Level of Suspicion About the Study Before Interview
+  924208  Interest in the Interview
+  924209  Sincerity of Answers
+  924210  Did R Report Income Correctly
+  924211  Estimate of Family Income by Interviewer
+  924212  Interview in English/Translated into Another Language
+  924213  What Language Was Interview Translated Into
+  924214  Reaction to Interview - 1st Mention
+  924215  Reaction to Interview - 2nd Mention
+  924216  Reaction to Interview - 3rd Mention
+  924217  Reaction to Interview - 4th Mention
+  924218  Reaction to Interview - 5th Mention
+  924219  Reaction to Interview - 6th Mention
+  924220  Reaction to Interview - 7th Mention
+  924221  Reaction to Interview - 8th Mention
+  924222  Reaction to Interview - 9th Mention
+  924223  Reaction to Interview - 10th Mention
+
+
+             PROBE INDICATORS FOR PRE-ELECTION INTERVIEW
+
+  924224  George Bush
+  924225  Bill Clinton
+  924226  Ross Perot
+  924227  Dan Quayle
+  924228  Albert Gore
+  924229  Anita Hill
+  924230  Tom Foley
+  924231  Barbara Bush
+  924232  Hillary Clinton
+  924233  Clarence Thomas
+  924234  Pat Buchanan
+  924235  Jesse Jackson
+  924236  The Democratic Party
+  924237  The Republican Party
+
+
+                         POST-ELECTION SURVEY
+
+
+                    1992 POST-ELECTION INFORMATION
+
+  925001  Case ID Number
+  925002  Sample-Form Indicator
+  925003  Mode of Interview - Telephone/Personal
+  925004  Beginning Time of Interview
+  925005  Date of Interview - Month
+  925006  Date of Interview - Day
+  925007  Interviewer's Interview Number
+  925008  Interview Length in Minutes
+  925009  Length of Pre-Edit
+  925010  Length of Post-Edit in Minutes
+  925011  Total Number of Calls
+  925012  Result Code
+
+
+                         SAMPLING INFORMATION
+
+  925013  Short/Panel-Form Only: Reasons for Using Short-Form
+  925014  Is R Living at Sample Address
+  925015  Recontact: Was Name Obtained
+  925016  Recontact: Interviewer Checkpoint: Address Obtained
+  925017  Recontact: If Address Different From Sample Label
+  925018  Recontact: Was Phone Number Obtained
+  925019  Recontact: Is Phone Listed in Current Directory
+  925020  Recontact: Is Phone Listed in Name
+  925021  Recontact: Does R Have Another Residence
+  925022  Recontact: Name/Phone of Contact Person for R
+  925023  Refusal Conversion Indicator
+  925024  Persuasion Letter Requested
+  925025  R Payment Offered - Amount
+  925026  R Payment Paid - Amount
+  925027  Contact Description: Did R Refuse Initially
+  925028  Contact Description: Did R Break Any Appointments
+
+                     R'S RESISTANCE TO INTERVIEW
+
+  925029  Waste of Time
+  925030  Very Ill
+  925031  Too Busy
+  925032  Stressful Family Situation
+  925033  Confidentiality
+  925034  Invasion of Privacy
+  925035  Other Reason
+
+                       INTERVIEWER INFORMATION
+
+  925036  Interviewer's ID Number
+  925037  Supervisor's ID Number
+  925038  Interviewer's Race
+  925039  Interviewer's Ethnicity
+  925040  Interviewer's Age Bracketed
+  925041  Interviewer's Yrs of Experience - Up to Sept 1, 1992
+  925042  Interviewer's Gender
+  925043  Interviewer's Education
+
+
+                         GEOGRAPHIC VARIABLES
+
+  925101  ICPSR State/Congressional District - R Voting Outside
+           Sample Address
+  925102  Interest in Political Campaigns
+  925103  Did R Watch Programs About Campaign on TV
+  925104  Number of Campaign Programs R Watched on TV
+  925105  Does R Ever Discuss Politics With Family/Friends
+  925106  How Often R Discusses Politics With Family/Friends
+  925107  Number of Days in Past Week That R Talked Politics
+           With Family/Friends
+  925108  How Much R Cared About Outcome of U.S. House Elections
+  925109  Does R Remember Names of Candidates for U.S. House of
+           Representatives
+
+
+                            HOUSE CAMPAIGN
+  925110  Number of House Candidate - 1st Mention
+  925111  Party of House Candidate - 1st Mention
+  925112  Collapsed Code: House Candidate - 1st Mention
+  925113  Knowledge of Names/Parties: House Candidate - 1st
+           Mention
+
+  925114  Number of House Candidate - 2nd Mention
+  925115  Party of House Candidate - 2nd Mention
+  925116  Collapsed Code: House Candidate - 2nd Mention
+  925117  Knowledge of Names/Parties: House Candidate - 2nd
+           Mention
+
+  925118  Number of House Candidate - 3rd Mention
+  925119  Party of House Candidate - 3rd Mention
+  925120  Collapsed Code: House Candidate - 3rd Mention
+  925121  Knowledge of Names/Parties: House Candidate - 3rd
+           Mention
+
+
+                           SENATE CAMPAIGN
+
+  925201  INTERVIEWER CHECKPOINT: U.S. Senate Race in State
+
+  925202  Does R Remember Names of Candidates for U.S. Senate
+
+  925203  Number of Senate Candidate - 1st Mention
+  925204  Party of Senate Candidate - 1st Mention
+  925205  Collapsed Code: Senate Candidate - 1st Mention
+  925206  Knowledge of Names/Parties: Senate Candidate - 1st
+           Mention
+
+  925207  Number of Senate Candidate - 2nd Mention
+  925208  Party of Senate Candidate - 2nd Mention
+  925209  Collapsed Code: Senate Candidate - 2nd Mention
+  925210  Knowledge of Names/Parties: Senate Candidate - 2nd
+           Mention
+  925211  Number of Senate Candidate - 3rd Mention
+  925212  Party of Senate Candidate - 3rd Mention
+  925213  Collapsed Code: Senate Candidate - 3rd Mention
+  925214  Knowledge of Names/Parties: Senate Candidate - 3rd
+           Mention
+
+                        CALIFORNIA SENATE RACE
+
+  925215  Does R Remember Names of Candidates in California
+           Senate Race
+
+  925216  Number of Senate Candidate: California - 1st Mention
+  925217  Party of Senate Candidate: California - 1st Mention
+  925218  Collapsed Code: Senate Candidate - 1st Mention,
+           California
+  925219  Knowledge of Names/Parties: Senate Candidate, CA - 1st
+           Mention
+  925220  Number of Senate Candidate: California - 2nd Mention
+  925221  Party of Senate Candidate: California - 2nd Mention
+  925222  Collapsed Code: Senate Candidate - 2nd Mention,
+           California
+  925223  Knowledge of Names/Parties: Senate Candidate, CA - 2nd
+           Mention
+
+  925224  Number of Senate Candidate: California - 3rd Mention
+  925225  Party of Senate Candidate: California - 3rd Mention
+  925226  Collapsed Code: Senate Candidate - 3rd Mention,
+           California
+  925227  Knowledge of Names/Parties: Senate Candidate, CA - 3rd
+           Mention
+
+  925228  Number of Senate Candidate: California - 4th Mention
+  925229  Party of Senate Candidate: California - 4th Mention
+  925230  Collapsed Code: Senate Candidate - 4th Mention,
+           California
+  925231  Knowledge of Names/Parties: Senate Candidate, CA - 4th
+           Mention
+
+          FEELING THERMOMETERS: POLITICAL FIGURES AND GROUPS
+
+  925301  Feeling Thermometer - George Bush
+  925302  Feeling Thermometer - Bill Clinton
+  925303  Feeling Thermometer - Ross Perot
+  925304  Feeling Thermometer - Democratic U.S. Senate Candidate
+  925305  Feeling Thermometer - Republican U.S. Senate Candidate
+  925306  Feeling Thermometer - Democratic U.S. Senate
+           Candidate, California
+  925307  Feeling Thermometer - Republican U.S. Senate
+           Candidate, California
+  925308  Feeling Thermometer - Dem/Rep Senator: Term not up in
+           state with race
+  925309  Feeling Thermometer - Senator #1
+  925310  Feeling Thermometer - Senator #2
+  925311  Feeling Thermometer - Democratic House Candidate
+  925312  Feeling Thermometer - Republican House Candidate
+  925313  Feeling Thermometer - Retiring Democratic
+           Representative
+  925314  Feeling Thermometer - Third Party/Independent House
+           Candidate
+  925315  Feeling Thermometer - James Stockdale
+
+
+                     FEELING THERMOMETERS: GROUPS
+
+  925316  Feeling Thermometer - Labor Unions
+  925317  Feeling Thermometer - Feminists
+  925318  Feeling Thermometer - People On Welfare
+  925319  Feeling Thermometer - Conservatives
+  925320  Feeling Thermometer - Poor People
+  925321  Feeling Thermometer - Catholics
+  925322  Feeling Thermometer - Big Business
+  925323  Feeling Thermometer - Blacks
+  925324  Feeling Thermometer - The Women's Movement
+  925325  Feeling Thermometer - The Federal Government in
+           Washington
+  925326  Feeling Thermometer - Liberals
+  925327  Feeling Thermometer - Hispanic-Americans
+  925328  Feeling Thermometer - The Military
+  925329  Feeling Thermometer - Environmentalists
+  925330  Feeling Thermometer - Lawyers
+  925331  Feeling Thermometer - Illegal Immigrants
+  925332  Feeling Thermometer - Southerners
+  925333  Feeling Thermometer - Whites
+  925334  Feeling Thermometer - Jews
+  925335  Feeling Thermometer - Gay Men and Lesbians
+  925336  Feeling Thermometer - Immigrants
+  925337  Feeling Thermometer - Congress
+  925338  Feeling Thermometer - Christian Fundamentalists
+  925339  Feeling Thermometer - Asian-Americans
+  925340  Feeling Thermometer - The Police
+
+            R'S LIKES/DISLIKES OF CONGRESSIONAL CANDIDATES
+
+  925401  Whether R Liked Anything About Democratic Candidate
+           for U.S. House
+  925402  What R Likes About Democratic Candidate for U.S.
+           House - 1st Mention
+  925403  What R Likes About Democratic Candidate for U.S.
+           House - 2nd Mention
+  925404  What R Likes About Democratic Candidate for U.S.
+           House - 3rd Mention
+  925405  What R Likes About Democratic Candidate for U.S.
+           House - 4th Mention
+  925406  What R Likes About Democratic Candidate for U.S.
+           House - 5th Mention
+
+  925407  Whether R Disliked Anything About Democratic Candidate
+           for U.S. House
+  925408  What R Dislikes About Democratic Candidate for U.S.
+           House - 1st Mention
+  925409  What R Dislikes About Democratic Candidate for U.S.
+           House - 2nd Mention
+  925410  What R Dislikes About Democratic Candidate for U.S.
+           House - 3rd Mention
+  925411  What R Dislikes About Democratic Candidate for U.S.
+           House - 4th Mention
+  925412  What R Dislikes About Democratic Candidate for U.S.
+           House - 5th Mention
+
+  925413  Whether R Liked Anything About Republican Candidate
+           for U.S. House
+  925414  What R Likes About Republican Candidate for U.S.
+           House - 1st Mention
+  925415  What R Likes About Republican Candidate for U.S.
+           House - 2nd Mention
+  925416  What R Likes About Republican Candidate for U.S.
+           House - 3rd Mention
+  925417  What R Likes About Republican Candidate for U.S.
+           House - 4th Mention
+  925418  What R Likes About Republican Candidate for U.S.
+           House - 5th Mention
+
+  925419  Whether R Disliked Republican Candidate for U.S. House
+  925420  What R Dislikes About Republican Candidate for U.S.
+           House - 1st Mention
+  925421  What R Dislikes About Republican Candidate for U.S.
+           House - 2nd Mention
+  925422  What R Dislikes About Republican Candidate for U.S.
+           House - 3rd Mention
+  925423  What R Dislikes About Republican Candidate for U.S.
+           House - 4th Mention
+  925424  What R Dislikes About Republican Candidate for U.S.
+           House - 5th Mention
+
+                  IMPORTANT ISSUES - HOUSE CAMPAIGN
+
+  925425  Most Important Issue - 1st Mention
+  925426  Most Important Issue - 2nd Mention
+  925427  Most Important Issue - 3rd Mention
+
+  925428  INTERVIEWER CHECKPOINT: Whether R Mentioned Issues
+
+  925429  Most Important Issue to R in U.S. House Campaign
+
+  925430  INTERVIEWER CHECKPOINT: Type of Race/Number of
+           Candidates
+
+  925431  Did R Prefer One of the Candidates Because of This
+           Issue
+  925432  Candidate R Preferred for U.S. House
+  925433  Party of U.S. House Candidate Named in V 5432
+
+  925434  INTERVIEWER CHECKPOINT: Type of Race/Number of
+           Candidates
+
+  925435  Whether Either U.S. House Candidate Was An Incumbent
+  925436  Candidate Number Code - U.S. House Incumbent
+  925437  Party of U.S. House Incumbent
+  925438  If Only 1 House Candidate: Was Candidate Incumbent
+  925439  If Only 1 House Candidate: Candidate Number Code
+  925440  Only 1 House Candidate: Party of Candidate
+
+  925501  INTERVIEWER CHECKPOINT: Democratic Candidate
+
+
+             PERSONAL CONTACT WITH DEMOCRATIC CANDIDATES
+
+  925502  R Had Contact With Democratic House Candidate
+  925503  R Met Democratic House Candidate Personally
+  925504  R Attended Meeting Where Democratic House Candidate
+           Spoke
+  925505  R Talked With U.S. House Candidate's Staff/Office
+  925506  R Received Mail from Democratic House Candidate
+  925507  R Read About Democratic House Candidate in
+           Newspaper/Magazine
+  925508  R Heard Democratic House Candidate on Radio
+  925509  R Saw Democratic House Candidate on TV
+  925510  R Had Contact With Democratic House Candidate in Other
+           Ways
+  925511  Does R Know Anyone Who Had Contact With Democratic
+           House Candidate
+
+
+             PERSONAL CONTACT WITH REPUBLICAN CANDIDATES
+
+  925512  INTERVIEWER CHECKPOINT: Republican Candidate
+  925513  R Had Contact With Republican House Candidate
+  925514  R Met Republican House Candidate Personally
+  925515  R Attended Meeting Where Republican House Candidate
+           Spoke
+  925516  R Talked to Republican House Candidate's Staff/Office
+  925517  R Received Mail From Republican House Candidate
+  925518  R Read About Republican House Candidate in
+           Newspaper/Magazine
+  925519  R Heard Republican House Candidate on Radio
+  925520  R Saw Republican House Candidate on TV
+  925521  R Had Contact With Republican House Candidate in Other
+           Ways
+  925522  Does R Know Anyone Who Has Had Contact With Republican
+           House Candidate
+
+
+                        VOTING SECTION: VOTERS
+
+  925601  Did R Vote in Elections in November
+  925602  Was R Registered to Vote in November Election
+  925603  Is R Registered to Vote at Current Address
+  925604  County/State of Voter Registration
+
+  925605  INTERVIEWER CHECKPOINT: R Voted/Did Not Vote
+
+  925606  R Voted In Person/By Absentee Ballot
+  925607  Where Did R Go to Vote in the November Election
+  925608  Did R Vote for a Candidate for President
+  925609  Who Did R Vote for in the Presidential Election
+  925610  Strength of Preference for Presidential Candidate
+  925611  How Long Before Election Did R Decide How to Vote
+
+
+                          PRESIDENTIAL VOTE
+
+  925612  INTERVIEWER CHECKPOINT: Presidential Vote
+
+     Voted for George Bush:
+
+  925613  Did R Ever Think of Voting for Clinton/Perot
+  925614  Which Candidate (Clinton/Perot) Did R Think of Voting
+           for
+
+     Voted for Bill Clinton:
+
+  925615  Did R Ever Think of Voting for Bush/Perot
+  925616  Which Candidate (Bush/Perot) Did R Think of Voting for
+
+     Voted for Ross Perot:
+
+  925617  Did R Ever Think of Voting for Clinton/Bush
+  925618  Which Candidate (Clinton/Bush) Did R Think of Voting
+           for
+  925619  Consideration of Other Candidates - Summary
+
+  925620  INTERVIEWER CHECKPOINT: VOTING RESPONDENT; Registered
+           In/Outside State of IW
+
+  925621  Did R Vote For U.S. House Candidate
+  925622  Who R Voted For in U.S. House Election
+  925623  Candidate Named - U.S. House of Representatives
+  925624  Strength of Preference for U.S. House Candidate
+
+
+                          STATE SENATE RACES
+  925625  INTERVIEWER CHECKPOINT: Senate Race in State
+
+  925626  Did R Vote for U.S. Senate Candidate
+  925627  Who R Voted For in U.S. Senate Election
+  925628  Candidate Named - U.S. Senate
+  925629  U.S. Senate Candidate R Voted For
+  925630  Candidate Named - U.S. Senate, California
+  925631  2nd U.S. Senate Candidate R Voted For - California
+  925632  2nd Candidate Named - U.S. Senate, California
+  925633  Did R Prefer One Candidate for President
+  925634  Presidential Candidate R Preferred
+  925635  Strength of Preference for Presidential Candidate
+
+  925636  Did R Prefer One Candidate for U.S. House
+  925637  U.S. House Candidate Preferred by R
+  925638  Candidate Named - U.S. House
+
+
+                         SPOUSE/PARTNER VOTED
+
+  925639  INTERVIEWER CHECKPOINT: Martial Status
+
+  925640  Did Spouse/Partner Vote in November Election
+
+
+                  CONTACT WITH U.S. HOUSE INCUMBENT
+
+  925701  Did R/Family Contact U.S. House Incumbent/Office
+  925702  Reason for Contact With House Incumbent - Express
+           Opinion
+  925703  Reason for Contact With House Incumbent - Seek
+           Information
+  925704  Reason for Contact With House Incumbent - Seek Help On
+           a Problem
+  925705  Did R Get Response From House Incumbent/Office
+  925706  Level of Satisfaction With Response From House
+           Incumbent
+  925707  Does R Know Anyone Else Who Contacted House
+           Incumbent/Office
+  925708  Did Those Who Contacted House Incumbent Get a Response
+  925709  Level of Satisfaction of Those Who Contacted House
+           Incumbent
+  925710  Approval Rating of House Incumbent
+  925711  Strength of Approval Rating of House Incumbent
+  925712  Helpfulness of House With Another Problem
+  925713  Anything Special Done by House Incumbent for District
+  925714  Is House Incumbent Keeping in Touch with R's District
+  925715  Has R Heard/Read About U.S. Representatives Writing
+           Bad Checks
+  925716  Opinion on Bad Checks Written by U.S. Representatives
+
+
+                     PROBLEMS WITH THE HOUSE BANK
+
+  925717  INTERVIEWER CHECKPOINT: Candidate List Includes House
+           Incumbent
+
+  925718  Did House Incumbent Write Any Bad Checks
+  925719  Did House Incumbent Write A Lot/A Few Bad Checks
+  925720  Does R Think That Reps Who Wrote Bad Checks Broke Any
+           Laws
+
+                     IMPORTANT NATIONAL PROBLEMS
+
+  925721  How Often R Follows Government/Public Affairs
+  925722  Most Important Problem - 1st Mention
+  925723  Most Important Problem - 2nd Mention
+  925724  Most Important Problem - 3rd Mention
+
+  925725  INTERVIEWER CHECKPOINT: Important Problem
+
+  925726  The Single Most Important Problem the Country Faces
+  925727  How Good A Job Government is Doing With This Problem
+  925728  Political Party Most Likely to Get Gov't to Do Better
+           Job on Problem
+
+
+               R'S OPINION ON VARIOUS POLITICAL ISSUES
+                    (See also Variables 5922-5938)
+
+  925729  Opinion on Less/More Government
+  925730  Government/Free Market Should Handle Economic Problems
+  925731  Reason Government Has Become Bigger Over the Years
+  925732  Better When One Party Controls Both Presidency and
+           Congress
+
+
+              PARTY CONTACTS WITH R DURING THE CAMPAIGN
+
+  925801  Political Party Contact R to Talk About Campaign
+  925802  Which Party Contacted R to Talk About Campaign
+  925803  Anyone Else Contact R About Supporting Specific
+           Candidates
+  925804  Which Candidate Was R Asked to Support - 1st Mention
+  925805  Which Candidate Was R Asked to Support - 2nd Mention
+  925806  Which Candidate Was R Asked to Support - 3rd Mention
+
+
+                       R'S POLITICAL ACTIVITIES
+
+  925807  Did R Try to Influence Someone Else's Vote
+  925808  Was R Contacted in Order to Influence His/Her Vote
+  925809  Did R Wear Button/Use Car Sticker/Place Sign in Window
+           During Campaign
+  925810  Did R Attend Political Meetings/Rallies to Support a
+           Candidate
+  925811  Was R Invited to Political Rallies/Meetings to Support
+           a Candidate
+  925812  Did R Do Any Other Work for One of the
+           Parties/Candidates
+  925813  Was R Asked to do Work for Candidate/Party
+
+
+                     R'S POLITICAL CONTRIBUTIONS
+
+  925814  Did R Use $ 1 Political Contribution Option on Federal
+           Tax Return
+  925815  Did R Give Money to a Candidate Running for Public
+           Office
+  925816  Party of Candidate to Whom R Made Contribution
+  925817  Did R Give money to a Political Party During Election
+           Year
+  925818  Political Party to Which R Gave Money
+  925819  Did R Give Money to Other Group That Supported/Opposed
+           Candidates
+  925820  Did Anyone Talk to R About Registering to Vote/Voting
+  925821  Did R Receive Requests Through Mail for Political
+           Contributions
+  925822  How Many Mail Requests for Political Contributions Did
+           R Receive
+  925823  Did R Contribute Because of Mail Received
+  925824  Did R Receive Telephone Requests for Political
+           Contributions
+  925825  How Many Telephone Requests for Political
+           Contributions Did R Receive
+  925826  Did R Contribute Because of Telephone Calls
+  925827  Was R Contacted in Person for Political Contributions
+  925828  Did R Receive Quite a Few Personal Contacts for
+           Contributions
+  925829  Did R Contribute Because of Personal Contacts
+
+
+                          PARTY DIFFERENCES
+
+  925901  Does R See Important Differences Between Parties
+  925902  Important Differences: Party Reference - 1st Mention
+  925903  Party Difference Content Code - 1st Mention
+  925904  Important Differences: Party Reference - 2nd Mention
+  925905  Party Difference Content Code - 2nd Mention
+  925906  Important Differences: Party Reference - 3rd Mention
+  925907  Party Difference Content Code - 3rd Mention
+  925908  Important Differences: Party Reference - 4th Mention
+  925909  Party Difference Content Code - 4th Mention
+  925910  Important Differences: Party Reference - 5th Mention
+  925911  Party Difference Content Code - 5th Mention
+  925912  Important Differences: Party Reference - 6th Mention
+  925913  Party Difference Content Code - 6th Mention
+  925914  Whether One Party is More Conservative at the National
+           Level
+  925915  Party R Thinks is More Conservative
+
+
+                         POLITICAL KNOWLEDGE
+
+  925916  Job/Political Office Held by Dan Quayle
+  925917  Job/Political Office Held by William Rehnquist
+  925918  Job/Political Office Held by Boris Yeltsin
+  925919  Job/Political Office Held by Tom Foley
+  925920  Who Has Final Responsibility to Decide
+           Constitutionality of Law
+  925921  Who Nominates Judges to the Federal Courts
+
+
+             OPINIONS ON VARIOUS SOCIAL/POLITICAL ISSUES
+                    (See also Variables 5729-5732)
+
+  925922  Is R Willing to Pay More Tax to Increase Gov't.
+           Spending
+
+                             HOMOSEXUALS
+
+  925923  Does R Favor/Oppose Laws Against Job Discrimination of
+           Homosexuals
+  925924  Strength of Favor/Opposition to Homosexual Job
+           Discrimination Laws
+  925925  Should Homosexuals Be Allowed to Serve in U.S.  Armed
+           Forces
+  925926  Strength of Opinion on Homosexuals Serving in U.S.
+           Armed Forces
+  925927  Should Homosexual Couples Be Legally Permitted to
+           Adopt Children
+  925928  Strength of Opinion on Homosexual Couples Adopting
+           Children
+
+                             CIVIL RIGHTS
+
+  925929  Are Civil Rights Leaders Pushing Too Fast/Going Too
+           Slowly/About Right
+  925930  Amount of Change in Position of Black People in Past
+           Few Years
+  925931  Does R Favor One Side in Debate Re: Gov't.
+           Integration of Schools
+  925932  Opinion on Gov't.  Integration of Schools
+
+                            DEATH PENALTY
+
+  925933  Does R Favor/Oppose Death Penalty For Persons
+           Convicted of Murder
+  925934  Strength of Favor/Opposition to Death Penalty for
+           Murder
+
+                          AFFIRMATIVE ACTION
+
+  925935  Is R For/Against Preferential Hiring/Promotion of
+           Blacks
+  925936  Strength of Opinion on Preferential Hiring/Promotion
+           of Blacks
+  925937  Does R Take a Side Re: Gov't.  Ensuring Fair Treatment
+  925938  Should Gov't. See to it That Blacks Get Fair Treatment
+
+  925939  INTERVIEWER CHECKPOINT: Panel/Cross-Section R
+
+                 IMPORTANCE OF FOREIGN POLICY GOALS:
+
+  925940  Securing Adequate Energy Supplies
+  925941  Preventing Spread of Nuclear Weapons
+  925942  Reducing Environmental Pollution
+  925943  Protecting Weaker Nations
+  925944  Bringing Democracy to Other Nations
+
+                            SCHOOL PRAYER
+
+  925945  Opinion on Issue of School Prayer
+  925946  Strength of Opinion on School Prayer
+
+                                QUOTAS
+
+  925947  Is R For/Against Quotas to Admit Black Students
+  925948  Strength of Opinion on Quotas
+
+                          VIEWS OF CONGRESS
+
+  925949  Approval Rating of U.S. Congress
+  925950  Strength of Approval/Disapproval of U.S. Congress
+  925951  Which Party Had Most Members in House Before Election
+  925952  Which Party Had Most Members in Senate Before Election
+
+
+                            WOMEN'S ISSUES
+  926001  Attention R Pays to Women's Issues in the News
+  926002  Does R Think of Self as a Feminist
+  926003  Is R a Strong Feminist
+  926004  Best Way for Women to Improve Their Position
+  926005  Sense of Pride in the Accomplishments of Women
+  926006  Angry About the Way Women are Treated in Society
+  926007  Power and Influence of Women Compared to Men
+  926008  Power and Influence Women Ought to Have Compared to
+           Men
+  926009  Women's Power/Influence Compared to Men
+  926010  Power/Influence of Men and Women in Most Families
+  926011  Men or Women Should Have More Power/Influence in Most
+           Families
+  926012  How Strongly R Feels About Men's /Women's
+           Power/Influence in Families
+
+
+                            NATIONAL GOALS
+
+  926013  Most Desirable Goal for a Nation
+  926014  Second Choice for Most Desirable National Goal
+  926015  Power of the Government in Washington
+  926016  Gov't. is Getting Too Powerful/Not Getting Too Strong
+  926017  Gov't. Should Become More Powerful/Stay the Way it is
+  926018  Party Most Likely to Favor a Powerful Government in
+           Washington
+
+
+                   DESIRABLE QUALITIES FOR CHILDREN
+
+  926019  Independence or Respect for Others
+  926020  Obedience or Self-Reliance
+  926021  Curiosity or Good Manners
+  926022  Being Considerate or Well Behaved
+
+  926023  Gov't. Funds to Support Public/Private/Parochial
+           Schools
+
+
+                         R AGREES/DISAGREES:
+
+  926024  Society Should Ensure Equal Opportunity to Succeed
+  926025  Gone Too Far in Pushing Equal Rights in U.S.
+  926026  U.S. Better Off if Worried Less About Equality
+  926027  Not Problem if Some Have More of a Chance in Life
+  926028  Fewer Problems in U.S. if People Treated Equally
+  926029  Big Problem in U.S. With Not Giving Equal Chances
+  926101  Should not Vote if You Don't Care About Outcome
+  926102  People Like R Have No Say About What Gov't. Does
+  926103  Public Officials Don't Care What R Thinks
+  926104  Politics/Government Too Complicated to Understand
+  926105  Understands Important Political Issues Facing U.S.
+  926106  Well-Qualified to Participate in Politics
+  926107  Could Do as Good a Job in Public Office as Others
+  926108  Better Informed About Politics/Gov't. Than Most
+
+
+              R'S DEFINITION OF LIBERAL AND CONSERVATIVE
+  926109  What "Liberal" Means to R - 1st Mention
+  926110  What "Liberal" Means to R - 2nd Mention
+  926111  What "Liberal" Means to R - 3rd Mention
+  926112  What "Conservative" Means to R - 1st Mention
+  926113  What "Conservative" Means to R - 2nd Mention
+  926114  What "Conservative" Means to R - 3rd Mention
+
+
+                         R AGREES/DISAGREES:
+
+  926115  Adjust Morals to Changing World
+  926116  Tolerate Different Moral Standards
+  926117  Fewer Problems in U.S. if Emphasis on Family Ties
+  926118  New Lifestyles Contribute to Breakdown of Society
+  926119  Sex With Someone Other Than Spouse Always Wrong
+
+  926120  Much of the Time Gov't. Can Be Trusted to Do What
+           is Right
+  926121  Does Government Waste Tax Money
+  926122  Gov't. Run by Big Interests or For Benefit of all
+           People
+  926123  Many of the People Running the Government are Crooked
+  926124  Do Elections Make Gov't. Pay Attention to What People
+           Think
+  926125  Amount of Attention Gov't. Pays to What People Think
+           When Deciding
+
+
+                         R AGREES/DISAGREES:
+
+  926126  Blacks Should Work Way Up Without Special Favors
+  926127  Blacks Have Gotten Less Than They Deserve
+  926128  If Blacks Tried Harder Could Be Well Off as Whites
+  926129  Difficult for Blacks to Work Out of Lower Class
+
+
+                              PATRIOTISM
+
+  926130  How Does R Feel When He/She Sees the American Flag
+           Flying
+  926131  How Strong is Love for Country
+
+
+                SOCIAL SECURITY AND MEDICARE BENEFITS
+
+  926132  Are Social Security Benefits Too Low/About Right/Too
+           High
+  926133  Are Social Security Benefits Much Too Low/High,
+           Somewhat Too Low/High
+  926134  Does R Favor/Oppose Taxes on Social Security Benefits
+  926135  Strength of Favor/Opposition Re: Taxing Social
+           Security Benefits
+  926136  Does R Favor/Oppose Expanding Medicare to Pay for
+           Nursing Home Care
+  926137  Does R Favor/Oppose Expanding Medicare Strongly/Not so
+           Strongly
+
+
+                  VOLUNTEERISM AND COMMUNITY SERVICE
+
+  926138  Was R Able to Devote Any Time to Volunteer Work in
+           Last 12 Months
+  926139  Would R Say Most People Can be Trusted or You Can't be
+           Too Careful
+  926140  Would R Say People Are Helpful or That They Look Out
+           For Themselves
+  926141  Does R Have Neighbors That He/She Knows and Talks to
+           Regularly
+  926142  How Many Neighbors Does R Talk to Regularly
+  926143  Would R be Happy to Serve/Rather Not Serve on a Jury
+  926144  Has R Worked on Some Community Problem in Last 12
+           Months
+  926145  Was R Able to Contribute Money to Church/Charity in
+           Last 12 Months
+
+
+                         ECONOMIC PROJECTIONS
+
+  926146  Will R Be Better/Worse Off/Same Financially 1 Year
+           From Now
+  926147  Will R Be Much/Somewhat Better/Worse Off Financially 1
+           Year From Now
+  926148  Does R Think National Economy Will Get
+           Better/Worse/Stay Same
+  926149  Will National Economy Be Much/Somewhat Better/Worse
+  926150  Will What R Pays in Taxes Over Next Year Go
+           Up/Down/Stay Same
+  926151  Will What R Pays in Taxes Go Up a Lot/a Little
+  926152  Does R Think There Will Be More/Less/Same Unemployment
+           in 12 Months
+
+
+                         GROUP IDENTIFICATION
+
+  926201  Group R Feels Close To - Poor People
+  926202  Group R Feels Close To - Asian Americans
+  926203  Group R Feels Close To - Liberals
+  926204  Group R Feels Close To - The Elderly
+  926205  Group R Feels Close To - Blacks
+  926206  Group R Feels Close To - Labor Unions
+  926207  Group R Feels Close To - Feminists
+  926208  Group R Feels Close To - Southerners
+  926209  Group R Feels Close To - Business People
+  926210  Group R Feels Close To - Young People
+  926211  Group R Feels Close To - Conservatives
+  926212  Group R Feels Close To - Hispanic-Americans
+  926213  Group R Feels Close To - Women
+  926214  Group R Feels Close To - Working-Class People
+  926215  Group R Feels Close To - Whites
+  926216  Group R Feels Close To - Middle-Class People
+
+  926217  INTERVIEWER CHECKPOINT: Mention of Group
+
+  926218  Single Group R Feels Closest to
+  926219  Organization/Activity Representing Interests of
+           Group(1)
+  926220  Organization/Activity Representing Interests of
+           Group(2)
+
+
+                          WORK ETHIC SCALES
+  926221  Work Ethic Scale - Whites
+  926222  Work Ethic Scale - Blacks
+  926223  Work Ethic Scale - Asian Americans
+  926224  Work Ethic Scale - Hispanic Americans
+
+                         INTELLIGENCE SCALES
+
+  926225  Intelligence Scale - Whites
+  926226  Intelligence Scale - Blacks
+  926227  Intelligence Scale - Asian Americans
+  926228  Intelligence Scale - Hispanic Americans
+
+                          DISPOSITION SCALES
+
+  926229  Disposition Scale - Whites
+  926230  Disposition Scale - Blacks
+  926231  Disposition Scale - Asian Americans
+  926232  Disposition Scale - Hispanic Americans
+
+                 ENGLISH AS OFFICIAL LANGUAGE OF U.S.
+
+  926233  Does R Favor/Oppose Law Making English Official
+           Language of U.S.
+  926234  How to Teach Children Who Don't Speak English When
+           Entering School
+  926235  Foreign Immigrants Permitted to U.S. Increase/Decrease
+
+                     EFFECT OF HISPANICS ON U.S.
+
+  926236  Improve Culture With New Ideas/Customs
+  926237  Higher Taxes Due to Demand for Services
+  926238  Jobs Taken Away From People Already Here
+  926239  Improve Culture With New Ideas/Customs
+  926240  Higher Taxes Due to Demand for Services
+  926241  Take Away Jobs From People Already Here
+
+  926242  Should Foreign Immigrants Be Immediately Eligible for
+           Gov't. Services
+                 PARTY IDENTIFICATION OF R'S PARENTS
+
+  926243  Was R's Father/Stepfather Democrat/Republican/
+           Independent/Other
+  926244  Was R's Mother/Stepmother Democrat/Republican/
+           Independent/Other
+
+
+                 POST INTERVIEW DESCRIPTION VARIABLES
+
+  926245  Ending Time of Interview
+  926246  Sex
+  926247  Race
+  926248  Other Persons Present at Interview
+  926249  Cooperation
+  926250  General Level of Information About Politics/Public
+           Affairs
+  926251  Was Interview Conducted Entirely in English
+  926252  Language in Which Interview Was Conducted Other Than
+           English
+
+
+                          PROBE INDICATORS:
+  926301  George Bush
+  926302  Bill Clinton
+  926303  Ross Perot
+  926304  NAME # 11, 13 or 15: Democratic Senate Candidate
+  926305  Name # 12, 14 or 16: Republican Senate Candidate
+  926306  Name # 11a: California Democratic Senate Candidate
+  926307  Name # 14a: California Republican Senate Candidate
+  926308  Name # 19, 29: Democratic/Republican Senator
+  926309  Name, Senator #1: Probe Indicator
+  926310  Name, Senator #2: Probe Indicator
+  926311  Name #31, 33 or 35: Democratic House Candidate
+  926312  Name #32, 34 or 36: Republican House Candidate
+  926313  Name #41, 42: Democratic/Republican Rep. Retiring
+  926314  Name #30: 3rd Party/Independent House Candidate
+  926315  James Stockdale
+     
+>> 1994 VARIABLE DESCRIPTION LIST: 1993 VARIABLES
+
+                         SAMPLING INFORMATION
+
+ 927000  93PIL: Incumbent candidate R's Representative in last
+                  Congress
+ 937001  93PIL: 1993 Pilot Study case ID
+ 937003  93PIL: Form assignment
+ 937004  93PIL: Had R moved since 1992
+ 937005  93PIL: ICPSR state code
+ 937006  93PIL: 1992 congressional district number
+ 937007  93PIL: Had R changed Congressional district since 1992
+ 937008  93PIL: Flag to skip Q.G3b(A) and Q.G9b(A)
+ 937009  93PIL: Month of R's birth
+ 937010  93PIL: Year of R's birth
+ 937011  93PIL: R's address
+
+                       INTERVIEW/ER INFORMATION
+
+ 937012  93PIL: Interviewer's ID number
+ 937013  93PIL: Year of interview
+ 937014  93PIL: Month of interview
+ 937015  93PIL: Day of interview
+ 937016  93PIL: Interview length in minutes
+ 937017  93PIL: Number of calls to obtain interview
+ 937018  93PIL: Result code
+ 937019  93PIL: Refusal conversion
+ 937020  93PIL: Contact flag
+ 937021  93PIL: Interviewer's gender
+ 937022  93PIL: Interviewer's education
+ 937023  93PIL: Interviewer's race
+ 937024  93PIL: Interviewer's ethnicity
+ 937025  93PIL: Interviewer's age
+ 937026  93PIL: Interviewer's years of experience
+
+                   ASSESSMENT OF CLINTON PRESIDENCY
+
+ 937101  93PIL: R approves/disapproves of Clinton's handling of
+                  presidency
+ 937102  93PIL: Strength of R's approval of Clinton's handling
+                  of presidency
+ 937103  93PIL: Strength of R's Disapproval of Clinton's
+                  handling of presidency
+ 937104  93PIL: Summary: Clinton presidential approval
+ 937105  93PIL: R approves/disapproves of Clinton's handling of
+                  economy
+ 937106  93PIL: Strength of R's approval of Clinton's handling
+                  of economy
+ 937107  93PIL: Strength of R's Disapproval of Clinton's
+                  handling of economy
+ 937108  93PIL: Summary: approval of Clinton's handling of
+                  economy
+ 937109  93PIL: R approves/disapproves of Clinton's handling of
+                  foreign relations
+ 937110  93PIL: Strength of R's approval of Clinton's handling
+                  of foreign relations
+ 937111  93PIL: Strength of R's Disapproval of Clinton's
+                  handling of foreign relations
+ 937112  93PIL: Summary: approval of Clinton's handling of
+                  foreign relations
+ 937113  93PIL: R approves/disapproves of Clinton's handling of
+                  homosexuals in military
+ 937114  93PIL: Strength of R's approval of Clinton's handling
+                  of homosexuals in military
+ 937115  93PIL: Strength of R's Disapproval of Clinton's
+                  handling of homosexuals in military
+ 937116  93PIL: Summary: approval of Clinton's handling of gays
+                  and lesbians in military
+ 937117  93PIL: R approves/disapproves of Clinton's handling of
+                  Bosnia and former Yugoslavia
+ 937118  93PIL: Strength of R's approval of Clinton's handling
+                  of Bosnia and former Yugoslavia
+ 937119  93PIL: Strength of R's Disapproval of Clinton's
+                  handling of Bosnia and former Yugoslavia
+ 937120  93PIL: Summary: approval of Clinton's handling of
+                  Bosnia
+
+                            HOUSE CAMPAIGN
+
+ 937121  93PIL: Does R remember names of candidates for U.S.
+                  House
+ 937122  93PIL: Name of candidate for U.S. House (1st mention)
+ 937123  93PIL: Party of candidate for U.S. House (1st mention)
+ 937124  93PIL: Collapsed code for U.S. House candidate (1st
+                  mention)
+ 937125  93PIL: R's knowledge of House candidate's name and
+                  party (1st mention)
+ 937126  93PIL: Name of candidate for U.S. House (2nd mention)
+ 937127  93PIL: Party of candidate for U.S. House (2nd mention)
+ 937128  93PIL: Collapsed code for U.S. House candidate (2nd
+                  mention)
+ 937129  93PIL: R's knowledge of House candidate's name and
+                  party (2nd mention)
+
+                         FEELING THERMOMETER
+
+ 937130  93PIL: Feeling thermometer - Bill Clinton
+ 937131  93PIL: Feeling thermometer - Ross Perot
+ 937132  93PIL: Feeling thermometer - Incumbent Senator 1
+ 937133  93PIL: Feeling thermometer - Incumbent Senator 2
+ 937134  93PIL: Feeling thermometer - Senate candidate who lost
+                  in 1992
+ 937135  93PIL: Feeling thermometer - Second candidate who lost
+                  in California
+ 937136  93PIL: Feeling thermometer - House incumbent
+ 937137  93PIL: Does R recall job/office of House incumbent
+ 937138  93PIL: Feeling thermometer - Hillary Clinton
+ 937139  93PIL: Feeling thermometer - Rush Limbaugh
+ 937140  93PIL: Feeling thermometer - Don Young
+ 937141  93PIL: Feeling thermometer - the Democratic Party
+ 937142  93PIL: Feeling thermometer - the Republican Party
+ 937143  93PIL: Feeling thermometer - people who call
+                  themselves independents
+ 937144  93PIL: Feeling thermometer - political parties in
+                  general
+ 937145  93PIL: Feeling thermometer - gay men and lesbians,
+                  i.e., homosexuals
+ 937146  93PIL: Feeling thermometer - the military
+ 937147  93PIL: Feeling thermometer - the wealthy
+ 937148  93PIL: Feeling thermometer - the middle class
+ 937149  93PIL: Feeling thermometer - United We Stand America
+ 937150  93PIL: Does R know who founded United We Stand America
+ 937151  93PIL: Was special DK probe used with Q.B2a (Bill
+                  Clinton thermometer)
+ 937152  93PIL: Was special DK probe used with Q.B2b (Ross
+                  Perot thermometer)
+ 937153  93PIL: Was special DK probe used with Q.B2c (Incumbent
+                  Senator 1 thermometer)
+ 937154  93PIL: Was special DK probe used with Q.B2d (Incumbent
+                  Senator 2 thermometer)
+ 937155  93PIL: Was special DK probe used with Q.B2e (Senate
+                  candidate who lost in 1992 thermometer)
+ 937156  93PIL: Was special DK probe used with Q.B2f (2nd
+                  candidate who lost in California thermometer)
+ 937157  93PIL: Was special DK probe used with Q.B2g (House
+                  incumbent thermometer)
+ 937158  93PIL: Was special DK probe used with Q.B2h (Hillary
+                  Clinton thermometer)
+ 937159  93PIL: Was special DK probe used with Q.B2i (Rush
+                  Limbaugh thermometer)
+ 937160  93PIL: Was special DK probe used with Q.B2j (Don Young
+                  thermometer)
+ 937161  93PIL: R's vote choice for President at time of
+                  interview
+
+                LIKES/DISLIKES RE: U.S. REPRESENTATIVE
+
+ 937162  93PIL: Is there anything R likes about U.S.
+                  Representative
+ 937163  93PIL: What R likes about U.S. Representative - 1st
+                  mention
+ 937164  93PIL: What R likes about U.S. Representative - 2nd
+                  mention
+ 937165  93PIL: What R likes about U.S. Representative - 3rd
+                  mention
+ 937166  93PIL: What R likes about U.S. Representative - 4th
+                  mention
+ 937167  93PIL: What R likes about U.S. Representative - 5th
+                  mention
+ 937168  93PIL: Is there anything R dislikes about U.S.
+                  Representative
+ 937169  93PIL: What R dislikes about U.S. Representative - 1st
+                  mention
+ 937170  93PIL: What R dislikes about U.S. Representative - 2nd
+                  mention
+ 937171  93PIL: What R dislikes about U.S. Representative - 3rd
+                  mention
+ 937172  93PIL: What R dislikes about U.S. Representative - 4th
+                  mention
+ 937173  93PIL: What R dislikes about U.S. Representative - 5th
+                  mention
+
+                   CONTACT WITH U.S. REPRESENTATIVE
+
+ 937174  93PIL: Did R meet Representative personally
+ 937175  93PIL: Did R attend meeting/gathering where
+                  Representative spoke
+ 937176  93PIL: Did R talk with Representative's staff/office
+ 937177  93PIL: Did R receive mail from Representatve
+ 937178  93PIL: Did R read about Representative in
+                  newspaper/magazine
+ 937179  93PIL: Did R hear about Representative on radio
+ 937180  93PIL: Did R see Representative on TV
+ 937181  93PIL: Did R have any other contact with
+                  Representative
+ 937182  93PIL: Type of contact R had with Representative
+ 937183  93PIL: Does R know anyone who has had contact with
+                  Representative
+
+                           VOTING BEHAVIOR
+
+ 937184  93PIL: Did R vote in the election this last November
+                  (Forms 1,3)
+ 937185  93PIL: Did R vote for Democratic or Republican
+                  candidate in election for House of
+                  Representatives (Forms 1,3)
+
+              PURPOSE OF R's CONTACT WITH REPRESENTATIVE
+
+ 937186  93PIL: Did R or R's family contact Representative
+ 937187  93PIL: Was contact made with Representative to express
+                  an opinion
+ 937188  93PIL: Was contact made with Representative to seek
+                  information
+ 937189  93PIL: Was contact made with Representative to seek
+                  help with problem
+ 937190  93PIL: Does R know anyone else who contacted
+                  Representative
+
+                APPROVAL/DISAPPROVAL OF REPRESENTATIVE
+
+ 937191  93PIL: R approves/disapproves of Representative's
+                  handling of job
+ 937192  93PIL: Strength of R's approval of Representative's
+                  handling of job
+ 937193  93PIL: Strength of R's disapproval of Representative's
+                  handling of job
+ 937194  93PIL: Summary: Representative approval
+
+                 REPRESENTATIVE'S SUPPORT FOR CLINTON
+
+ 937195  93PIL: How often has R's Representative supported
+                  Clinton's proposals
+ 937196  93PIL: Representative almost always supported
+                  Clinton's proposals
+ 937197  93PIL: Representative almost never supported Clinton's
+                  proposals
+ 937198  93PIL: Summary: Representative's support for Clinton
+ 937199  93PIL: R's guess re: frequency of Representative's
+                  support for Clinton
+ 937200  93PIL: Did R's Representative vote for Clinton's
+                  deficit reduction plan
+ 937201  93PIL: How R's Representative voted for Clinton's
+                  deficit reduction plan
+ 937202  93PIL: R's guess re: how representative voted for
+                  Clinton's deficit plan
+ 937203  93PIL: How well R's Representative stays in touch with
+                  district
+
+               POLITICAL RULER: LIBERAL TO CONSERVATIVE
+
+ 937204  93PIL: R's Self-placement on political ruler (Forms
+                  1,2)
+ 937205  93PIL: Probe of R's self-placement on political ruler
+                  (Forms 1,2)
+ 937206  93PIL: Revised self-placement if response to Q.D1a was
+                  incorrect (Forms 1,2)
+ 937207  93PIL: Does R consider him/herself a liberal or
+                  conservative (Forms 1,2)
+ 937208  93PIL: R's certainty re: liberal/conservative
+                  orientation (Forms 1,2)
+ 937209  93PIL: R's placement of Bill Clinton on political
+                  ruler (Forms 1,2)
+ 937210  93PIL: Does R consider Bill Clinton a liberal or
+                  conservative (Forms 1,2)
+ 937211  93PIL: R's certainty re: Clinton's position on
+                  political ruler (Forms 1,2)
+ 937212  93PIL: R's placement of Bill Clinton on political
+                  ruler (Forms 3,4)
+ 937213  93PIL: R's certainty re: Clinton's position on
+                  political ruler (Forms 3,4)
+ 937214  93PIL: R's placement of Bill Clinton on political
+                  ruler (Forms 3,4)
+ 937215  93PIL: Does R consider Bill Clinton a liberal or
+                  conservative (Forms 3,4)
+ 937216  93PIL: R's certainty re: Clinton's position on
+                  political ruler (Forms 3,4)
+ 937217  93PIL: R's Self-placement on political ruler (Forms
+                923,4)
+ 937218  93PIL: Does R consider him/herself a liberal or
+                  conservative (Forms 3,4)
+ 937219  93PIL: R's certainty re: liberal/conservative
+                  orientation (Forms 3,4)
+ 937220  93PIL: R's placement of Ross Perot on political ruler
+ 937221  93PIL: R's certainty re: Perot's position on political
+                  ruler
+ 937222  93PIL: R's placement of House incumbent on political
+                  ruler
+ 937223  93PIL: R's certainty re: House incumbent's position on
+                  political ruler
+ 937224  93PIL: R's placement of Republican Party on political
+                  ruler
+ 937225  93PIL: R's placement of Democratic Party on political
+                  ruler
+
+          QUALITIES DESCRIBING CANDIDATES: CLINTON AND PEROT
+
+ 937226  93PIL: How well does "honest" describe Bill Clinton
+ 937227  93PIL: How well does "provides strong leadership"
+                  describe Bill Clinton
+ 937228  93PIL: How well does "really cares about people like
+                  you" describe Clinton
+ 937229  93PIL: How well does "knowledgeable" describe Bill
+                  Clinton
+ 937230  93PIL: How well does "gets things done" describe Bill
+                  Clinton
+ 937231  93PIL: How well does "honest" describe Ross Perot
+ 937232  93PIL: How well does "provides strong leadership"
+                  describe Ross Perot
+ 937233  93PIL: How well does "really cares about people like
+                  you" describe Perot
+ 937234  93PIL: How well does "knowledgeable" describe Ross
+                  Perot
+ 937235  93PIL: How well does "gets things done" describe Ross
+                  Perot
+                 DIRECTION/POSITION OF UNITED STATES
+
+ 937236  93PIL: Are things in this country going in the right
+                  direction
+ 937237  93PIL: Has the United State's position in the world
+                  grown weaker
+
+                         FINANCIAL SITUATION
+
+ 937238  93PIL: Is R better/worse off financially
+ 937239  93PIL: How much better/worse off is R financially
+ 937240  93PIL: Is R much/somewhat worse off financially
+ 937241  93PIL: Summary: How R is getting along financially
+ 937242  93PIL: Will R be better/worse off financially one year
+                  from now
+ 937243  93PIL: Will R be much/somewhat better off financially
+                  one year from now
+ 937244  93PIL: Will R be much/somewhat worse off financially
+                  one year from now
+ 937245  93PIL: Summary: R's family better/worse off a year
+                  from now
+ 937246  93PIL: Will what R pays in taxes go up/down/stay same
+                  over next year
+ 937247  93PIL: Will what R pays in taxes go up a lot or a
+                  little
+ 937248  93PIL: Will what R pays in taxes go down a lot or a
+                  little
+ 937249  93PIL: Summary: R's payment of income tax next year
+
+                   NATIONAL ECONOMY/ECONOMIC POLICY
+
+ 937250  93PIL: Has nation's economy gotten better/worse/stayed
+                  same over past year
+ 937251  93PIL: Is nation's economy much/somewhat better
+ 937252  93PIL: Is nation's economy much/somewhat worse
+ 937253  93PIL: Summary: National economy in the past year
+ 937254  93PIL: Have federal policies made national economy
+                  better/worse/same
+ 937255  93PIL: Have federal policies made national economy
+                  much/somewhat better
+ 937256  93PIL: Have federal policies made national economy
+                  much/somewhat worse
+ 937257  93PIL: Is effect of federal policies on economy closer
+                  to better or worse
+ 937258  93PIL: Summary: Federal government economic policies
+ 937259  93PIL: Will national economy get better/worse/stay
+                  same over next year
+ 937260  93PIL: Will standard of living be better/worse/same 20
+                  years from now
+ 937261  93PIL: Will free trade with other countries bring
+                  prosperity or lose jobs
+ 937262  93PIL: Does R feel strongly/not strongly about effect
+                  of free trade
+ 937263  93PIL: Summary: Trade, strength
+ 937264  93PIL: Will level of prosperity be a lot
+                  higher/somewhat higher
+ 937265  93PIL: Will a lot of jobs/only some jobs be lost
+ 937266  93PIL: Summary: Trade amount jobs lost
+
+                     FEELINGS TOWARD BILL CLINTON
+
+ 937267  93PIL: Has Clinton ever made R feel angry
+ 937268  93PIL: Has Clinton ever made R feel hopeful
+ 937269  93PIL: Has Clinton ever made R feel afraid
+ 937270  93PIL: Has Clinton ever made R feel proud
+
+                      FEELINGS TOWARD ROSS PEROT
+
+ 937271  93PIL: Has Perot ever made R feel angry
+ 937272  93PIL: Has Perot ever made R feel hopeful
+ 937273  93PIL: Has Perot ever made R feel afraid
+ 937274  93PIL: Has Perot ever made R feel proud
+
+               PARTY CONTROL OF PRESIDENCY AND CONGRESS
+
+ 937275  93PIL: Is one party control of both presidency and
+                  Congress or control split between parties
+                  better
+
+        CLINTON'S REQUESTS FOR TAX INCREASES AND SPENDING CUTS
+
+ 937276  93PIL: Did Clinton ask for too large/right amount/too
+                  small of a tax increase
+ 937277  93PIL: Did Clinton ask for too much/right amount/not
+                  enough cuts in programs
+
+               APTITUDE/TENDENCIES OF POLITICAL PARTIES
+
+ 937278  93PIL: Which party would do a better job of handling
+                  the economy
+ 937279  93PIL: Which party would do a better job of handling
+                  foreign affairs
+ 937280  93PIL: Which party would do a better job making health
+                  care more affordable
+ 937281  93PIL: Which party is more likely to raise taxes
+
+                           VOTING BEHAVIOR
+
+ 937282  93PIL: Did R vote in the election this past November
+                     (Forms 2,4)
+ 937283  93PIL: Did R vote for Democratic or Republican
+                  candidate in election for House of
+                  Representatives (Forms 2,4)
+
+                                NAFTA
+
+ 937284  93PIL: Has R heard enough about NAFTA to have an
+                  opinion on it
+ 937285  93PIL: Does R favor/oppose NAFTA
+ 937286  93PIL: Does R strongly favor/not strongly favor NAFTA
+ 937287  93PIL: Does R strongly oppose/not strongly oppose
+                  NAFTA
+ 937288  93PIL: Summary: NAFTA approval
+
+               GENDER SOCIALIZATION IN RAISING CHILDREN
+
+ 937289  93PIL: Should parents encourage boys to be masculine
+                  and girls to be feminine
+ 937290  93PIL: Does R feel strongly/not strongly about parents
+                  encouraging gender socialization
+ 937291  93PIL: Summary: Gender socialization
+ 937292  93PIL: Should parents give a lot/some atttention to
+                  gender socialization
+ 937293  93PIL: Should parents pay any attention to gender
+                  socialization
+ 937294  93PIL: Summary: Parents gender association
+
+                R's STATUS AS A POLITICAL INDEPENDENT
+
+ 937295  93PIL: Does R think of him/herself as a political
+                  independent
+ 937296  93PIL: Does R consider him/herself a strong/not so
+                  strong independent
+
+                               CONGRESS
+
+ 937297  93PIL: R approves/disapproves of how Congress has been
+                  handling its job
+ 937298  93PIL: Strength of R's approval of Congress
+ 937299  93PIL: Strength of R's disapproval of Congress
+ 937300  93PIL: Summary: Congress approval
+ 937301  93PIL: R approves of almost everything/just most
+                  things Congress has done
+ 937302  93PIL: R disapproves of almost everything/just most
+                  things Congress has done
+ 937303  93PIL: Summary: Approval of amounts of things Congress
+                  has done
+
+      ATTENTION RECEIVED FROM U.S. SENATORS AND REPRESENTATIVES
+
+ 937304  93PIL: How much attention do Senators/Representatives
+                  pay to people who elected them
+
+                          R AGREES/DISAGREES
+
+ 937305  93PIL: We don't need political parties in America
+                  anymore
+ 937306  93PIL: If not for special interests in Washington most
+                  problems could be easily solved
+ 937307  93PIL: Media coverage of politics reflects media's own
+                  biases more than facts
+ 937308  93PIL: Government in this country has broken down and
+                  needs big changes
+ 937309  93PIL: We need to reduce the deficit, even if that
+                  means paying more taxes
+ 937310  93PIL: We need to reduce the deficit, even if that
+                  means spending less for health care and
+                  education
+
+                     PREFERENCE FOR PARTY SYSTEM
+
+ 937311  93PIL: Would R prefer two party system/candidates
+                  without party labels/one or more new parties
+
+         CONTACT WITH/SUPPORT FOR ROSS PEROT/UNITED WE STAND
+
+ 937312  93PIL: Has R been contacted by United We Stand since
+                  election last November
+ 937313  93PIL: Has R ever thought of him/herself as supporter
+                  of United We Stand
+ 937314  93PIL: Is R a paid member of United We Stand
+
+                      BUDGET POLITICS/PRIORITIES
+ 937315  93PIL: Does R have an opinion on budget politics
+ 937316  93PIL: Is maintaining spending or domestic
+                  programs/preventing tax increases/or
+                  cutting the deficit most important for
+                  government right now
+ 937317  93PIL: What is the second most important thing for
+                  government to do right now
+ 937318  93PIL: What should government do to cut the deficit -
+                  1st mention
+ 937319  93PIL: What should government do to cut the deficit -
+                  2nd mention
+ 937320  93PIL: What should government do to cut the deficit -
+                  3rd mention
+ 937321  93PIL: What should government do to cut the deficit -
+                  4th mention
+ 937322  93PIL: What should government do to cut the deficit -
+                  5th mention
+ 937323  93PIL: What should government do to cut the deficit -
+                  6th mention
+
+                         LAWS FOR HOMOSEXUALS
+
+ 937324  93PIL: R favors/oppose laws to protect homosexuals
+                  from job discrimination
+ 937325  93PIL: Strength of R's favor for laws to protect
+                  homosexuals
+ 937326  93PIL: Strength of R's opposition for laws to protect
+                  homosexuals
+ 937327  93PIL: Summary: Favor/oppose law to protect
+                  homosexuals
+ 937328  93PIL: Should homosexuals be allowed to serve in U.S.
+                  Armed Forces
+ 937329  93PIL: Strength of R's support for homosexuals in U.S.
+                  Armed Forces
+ 937330  93PIL: Strength of R's opposition to homosexuals in
+                  U.S. Armed Forces
+ 937331  93PIL: Summary: Homosexuals in U.S. Armed Forces
+ 937332  93PIL: Should homosexual couples be legally permitted
+                  to adopt children
+ 937333  93PIL: Strength of R's support for homosexual couples
+                  to adopt children
+ 937334  93PIL: Strength of R's opposition to homosexual
+                  couples adopting chidren
+ 937335  93PIL: Summary: Should homosexual couples be allowed
+                  to adopt children
+
+                        VIEWS OF HOMOSEXUALITY
+ 937336  93PIL: Is homosexuality something choosen or something
+                  people cannot change
+ 937337  93PIL: Strength of R's belief that homosexuality is
+                  something people choose
+ 937338  93PIL: Strength of R's belief that homosexuality
+                  cannot be changed
+ 937339  93PIL: Summary: Homosexuality cannot be changed
+ 937340  93PIL: Homosexuals seduce non-homosexuals/don't make
+                  sexual advances on people not interested
+ 937341  93PIL: Strength of R's belief that homosexuals try to
+                  seduce non-homosexuals
+ 937342  93PIL: Strength of R's belief that homosexuals don't
+                  make advances on people not interested
+ 937343  93PIL: Summary: Seduction and Homosexuality
+ 937344  93PIL: Does R find homosexuality disgusting
+ 937345  93PIL: Strength of R's feeling that homosexuality is
+                  disgusting
+ 937346  93PIL: Does homosexuality of others make R feel
+                  personally uncomfortable
+ 937347  93PIL: Summary: Homosexuality disgusting
+ 937348  93PIL: R worries/doesn't worry that working with a
+                  homosexual would pose special risk of geting
+                  AIDS or another disease
+ 937349  93PIL: Would R worry a lot/little about getting a
+                  disease from working with homosexuals
+ 937350  93PIL: Is R somewhat/very confident that working with
+                  homosexuals poses no special danger of disease
+ 937351  93PIL: Summary: Getting disease by working with
+                  gays/lesbians
+ 937352  93PIL: Homosexuality is unnatural/homosexuality is
+                  natural for some people
+ 937353  93PIL: Strength of R's feeling that homosexuality is
+                  unnatural
+ 937354  93PIL: Strength of R's feeling that homosexuality is
+                  natural for some people
+ 937355  93PIL: Summary: Homosexuality natural
+ 937356  93PIL: Homosexuals have too much/right amount/not
+                  enough influence
+ 937357  93PIL: Homosexuals have too much/only a little too
+                  much influence
+ 937358  93PIL: Homosexuals have far too little/slighlty too
+                  little influence
+ 937359  93PIL: Homosexuals have a little too much/slightly too
+                  little influence
+ 937360  93PIL: Summary: Homosexual influence
+ 937361  93PIL: Homosexuality is against God's will/acceptable
+                  to God/has nothing to do with God
+ 937362  93PIL: Strength of R's feeling that homosexuality is
+                  against God's will
+ 937363  93PIL: 93PIL: Strength of R's feeling that
+                  homosexuality is acceptable to God
+ 937364  93PIL: Strength of R's feeling that homosexuality has
+                  nothing to do with God
+ 937365  93PIL: Summary: Homosexuality and God
+
+                         PARTY IDENTIFICATION
+ 937366  93PIL: R's party identification
+ 937367  93PIL: Strength of R's party identification as
+                  Republican
+ 937368  93PIL: Strength of R's party identification as
+                  Democrat
+ 937369  93PIL: Is R closer to Republican or Democratic Party
+ 937370  93PIL: Summary: R's Party ID
+
+                        HEALTH CARE INSURANCE
+
+ 937371  93PIL: Should government/individuals/employers provide
+                  health insurance
+ 937372  93PIL: Strength of R's feeling regarding who should
+                  provide health insurance
+ 937373  93PIL: Summary: Government, health insurance
+
+                 CONSEQUENCES OF GOVERNMENT POLICIES
+
+ 937374  93PIL: Personal consequences of a national health
+                  insurance plan (Forms 1,2)
+ 937375  93PIL: Personal consequences (not coded)
+ 937376  93PIL: Consequences of national health insurance for
+                  country (Forms 3,4)
+ 937377  93PIL: Consequences of national health insurance for
+                  middle-class (Forms 3,4)
+ 937378  93PIL: Consequences of national health insurance for
+                  wealthy (Forms 3,4)
+ 937379  93PIL: Consequences of national health insurance for
+                  poor (Forms 3,4)
+ 937380  93PIL: Consequences of national health insurance for
+                  whites (Forms 3,4)
+ 937381  93PIL: Consequences of national health insurance for
+                  Blacks (Forms 3,4)
+ 937382  93PIL: Consequences of national health insurance for
+                  country (Forms 1,2)
+ 937383  93PIL: Personal consequences (not coded)
+ 937384  93PIL: Is R currently covered by any health insurance
+                  plan
+ 937385  93PIL: Tax dollars to public schools only or
+                  private/parochial also
+ 937386  93PIL: Strength of support for tax dollars for public
+                  schools
+ 937387  93PIL: Strength of support for tax dollars for
+                  private/parochial schools
+ 937388  93PIL: Summary: Approval of use of government funds
+                  regardless of school type
+ 937389  93PIL: Personal consequences of support for
+                  parochial/private schools (Form 1)
+ 937390  93PIL: Consequences of support for parochial/private
+                  schools for country (Form 2)
+ 937391  93PIL: Consequences of support for parochial/private
+                  schools for middle-class (Forms 1,2)
+ 937392  93PIL: Consequences of support for parochial/private
+                  schools for wealthy (Forms 1,2)
+ 937393  93PIL: Consequences of support for parochial/private
+                  schools for poor (Forms 1,2)
+ 937394  93PIL: Consequences of support for parochial/private
+                  schools for whites (Forms 1,2)
+ 937395  93PIL: Consequences of support for parochial/private
+                  schools for Blacks (Forms 1,2)
+ 937396  93PIL: Consequences of support for parochial/private
+                  schools for country (Form 1)
+ 937397  93PIL: Personal consequences of support for
+                  parochial/private schools (Form 2)
+
+                SATISFACTION WITH CHILDERN'S EDUCATION
+
+ 937398  93PIL: Does R have children/grandchildren
+                  enrolled in elementary/high school
+ 937399  93PIL: Number of children/grandchildren enrolled in
+                  elementary/high school
+ 937400  93PIL: Is R satisfied with chilren's education
+ 937401  93PIL: Extent of R's satisfaction with children's
+                  education
+ 937402  93PIL: Extent of R' dissatisfaction with children's
+                  education
+ 937403  93PIL: Summary: Satisfaction with children's education
+ 937404  93PIL: Type of school attended by R's child/children
+
+             PREFERENCE IN HIRING AND PROMOTION OF BLACKS
+ 937405  93PIL: Is R for/against preferential hiring/promotion
+                  of blacks
+ 937406  93PIL: Strength of R's approval of preferential
+                  hiring/promotion of blacks
+ 937407  93PIL: Strength of R' opposition to prefential
+                  hiring/promotion of blacks
+ 937408  93PIL: Summary: Preference in hiring and promotion of
+                  blacks
+ 937409  93PIL: Personal consequences of preferential
+                  hiring/promotion of blacks (Form 3)
+ 937410  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for country (Form 4)
+ 937411  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for middle-class (Forms 3,4)
+ 937412  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for wealthy (Forms 3,4)
+ 937413  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for poor (Forms 3,4)
+ 937414  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for whites (Forms 3,4)
+ 937415  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for Blacks (Forms 3,4)
+ 937416  93PIL: Consequences of preferential hiring/promotion
+                  of blacks for country (Forms 3)
+ 937417  93PIL: Personal consequences of preferential
+                  hiring/promotion of blacks (Form 4)
+ 937418  93PIL: Chances of R being passed over for
+                  job/promotion in favor of equally/less
+                  qualified employee
+ 937419  93PIL: R agrees/disagrees that affirmative action
+                  programs for blacks have reduced whites'
+                  chances for jobs/promotions
+ 937420  93PIL: Strength of R's agreement that affirmative
+                  action reduces chances for whites
+ 937421  93PIL: Strength of R's disagreement that affirmative
+                  action reduces chances for whites
+ 937422  93PIL: Summary: Affirmative action had reduced chances
+                  for whites
+
